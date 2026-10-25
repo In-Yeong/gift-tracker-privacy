@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "updatedAt": "2026-10-25",
   "items": [
     {
@@ -10,7 +10,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20261013_209/179187855799528jW9_PNG/67496656498626227_1139024713.png?type=o1000",
       "url": "https://naver.me/G6RAeuBB",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 1
     },
@@ -22,7 +22,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20240110_245/1704865107426m42LI_JPEG/106000887143445267_448253978.jpg?type=o1000",
       "url": "https://naver.me/5c8nlxCW",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 2
     },
@@ -34,7 +34,7 @@
       "imageUrl": "",
       "url": "https://naver.me/G2YsNAgr",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": false,
       "sort": 3
     },
@@ -46,7 +46,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20251022_97/1761126654332d2Mfb_PNG/14721566477662320_862374576.png?type=o1000",
       "url": "https://naver.me/GIIogAmq",
       "source": "naver",
-      "category": "차량용품",
+      "category": "리빙",
       "active": true,
       "sort": 4
     },
@@ -58,7 +58,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20241024_37/1729695870151ua7tA_JPEG/63828717943776536_1877807330.jpg?type=o1000",
       "url": "https://naver.me/xG0h74AJ",
       "source": "naver",
-      "category": "생활·주방",
+      "category": "주방",
       "active": true,
       "sort": 5
     },
@@ -70,7 +70,7 @@
       "imageUrl": "",
       "url": "https://link.coupang.com/a/h48aPVHPcy",
       "source": "coupang",
-      "category": "차·음료",
+      "category": "차·커피",
       "active": true,
       "sort": 6
     },
@@ -130,7 +130,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260907_20/1788763242004X3Hfp_JPEG/122896015116162998_553859393.jpg?type=o1000",
       "url": "https://naver.me/xhPG5J1H",
       "source": "naver",
-      "category": "차·음료",
+      "category": "차·커피",
       "active": true,
       "sort": 11
     },
@@ -142,7 +142,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260813_127/1786607874243a5RgU_JPEG/114814013035371313_1026029394.jpg?type=o1000",
       "url": "https://naver.me/FSvokecS",
       "source": "naver",
-      "category": "차량용품",
+      "category": "리빙",
       "active": true,
       "sort": 12
     },
@@ -154,7 +154,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260212_1/1770884924775gKKI7_JPEG/105017745880003748_28949932.jpg?type=o1000",
       "url": "https://naver.me/IDk8v6rL",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 13
     },
@@ -166,7 +166,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260714_17/1784010776884RWeje_JPEG/38183880678453210_598879047.jpg?type=o1000",
       "url": "https://naver.me/G9UgnmDD",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 14
     },
@@ -178,7 +178,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20221003_78/1664797944472yTvM5_JPEG/65933778227988181_422074897.jpg?type=o1000",
       "url": "https://naver.me/5GcNRTj0",
       "source": "naver",
-      "category": "차량용품",
+      "category": "리빙",
       "active": true,
       "sort": 15
     },
@@ -190,7 +190,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260129_98/1769652273017ztJ9f_JPEG/103785112165120049_1977282638.jpg?type=o1000",
       "url": "https://naver.me/GlRlQOcp",
       "source": "naver",
-      "category": "생활·주방",
+      "category": "주방",
       "active": true,
       "sort": 16
     },
@@ -202,7 +202,7 @@
       "imageUrl": "",
       "url": "https://naver.me/xsZb256V",
       "source": "naver",
-      "category": "생활·주방",
+      "category": "주방",
       "active": false,
       "sort": 17
     },
@@ -214,7 +214,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260520_88/17792825514344qV6h_JPEG/21964105208902875_1896864056.jpg?type=o1000",
       "url": "https://naver.me/FbV1rmSO",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 18
     },
@@ -226,7 +226,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20251114_11/1763107869796nEESE_PNG/17634852542490572_571641332.png?type=o1000",
       "url": "https://naver.me/GWWYgIEl",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 19
     },
@@ -238,7 +238,7 @@
       "imageUrl": "",
       "url": "https://link.coupang.com/a/h470Z6W1me",
       "source": "coupang",
-      "category": "차·음료",
+      "category": "차·커피",
       "active": true,
       "sort": 20
     },
@@ -262,7 +262,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260220_95/1771577354091xbH36_PNG/22138127959223770_2080626088.png?type=o1000",
       "url": "https://naver.me/GLhFeVRT",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 22
     },
@@ -274,7 +274,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20240807_95/1722995300435yARey_PNG/3440163198147999_1310170234.png?type=o1000",
       "url": "https://naver.me/5K6GKkYU",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 23
     },
@@ -286,7 +286,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20241128_71/1732759947054xNyqa_JPEG/57100975860821426_132371176.jpg?type=o1000",
       "url": "https://naver.me/F8lO2Wc7",
       "source": "naver",
-      "category": "차·음료",
+      "category": "차·커피",
       "active": true,
       "sort": 24
     },
@@ -310,7 +310,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260813_215/1786605461232an5g2_PNG/70977878353889123_2040808750.png?type=o1000",
       "url": "https://naver.me/xsZb250V",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 26
     },
@@ -322,7 +322,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260911_156/1789128858001RUapv_JPEG/99277307784317475_1222617001.jpg?type=o1000",
       "url": "https://naver.me/5c8nlxu5",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 27
     },
@@ -334,7 +334,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20251229_238/1766978377470MiN8v_PNG/84233251674052220_684566573.png?type=o1000",
       "url": "https://naver.me/xZKfgJLU",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 28
     },
@@ -346,7 +346,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260610_177/1781076288047aKWl6_PNG/3598318040129598_1145663015.png?type=o1000",
       "url": "https://naver.me/FZoZPXYh",
       "source": "naver",
-      "category": "차·음료",
+      "category": "차·커피",
       "active": true,
       "sort": 29
     },
@@ -358,7 +358,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20240902_259/17252550325419vkzd_JPEG/27830781290162889_1252403727.jpg?type=o1000",
       "url": "https://naver.me/G8f42woq",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 30
     },
@@ -370,7 +370,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20240829_49/1724862417248wm8ka_JPEG/51336306060135785_1113735614.jpg?type=o1000",
       "url": "https://naver.me/G6RAeusx",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 31
     },
@@ -382,7 +382,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20261001_28/17908103227999oFvI_JPEG/124943150958077577_422186745.jpg?type=o1000",
       "url": "https://naver.me/xk9JY5T8",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 32
     },
@@ -394,7 +394,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20250421_200/1745214772362Wcobd_JPEG/79347611477271628_684403218.jpg?type=o1000",
       "url": "https://naver.me/GlRlQOBs",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 33
     },
@@ -406,7 +406,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260821_289/1787274468731pyeqs_PNG/25426006227364110_461708031.png?type=o1000",
       "url": "https://naver.me/xjY5sjsk",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 34
     },
@@ -418,7 +418,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260805_33/1785895171136JDmcp_JPEG/22349543927408206_1769664252.jpg?type=o1000",
       "url": "https://naver.me/xfbudzdm",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 35
     },
@@ -430,7 +430,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260813_67/17865995514672eCda_PNG/47163464508046140_845148350.png?type=o1000",
       "url": "https://naver.me/GP2J1pZe",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 36
     },
@@ -442,7 +442,7 @@
       "imageUrl": "",
       "url": "https://naver.me/GP2J1pmi",
       "source": "naver",
-      "category": "생활·주방",
+      "category": "리빙",
       "active": false,
       "sort": 37
     },
@@ -454,7 +454,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20250916_24/17580292196727cOac_JPEG/2153769576746312_644773946.jpg?type=o1000",
       "url": "https://naver.me/xeFtMEdZ",
       "source": "naver",
-      "category": "차량용품",
+      "category": "리빙",
       "active": true,
       "sort": 38
     },
@@ -466,7 +466,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20240130_113/1706578973759J9Qi0_JPEG/107714807568788302_4640514.jpg?type=o1000",
       "url": "https://naver.me/5ajWGr2T",
       "source": "naver",
-      "category": "생활·주방",
+      "category": "주방",
       "active": true,
       "sort": 39
     },
@@ -478,7 +478,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260831_287/1788136896883CpSPR_JPEG/61123750030628871_433411905.jpg?type=o1000",
       "url": "https://naver.me/FmGz7M0b",
       "source": "naver",
-      "category": "차·음료",
+      "category": "차·커피",
       "active": true,
       "sort": 40
     },
@@ -502,7 +502,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260103_220/1767397746877Yd4oU_PNG/21846957667466438_127974687.png?type=o1000",
       "url": "https://naver.me/GP2J1qNs",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 42
     },
@@ -514,7 +514,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260908_115/1788828181124dlfiL_JPEG/28429389093479750_781935430.jpg?type=o1000",
       "url": "https://naver.me/xnOZ7qjT",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 43
     },
@@ -526,7 +526,7 @@
       "imageUrl": "",
       "url": "https://naver.me/GlRlQyuV",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": false,
       "sort": 44
     },
@@ -538,7 +538,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260908_121/17888339017908TRw9_PNG/122966764893778098_1423575424.png?type=o1000",
       "url": "https://naver.me/xrz5Ol8k",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 45
     },
@@ -550,7 +550,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260121_188/1768966500888YLSj1_JPEG/38520151017923649_1609077598.JPG?type=o1000",
       "url": "https://naver.me/xbKResI1",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 46
     },
@@ -562,7 +562,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5XcEsHde",
       "source": "naver",
-      "category": "생활·주방",
+      "category": "주방",
       "active": false,
       "sort": 47
     },
@@ -610,7 +610,7 @@
       "imageUrl": "",
       "url": "https://naver.me/GKIgEbzI",
       "source": "naver",
-      "category": "커피",
+      "category": "차·커피",
       "active": true,
       "sort": 51
     },
@@ -622,7 +622,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5zUg0XpG",
       "source": "naver",
-      "category": "커피",
+      "category": "차·커피",
       "active": true,
       "sort": 52
     },
@@ -634,7 +634,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5SKzNSdt",
       "source": "naver",
-      "category": "커피",
+      "category": "차·커피",
       "active": true,
       "sort": 53
     },
@@ -646,7 +646,7 @@
       "imageUrl": "",
       "url": "https://naver.me/xKybpt5t",
       "source": "naver",
-      "category": "커피",
+      "category": "차·커피",
       "active": true,
       "sort": 54
     },
@@ -658,7 +658,7 @@
       "imageUrl": "",
       "url": "https://naver.me/FCZt9rhs",
       "source": "naver",
-      "category": "커피",
+      "category": "차·커피",
       "active": true,
       "sort": 55
     },
@@ -670,7 +670,7 @@
       "imageUrl": "",
       "url": "https://naver.me/IDk8a3i0",
       "source": "naver",
-      "category": "차",
+      "category": "차·커피",
       "active": true,
       "sort": 56
     },
@@ -682,7 +682,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5dhNJASc",
       "source": "naver",
-      "category": "차",
+      "category": "차·커피",
       "active": true,
       "sort": 57
     },
@@ -694,7 +694,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5hozn1bs",
       "source": "naver",
-      "category": "차",
+      "category": "차·커피",
       "active": true,
       "sort": 58
     },
@@ -706,7 +706,7 @@
       "imageUrl": "",
       "url": "https://naver.me/FLEA2eW1",
       "source": "naver",
-      "category": "차",
+      "category": "차·커피",
       "active": true,
       "sort": 59
     },
@@ -718,7 +718,7 @@
       "imageUrl": "",
       "url": "https://naver.me/GntfERoS",
       "source": "naver",
-      "category": "차",
+      "category": "차·커피",
       "active": true,
       "sort": 60
     },
@@ -730,7 +730,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5FDdbEN3",
       "source": "naver",
-      "category": "쿠키·베이커리",
+      "category": "식품",
       "active": true,
       "sort": 61
     },
@@ -742,7 +742,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5suoRGLa",
       "source": "naver",
-      "category": "쿠키·베이커리",
+      "category": "식품",
       "active": true,
       "sort": 62
     },
@@ -754,7 +754,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5SKzNS8W",
       "source": "naver",
-      "category": "쿠키·베이커리",
+      "category": "식품",
       "active": true,
       "sort": 63
     },
@@ -766,7 +766,7 @@
       "imageUrl": "",
       "url": "https://naver.me/FFqX2aJ7",
       "source": "naver",
-      "category": "쿠키·베이커리",
+      "category": "식품",
       "active": true,
       "sort": 64
     },
@@ -778,7 +778,7 @@
       "imageUrl": "",
       "url": "https://naver.me/52aNdcuf",
       "source": "naver",
-      "category": "쿠키·베이커리",
+      "category": "식품",
       "active": true,
       "sort": 65
     },
@@ -790,7 +790,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5vJi03eB",
       "source": "naver",
-      "category": "초콜릿",
+      "category": "식품",
       "active": true,
       "sort": 66
     },
@@ -802,7 +802,7 @@
       "imageUrl": "",
       "url": "https://naver.me/GWWYwivB",
       "source": "naver",
-      "category": "초콜릿",
+      "category": "식품",
       "active": true,
       "sort": 67
     },
@@ -814,7 +814,7 @@
       "imageUrl": "",
       "url": "https://naver.me/FHOmrVgB",
       "source": "naver",
-      "category": "초콜릿",
+      "category": "식품",
       "active": true,
       "sort": 68
     },
@@ -826,7 +826,7 @@
       "imageUrl": "",
       "url": "https://naver.me/FuNgot58",
       "source": "naver",
-      "category": "초콜릿",
+      "category": "식품",
       "active": true,
       "sort": 69
     },
@@ -838,7 +838,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5vJi03pu",
       "source": "naver",
-      "category": "초콜릿",
+      "category": "식품",
       "active": true,
       "sort": 70
     },
@@ -850,7 +850,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5QsZkiBN",
       "source": "naver",
-      "category": "텀블러",
+      "category": "주방",
       "active": true,
       "sort": 71
     },
@@ -862,7 +862,7 @@
       "imageUrl": "",
       "url": "https://naver.me/FEgv93vn",
       "source": "naver",
-      "category": "텀블러",
+      "category": "주방",
       "active": true,
       "sort": 72
     },
@@ -874,7 +874,7 @@
       "imageUrl": "",
       "url": "https://naver.me/FnsxPVDm",
       "source": "naver",
-      "category": "텀블러",
+      "category": "주방",
       "active": true,
       "sort": 73
     },
@@ -886,7 +886,7 @@
       "imageUrl": "",
       "url": "https://naver.me/G0pLS2A4",
       "source": "naver",
-      "category": "텀블러",
+      "category": "주방",
       "active": true,
       "sort": 74
     },
@@ -898,7 +898,7 @@
       "imageUrl": "",
       "url": "https://naver.me/FyAJ0tV2",
       "source": "naver",
-      "category": "텀블러",
+      "category": "주방",
       "active": true,
       "sort": 75
     },
@@ -910,7 +910,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5B0XQwKp",
       "source": "naver",
-      "category": "머그·홈카페",
+      "category": "주방",
       "active": true,
       "sort": 76
     },
@@ -922,7 +922,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5qLf4cW2",
       "source": "naver",
-      "category": "머그·홈카페",
+      "category": "주방",
       "active": true,
       "sort": 77
     },
@@ -934,7 +934,7 @@
       "imageUrl": "",
       "url": "https://naver.me/GT4JC6NV",
       "source": "naver",
-      "category": "머그·홈카페",
+      "category": "주방",
       "active": true,
       "sort": 78
     },
@@ -946,7 +946,7 @@
       "imageUrl": "",
       "url": "https://naver.me/xB7FtMgs",
       "source": "naver",
-      "category": "머그·홈카페",
+      "category": "주방",
       "active": true,
       "sort": 79
     },
@@ -958,7 +958,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5t7Amfpu",
       "source": "naver",
-      "category": "머그·홈카페",
+      "category": "주방",
       "active": true,
       "sort": 80
     },
@@ -970,7 +970,7 @@
       "imageUrl": "",
       "url": "https://naver.me/xhPG1lVE",
       "source": "naver",
-      "category": "핸드케어",
+      "category": "뷰티",
       "active": true,
       "sort": 81
     },
@@ -982,7 +982,7 @@
       "imageUrl": "",
       "url": "https://naver.me/Fae6mO7z",
       "source": "naver",
-      "category": "핸드케어",
+      "category": "뷰티",
       "active": true,
       "sort": 82
     },
@@ -994,7 +994,7 @@
       "imageUrl": "",
       "url": "https://naver.me/FpwR7PjB",
       "source": "naver",
-      "category": "핸드케어",
+      "category": "뷰티",
       "active": true,
       "sort": 83
     },
@@ -1006,7 +1006,7 @@
       "imageUrl": "",
       "url": "https://naver.me/GRDRCuBC",
       "source": "naver",
-      "category": "핸드케어",
+      "category": "뷰티",
       "active": true,
       "sort": 84
     },
@@ -1018,7 +1018,7 @@
       "imageUrl": "",
       "url": "https://naver.me/GJZnq5WS",
       "source": "naver",
-      "category": "핸드케어",
+      "category": "뷰티",
       "active": true,
       "sort": 85
     },
@@ -1030,7 +1030,7 @@
       "imageUrl": "",
       "url": "https://naver.me/xAfcjAbG",
       "source": "naver",
-      "category": "바디케어",
+      "category": "뷰티",
       "active": true,
       "sort": 86
     },
@@ -1042,7 +1042,7 @@
       "imageUrl": "",
       "url": "https://naver.me/xKybptvf",
       "source": "naver",
-      "category": "바디케어",
+      "category": "뷰티",
       "active": true,
       "sort": 87
     },
@@ -1054,7 +1054,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5GcNic90",
       "source": "naver",
-      "category": "바디케어",
+      "category": "뷰티",
       "active": true,
       "sort": 88
     },
@@ -1066,7 +1066,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5mv5PvsJ",
       "source": "naver",
-      "category": "바디케어",
+      "category": "뷰티",
       "active": true,
       "sort": 89
     },
@@ -1078,7 +1078,7 @@
       "imageUrl": "",
       "url": "https://naver.me/G0pLSpzP",
       "source": "naver",
-      "category": "바디케어",
+      "category": "뷰티",
       "active": true,
       "sort": 90
     },
@@ -1090,7 +1090,7 @@
       "imageUrl": "",
       "url": "https://naver.me/xwo3QoyM",
       "source": "naver",
-      "category": "스피커",
+      "category": "디지털",
       "active": true,
       "sort": 91
     },
@@ -1102,7 +1102,7 @@
       "imageUrl": "",
       "url": "https://naver.me/xzHJpHZU",
       "source": "naver",
-      "category": "스피커",
+      "category": "디지털",
       "active": true,
       "sort": 92
     },
@@ -1114,7 +1114,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5WUwDUhT",
       "source": "naver",
-      "category": "스피커",
+      "category": "디지털",
       "active": true,
       "sort": 93
     },
@@ -1126,7 +1126,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5l24p2b6",
       "source": "naver",
-      "category": "스피커",
+      "category": "디지털",
       "active": true,
       "sort": 94
     },
@@ -1138,7 +1138,7 @@
       "imageUrl": "",
       "url": "https://naver.me/IgMx3MAB",
       "source": "naver",
-      "category": "스피커",
+      "category": "디지털",
       "active": true,
       "sort": 95
     },
@@ -1150,7 +1150,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5RAd6ATM",
       "source": "naver",
-      "category": "충전·배터리",
+      "category": "디지털",
       "active": true,
       "sort": 96
     },
@@ -1162,7 +1162,7 @@
       "imageUrl": "",
       "url": "https://naver.me/G9UglUba",
       "source": "naver",
-      "category": "충전·배터리",
+      "category": "디지털",
       "active": true,
       "sort": 97
     },
@@ -1174,7 +1174,7 @@
       "imageUrl": "",
       "url": "https://naver.me/xLNMIN1H",
       "source": "naver",
-      "category": "충전·배터리",
+      "category": "디지털",
       "active": true,
       "sort": 98
     },
@@ -1186,7 +1186,7 @@
       "imageUrl": "",
       "url": "https://naver.me/xoGlpGri",
       "source": "naver",
-      "category": "충전·배터리",
+      "category": "디지털",
       "active": true,
       "sort": 99
     },
@@ -1198,7 +1198,7 @@
       "imageUrl": "",
       "url": "https://naver.me/xJcO8ctn",
       "source": "naver",
-      "category": "충전·배터리",
+      "category": "디지털",
       "active": true,
       "sort": 100
     },
@@ -1210,7 +1210,7 @@
       "imageUrl": "",
       "url": "https://naver.me/xxobDoAn",
       "source": "naver",
-      "category": "전기주전자",
+      "category": "주방",
       "active": true,
       "sort": 101
     },
@@ -1222,7 +1222,7 @@
       "imageUrl": "",
       "url": "https://naver.me/F3E85Eo2",
       "source": "naver",
-      "category": "전기주전자",
+      "category": "주방",
       "active": true,
       "sort": 102
     },
@@ -1234,7 +1234,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5GcNichI",
       "source": "naver",
-      "category": "전기주전자",
+      "category": "주방",
       "active": true,
       "sort": 103
     },
@@ -1246,7 +1246,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5LQc9QQN",
       "source": "naver",
-      "category": "전기주전자",
+      "category": "주방",
       "active": true,
       "sort": 104
     },
@@ -1258,7 +1258,7 @@
       "imageUrl": "",
       "url": "https://naver.me/Fx2KO22M",
       "source": "naver",
-      "category": "전기주전자",
+      "category": "주방",
       "active": true,
       "sort": 105
     },
@@ -1270,7 +1270,7 @@
       "imageUrl": "",
       "url": "https://naver.me/FjmZIm2q",
       "source": "naver",
-      "category": "식기·주방",
+      "category": "주방",
       "active": true,
       "sort": 106
     },
@@ -1282,7 +1282,7 @@
       "imageUrl": "",
       "url": "https://naver.me/xgX05XKF",
       "source": "naver",
-      "category": "식기·주방",
+      "category": "주방",
       "active": true,
       "sort": 107
     },
@@ -1294,7 +1294,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5RAd6Aq6",
       "source": "naver",
-      "category": "식기·주방",
+      "category": "주방",
       "active": true,
       "sort": 108
     },
@@ -1306,7 +1306,7 @@
       "imageUrl": "",
       "url": "https://naver.me/GDQukQjr",
       "source": "naver",
-      "category": "식기·주방",
+      "category": "주방",
       "active": true,
       "sort": 109
     },
@@ -1318,7 +1318,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5qLf4LvW",
       "source": "naver",
-      "category": "식기·주방",
+      "category": "주방",
       "active": true,
       "sort": 110
     },
@@ -1330,7 +1330,7 @@
       "imageUrl": "",
       "url": "https://naver.me/GmpcdpZd",
       "source": "naver",
-      "category": "출산·아기옷",
+      "category": "출산·육아",
       "active": true,
       "sort": 111
     },
@@ -1342,7 +1342,7 @@
       "imageUrl": "",
       "url": "https://naver.me/GxrGKrUk",
       "source": "naver",
-      "category": "출산·아기옷",
+      "category": "출산·육아",
       "active": true,
       "sort": 112
     },
@@ -1354,7 +1354,7 @@
       "imageUrl": "",
       "url": "https://naver.me/xeFtNFoQ",
       "source": "naver",
-      "category": "출산·아기옷",
+      "category": "출산·육아",
       "active": true,
       "sort": 113
     },
@@ -1366,7 +1366,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5yhpdhVI",
       "source": "naver",
-      "category": "출산·아기옷",
+      "category": "출산·육아",
       "active": true,
       "sort": 114
     },
@@ -1378,7 +1378,7 @@
       "imageUrl": "",
       "url": "https://naver.me/Gi0GK0v8",
       "source": "naver",
-      "category": "출산·아기옷",
+      "category": "출산·육아",
       "active": true,
       "sort": 115
     },
@@ -1390,7 +1390,7 @@
       "imageUrl": "",
       "url": "https://naver.me/Gzdcedjn",
       "source": "naver",
-      "category": "치발기",
+      "category": "출산·육아",
       "active": true,
       "sort": 116
     },
@@ -1402,7 +1402,7 @@
       "imageUrl": "",
       "url": "https://naver.me/xnOZDOeq",
       "source": "naver",
-      "category": "치발기",
+      "category": "출산·육아",
       "active": true,
       "sort": 117
     },
@@ -1414,7 +1414,7 @@
       "imageUrl": "",
       "url": "https://naver.me/Gy3d43H9",
       "source": "naver",
-      "category": "치발기",
+      "category": "출산·육아",
       "active": true,
       "sort": 118
     },
@@ -1426,7 +1426,7 @@
       "imageUrl": "",
       "url": "https://naver.me/FQuvLuUp",
       "source": "naver",
-      "category": "치발기",
+      "category": "출산·육아",
       "active": true,
       "sort": 119
     },
@@ -1438,7 +1438,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5HyRcyfk",
       "source": "naver",
-      "category": "치발기",
+      "category": "출산·육아",
       "active": true,
       "sort": 120
     },
@@ -1450,7 +1450,7 @@
       "imageUrl": "",
       "url": "https://naver.me/GLhFghtq",
       "source": "naver",
-      "category": "보드게임",
+      "category": "취미",
       "active": true,
       "sort": 121
     },
@@ -1462,7 +1462,7 @@
       "imageUrl": "",
       "url": "https://naver.me/xeFtNFuF",
       "source": "naver",
-      "category": "보드게임",
+      "category": "취미",
       "active": true,
       "sort": 122
     },
@@ -1474,7 +1474,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5hoznoFl",
       "source": "naver",
-      "category": "보드게임",
+      "category": "취미",
       "active": true,
       "sort": 123
     },
@@ -1486,7 +1486,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5T0db0hi",
       "source": "naver",
-      "category": "보드게임",
+      "category": "취미",
       "active": true,
       "sort": 124
     },
@@ -1498,7 +1498,7 @@
       "imageUrl": "",
       "url": "https://naver.me/GLhFgh34",
       "source": "naver",
-      "category": "보드게임",
+      "category": "취미",
       "active": true,
       "sort": 125
     },
@@ -1510,7 +1510,7 @@
       "imageUrl": "",
       "url": "https://naver.me/G3vnrvkL",
       "source": "naver",
-      "category": "퍼즐·만들기",
+      "category": "취미",
       "active": true,
       "sort": 126
     },
@@ -1522,7 +1522,7 @@
       "imageUrl": "",
       "url": "https://naver.me/xeFtNF7B",
       "source": "naver",
-      "category": "퍼즐·만들기",
+      "category": "취미",
       "active": true,
       "sort": 127
     },
@@ -1534,7 +1534,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5nhgWh4J",
       "source": "naver",
-      "category": "퍼즐·만들기",
+      "category": "취미",
       "active": true,
       "sort": 128
     },
@@ -1546,7 +1546,7 @@
       "imageUrl": "",
       "url": "https://naver.me/54K8DKI7",
       "source": "naver",
-      "category": "퍼즐·만들기",
+      "category": "취미",
       "active": true,
       "sort": 129
     },
@@ -1558,7 +1558,7 @@
       "imageUrl": "",
       "url": "https://naver.me/FmGzZG5M",
       "source": "naver",
-      "category": "퍼즐·만들기",
+      "category": "취미",
       "active": true,
       "sort": 130
     },
@@ -1570,7 +1570,7 @@
       "imageUrl": "",
       "url": "https://naver.me/FvTPSTOo",
       "source": "naver",
-      "category": "지갑·가죽소품",
+      "category": "패션·잡화",
       "active": true,
       "sort": 131
     },
@@ -1582,7 +1582,7 @@
       "imageUrl": "",
       "url": "https://naver.me/FWTSaToc",
       "source": "naver",
-      "category": "지갑·가죽소품",
+      "category": "패션·잡화",
       "active": true,
       "sort": 132
     },
@@ -1594,7 +1594,7 @@
       "imageUrl": "",
       "url": "https://naver.me/52aNdape",
       "source": "naver",
-      "category": "지갑·가죽소품",
+      "category": "패션·잡화",
       "active": true,
       "sort": 133
     },
@@ -1606,7 +1606,7 @@
       "imageUrl": "",
       "url": "https://naver.me/51ui9uKc",
       "source": "naver",
-      "category": "지갑·가죽소품",
+      "category": "패션·잡화",
       "active": true,
       "sort": 134
     },
@@ -1618,7 +1618,7 @@
       "imageUrl": "",
       "url": "https://naver.me/I5whiwz3",
       "source": "naver",
-      "category": "지갑·가죽소품",
+      "category": "패션·잡화",
       "active": true,
       "sort": 135
     },
@@ -1630,7 +1630,7 @@
       "imageUrl": "",
       "url": "https://naver.me/G4dVadY3",
       "source": "naver",
-      "category": "양우산",
+      "category": "패션·잡화",
       "active": true,
       "sort": 136
     },
@@ -1642,7 +1642,7 @@
       "imageUrl": "",
       "url": "https://naver.me/GfrGzr9a",
       "source": "naver",
-      "category": "양우산",
+      "category": "패션·잡화",
       "active": true,
       "sort": 137
     },
@@ -1654,7 +1654,7 @@
       "imageUrl": "",
       "url": "https://naver.me/IIDyhDXE",
       "source": "naver",
-      "category": "양우산",
+      "category": "패션·잡화",
       "active": true,
       "sort": 138
     },
@@ -1666,7 +1666,7 @@
       "imageUrl": "",
       "url": "https://naver.me/xiLTHLlN",
       "source": "naver",
-      "category": "양우산",
+      "category": "패션·잡화",
       "active": true,
       "sort": 139
     },
@@ -1678,7 +1678,7 @@
       "imageUrl": "",
       "url": "https://naver.me/5QsZksaz",
       "source": "naver",
-      "category": "양우산",
+      "category": "패션·잡화",
       "active": true,
       "sort": 140
     },
@@ -1690,7 +1690,7 @@
       "imageUrl": "",
       "url": "https://naver.me/GmpcdpD7",
       "source": "naver",
-      "category": "필기구",
+      "category": "취미",
       "active": true,
       "sort": 141
     },
@@ -1702,7 +1702,7 @@
       "imageUrl": "",
       "url": "https://naver.me/FkaZ2aFZ",
       "source": "naver",
-      "category": "필기구",
+      "category": "취미",
       "active": true,
       "sort": 142
     },
@@ -1714,7 +1714,7 @@
       "imageUrl": "",
       "url": "https://naver.me/FiPpJP9U",
       "source": "naver",
-      "category": "필기구",
+      "category": "취미",
       "active": true,
       "sort": 143
     },
@@ -1726,7 +1726,7 @@
       "imageUrl": "",
       "url": "https://naver.me/IFEC3Ef8",
       "source": "naver",
-      "category": "필기구",
+      "category": "취미",
       "active": true,
       "sort": 144
     },
@@ -1738,7 +1738,7 @@
       "imageUrl": "",
       "url": "https://naver.me/xAfcjfIY",
       "source": "naver",
-      "category": "필기구",
+      "category": "취미",
       "active": true,
       "sort": 145
     },
@@ -1750,7 +1750,7 @@
       "imageUrl": "",
       "url": "https://naver.me/x8kN9k60",
       "source": "naver",
-      "category": "온열·휴식",
+      "category": "건강",
       "active": true,
       "sort": 146
     },
@@ -1762,7 +1762,7 @@
       "imageUrl": "",
       "url": "https://naver.me/FDcasctv",
       "source": "naver",
-      "category": "온열·휴식",
+      "category": "건강",
       "active": true,
       "sort": 147
     },
@@ -1774,7 +1774,7 @@
       "imageUrl": "",
       "url": "https://naver.me/GUTPrTja",
       "source": "naver",
-      "category": "온열·휴식",
+      "category": "건강",
       "active": true,
       "sort": 148
     },
@@ -1786,7 +1786,7 @@
       "imageUrl": "",
       "url": "https://naver.me/xYNFjNpI",
       "source": "naver",
-      "category": "온열·휴식",
+      "category": "건강",
       "active": true,
       "sort": 149
     },
@@ -1798,7 +1798,7 @@
       "imageUrl": "",
       "url": "https://naver.me/F2LkMLaa",
       "source": "naver",
-      "category": "온열·휴식",
+      "category": "건강",
       "active": true,
       "sort": 150
     },
@@ -1810,7 +1810,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/eb3e/6dc66d458aa1ed076188331318af323eb23fdca62ac6e9aa0f527d6dc9b4.jpg",
       "url": "https://link.coupang.com/a/h6SSsbyAoK",
       "source": "coupang",
-      "category": "쿠키·디저트",
+      "category": "식품",
       "active": true,
       "sort": 151
     },
@@ -1822,7 +1822,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/863625050713710-dd4ffc41-fe22-4ea7-bae9-27d178d61c4a.jpg",
       "url": "https://link.coupang.com/a/h6S2if4G7M",
       "source": "coupang",
-      "category": "쿠키·디저트",
+      "category": "식품",
       "active": true,
       "sort": 152
     },
@@ -1834,7 +1834,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/e5f1/9fc9a33e16ab5a714b9575510516b09afa84e33ded35e1c5b4c93aaeda72.png",
       "url": "https://link.coupang.com/a/h6S3nBMbbE",
       "source": "coupang",
-      "category": "쿠키·디저트",
+      "category": "식품",
       "active": true,
       "sort": 153
     },
@@ -1846,7 +1846,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/xlhbwulv/712be927916c4a119dc639219b07dbaf.jpg",
       "url": "https://link.coupang.com/a/h6S47e0itg",
       "source": "coupang",
-      "category": "쿠키·디저트",
+      "category": "식품",
       "active": true,
       "sort": 154
     },
@@ -1858,7 +1858,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/1627/9fdc8d6f7f138a63b5434f4ed2d6f77cfea50a893cb850778e701aa9ff99.png",
       "url": "https://link.coupang.com/a/h6S6c9hORE",
       "source": "coupang",
-      "category": "쿠키·디저트",
+      "category": "식품",
       "active": true,
       "sort": 155
     },
@@ -1870,7 +1870,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/bf8c/17a5ebae96be5956bba16af8f59c9ff283d7fd17830c49e25d980b3f2eca.png",
       "url": "https://link.coupang.com/a/h6S7Zm4vnM",
       "source": "coupang",
-      "category": "커피·음료",
+      "category": "차·커피",
       "active": true,
       "sort": 156
     },
@@ -1882,7 +1882,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/101244158724084-d9aafdc1-b865-49e1-95de-5385670dd71e.jpg",
       "url": "https://link.coupang.com/a/h6T5u4mfZY",
       "source": "coupang",
-      "category": "커피·음료",
+      "category": "차·커피",
       "active": true,
       "sort": 157
     },
@@ -1894,7 +1894,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/images/50d1cf73-2025-4971-b383-95fbe34a0490422724487507397382.png",
       "url": "https://link.coupang.com/a/h6S9cy2xGu",
       "source": "coupang",
-      "category": "커피·음료",
+      "category": "차·커피",
       "active": true,
       "sort": 158
     },
@@ -1906,7 +1906,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/499c/9360db9bf9f5cd2e73983a0ca2813878620de5920872960529576b0f8e01.jpg",
       "url": "https://link.coupang.com/a/h6T64xtHgW",
       "source": "coupang",
-      "category": "커피·음료",
+      "category": "차·커피",
       "active": true,
       "sort": 159
     },
@@ -1918,7 +1918,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/4ee1/492d8e459214bfd5052c939ee8a229ea0e93888ee5fc6409b2d4484d4bf3.jpg",
       "url": "https://link.coupang.com/a/h6TaCjD7M4",
       "source": "coupang",
-      "category": "커피·음료",
+      "category": "차·커피",
       "active": true,
       "sort": 160
     },
@@ -1930,7 +1930,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/ba8a/759910972fcf7ff8a3f2acdf6601b9c72b82a6efb76c042b5d2c217a25ec.png",
       "url": "https://link.coupang.com/a/h6Tb6lX5EW",
       "source": "coupang",
-      "category": "향수",
+      "category": "뷰티",
       "active": true,
       "sort": 161
     },
@@ -1942,7 +1942,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2031988824512138-da217c6c-b8ed-46ae-a5f4-c64d4111658e.jpg",
       "url": "https://link.coupang.com/a/h6Tdcp5epM",
       "source": "coupang",
-      "category": "향수",
+      "category": "뷰티",
       "active": true,
       "sort": 162
     },
@@ -1954,7 +1954,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2072040155074742-7282ccf6-3ba0-4aca-bf4c-b0e78c06d03d.jpg",
       "url": "https://link.coupang.com/a/h6TehwvTTo",
       "source": "coupang",
-      "category": "향수",
+      "category": "뷰티",
       "active": true,
       "sort": 163
     },
@@ -1966,7 +1966,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3d80/76d3a6a6b34ec910d131704e4cf8fc260ebb8a5428879c631a26f0108d09.jpg",
       "url": "https://link.coupang.com/a/h6TfUbNbYi",
       "source": "coupang",
-      "category": "향수",
+      "category": "뷰티",
       "active": true,
       "sort": 164
     },
@@ -1978,7 +1978,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/08/21/17/7/e06e677c-2e0a-4357-a30c-c921dec8840f.jpg",
       "url": "https://link.coupang.com/a/h6TgY1K7Ua",
       "source": "coupang",
-      "category": "향수",
+      "category": "뷰티",
       "active": true,
       "sort": 165
     },
@@ -1990,7 +1990,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/de06ef79-7f7d-402f-a98e-72fa3c994db2_fixing_v2.png",
       "url": "https://link.coupang.com/a/h6T9GjY2EK",
       "source": "coupang",
-      "category": "립·핸드케어",
+      "category": "뷰티",
       "active": true,
       "sort": 166
     },
@@ -2002,7 +2002,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/stage/manual/97a7fa67e89a99d6c3c131dfc1c226026301032f5d459447935ba1598fd3_1761268408127.jpg",
       "url": "https://link.coupang.com/a/h6TiyGhxU4",
       "source": "coupang",
-      "category": "립·핸드케어",
+      "category": "뷰티",
       "active": true,
       "sort": 167
     },
@@ -2014,7 +2014,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f092/0835cc96b5cabb02999fd4381e541467537e3595ca8eaccd3dfbfc05de41.jpg",
       "url": "https://link.coupang.com/a/h6TjDNy0MS",
       "source": "coupang",
-      "category": "립·핸드케어",
+      "category": "뷰티",
       "active": true,
       "sort": 168
     },
@@ -2026,7 +2026,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/04/07/15/5/cfd7c73e-c203-4100-aee7-7285480a1bff.jpg",
       "url": "https://link.coupang.com/a/h6Tlf4ONci",
       "source": "coupang",
-      "category": "립·핸드케어",
+      "category": "뷰티",
       "active": true,
       "sort": 169
     },
@@ -2038,7 +2038,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f631/08b817ed3101bff023f70840d91cfd82eec0ef49f204b183b663c4c56f14.png",
       "url": "https://link.coupang.com/a/h6Tml0rN36",
       "source": "coupang",
-      "category": "립·핸드케어",
+      "category": "뷰티",
       "active": true,
       "sort": 170
     },
@@ -2050,7 +2050,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/60143427125451-078c1c0d-1e9e-47f8-9e8c-441f68f003a7.jpg",
       "url": "https://link.coupang.com/a/h6TnUCeuTQ",
       "source": "coupang",
-      "category": "조명·인테리어",
+      "category": "리빙",
       "active": true,
       "sort": 171
     },
@@ -2062,7 +2062,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/180510511108385-4d178a44-4b49-45f7-81b8-1b43717c8c5d.jpg",
       "url": "https://link.coupang.com/a/h6To0o16IK",
       "source": "coupang",
-      "category": "조명·인테리어",
+      "category": "리빙",
       "active": true,
       "sort": 172
     },
@@ -2074,7 +2074,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/0ca2/db920d780156314c80d5580a1ca9255f9d0c46eb420c08dbc5f2d2e87a89.jpg",
       "url": "https://link.coupang.com/a/h6Tp5xamYK",
       "source": "coupang",
-      "category": "조명·인테리어",
+      "category": "리빙",
       "active": true,
       "sort": 173
     },
@@ -2086,7 +2086,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/82fb/633850ff2cd3424c0a6ae43f067713e6567286a0d55709ff0d2d7d8a4174.jpg",
       "url": "https://link.coupang.com/a/h6TrGQZAOG",
       "source": "coupang",
-      "category": "조명·인테리어",
+      "category": "리빙",
       "active": true,
       "sort": 174
     },
@@ -2098,7 +2098,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/fda1/8ece439125747682dc81735cddbb83ecf942e3279500f8c39cd41686a363.jpg",
       "url": "https://link.coupang.com/a/h6TsMSacii",
       "source": "coupang",
-      "category": "조명·인테리어",
+      "category": "리빙",
       "active": true,
       "sort": 175
     },
@@ -2110,7 +2110,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/1355/2f336bfc184e05fe60d690aa8e49465aa9c705359fcc1069d857a07b7fb1.jpg",
       "url": "https://link.coupang.com/a/h6TuffeSMm",
       "source": "coupang",
-      "category": "이어폰",
+      "category": "디지털",
       "active": true,
       "sort": 176
     },
@@ -2122,7 +2122,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/0fcf/12b27050f2e360c12fbdf0ed6963f2b6943edad609140b3cde3a09f3a249.jpg",
       "url": "https://link.coupang.com/a/h6UnjqXS4O",
       "source": "coupang",
-      "category": "이어폰",
+      "category": "디지털",
       "active": true,
       "sort": 177
     },
@@ -2134,7 +2134,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f39b/d95e3c4b7abd45339f82293e8360e23050160d3ebee6ef5723b9b552f293.jpg",
       "url": "https://link.coupang.com/a/h6Ubo2AKEC",
       "source": "coupang",
-      "category": "이어폰",
+      "category": "디지털",
       "active": true,
       "sort": 178
     },
@@ -2146,7 +2146,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/a35f/37208dc1e9aa444ed1096a91604cf76bfacc419232ada5d6b57126383816.jpg",
       "url": "https://link.coupang.com/a/h6Udqt8ad2",
       "source": "coupang",
-      "category": "이어폰",
+      "category": "디지털",
       "active": true,
       "sort": 179
     },
@@ -2158,7 +2158,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/8293/a621f1d1395b7e3d4fd7e26abaf8a618fd557801ecae086d8cab263bc154.jpg",
       "url": "https://link.coupang.com/a/h6TvG6zjrM",
       "source": "coupang",
-      "category": "이어폰",
+      "category": "디지털",
       "active": true,
       "sort": 180
     },
@@ -2170,7 +2170,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/5c26/d803635911f1d0f069251b7585ed79b79f6f576d07e0a50765b4e231c799.png",
       "url": "https://link.coupang.com/a/h6Txo1vdGm",
       "source": "coupang",
-      "category": "토스터·주방",
+      "category": "주방",
       "active": true,
       "sort": 181
     },
@@ -2182,7 +2182,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/194998081504598-fae012ea-eb00-4468-b9fa-f1a2bf023edc.jpg",
       "url": "https://link.coupang.com/a/h6TyuTs8hE",
       "source": "coupang",
-      "category": "토스터·주방",
+      "category": "주방",
       "active": true,
       "sort": 182
     },
@@ -2194,7 +2194,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/246529836762993-64aee9ac-0113-46ea-9b60-632050243e0c.jpg",
       "url": "https://link.coupang.com/a/h6UfvP8nJc",
       "source": "coupang",
-      "category": "토스터·주방",
+      "category": "주방",
       "active": true,
       "sort": 183
     },
@@ -2206,7 +2206,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/67796949408691-faf59c3b-36a4-4edd-8d43-59e5ebc871bf.jpg",
       "url": "https://link.coupang.com/a/h6TzZA4sI8",
       "source": "coupang",
-      "category": "토스터·주방",
+      "category": "주방",
       "active": true,
       "sort": 184
     },
@@ -2218,7 +2218,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/147c/e5267762ae417f55985e50029a20fb1c4fb33f1ab5365fedbbdc05eac37a.jpg",
       "url": "https://link.coupang.com/a/h6TA49C6vs",
       "source": "coupang",
-      "category": "토스터·주방",
+      "category": "주방",
       "active": true,
       "sort": 185
     },
@@ -2278,7 +2278,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/04/14/13/0/f8678118-879a-4346-9b60-93462a0d48e4.png",
       "url": "https://link.coupang.com/a/h6THkxwn36",
       "source": "coupang",
-      "category": "블록·꽃장식",
+      "category": "취미",
       "active": true,
       "sort": 190
     },
@@ -2290,7 +2290,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/133300318466256-15a45779-d219-466b-b2f1-78c2468876b5.jpg",
       "url": "https://link.coupang.com/a/h6TIp9cCg8",
       "source": "coupang",
-      "category": "블록·꽃장식",
+      "category": "취미",
       "active": true,
       "sort": 191
     },
@@ -2302,7 +2302,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/43eb/73bc46adaeb6c27314ce7db1abd97c5575821e03c491f0ab12ad986d73c1.png",
       "url": "https://link.coupang.com/a/h6TJv66qbs",
       "source": "coupang",
-      "category": "블록·꽃장식",
+      "category": "취미",
       "active": true,
       "sort": 192
     },
@@ -2314,7 +2314,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/d0c2/ec846eb7a4d619a1c72c5e27e61c80379a6f2821f814e61dc657aefb261c.png",
       "url": "https://link.coupang.com/a/h6TK7X6Sd2",
       "source": "coupang",
-      "category": "블록·꽃장식",
+      "category": "취미",
       "active": true,
       "sort": 193
     },
@@ -2326,7 +2326,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/04/14/14/4/c517b8ee-df6c-4477-ac4a-56ad66e84ba3.png",
       "url": "https://link.coupang.com/a/h6TMed6iuO",
       "source": "coupang",
-      "category": "블록·꽃장식",
+      "category": "취미",
       "active": true,
       "sort": 194
     },
@@ -2338,7 +2338,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/34ce/024c8a8ab539a86dd580b2e94778e17803ee9b14b7b1f321fcc267dcc8ad.png",
       "url": "https://link.coupang.com/a/h6TNOyWDjE",
       "source": "coupang",
-      "category": "보드게임",
+      "category": "취미",
       "active": true,
       "sort": 195
     },
@@ -2350,7 +2350,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/5acd/1e615f6952be3ef3b338eacb59b4a49d5b4a0085f064bdd40f3f90a491bf.jpg",
       "url": "https://link.coupang.com/a/h6TOTTzfiu",
       "source": "coupang",
-      "category": "보드게임",
+      "category": "취미",
       "active": true,
       "sort": 196
     },
@@ -2362,7 +2362,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f72f/b5d406f6b6a0893a1960ec7ecbe72eaeae0fdbc1c0aa8dac1cddc82e2103.jpg",
       "url": "https://link.coupang.com/a/h6TP0dK740",
       "source": "coupang",
-      "category": "보드게임",
+      "category": "취미",
       "active": true,
       "sort": 197
     },
@@ -2374,7 +2374,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/2702/78da719920d92cb333b0914e04fb73d91e7cb997bec6867dfa20c9e356bd.jpg",
       "url": "https://link.coupang.com/a/h6UjxmmPo4",
       "source": "coupang",
-      "category": "보드게임",
+      "category": "취미",
       "active": true,
       "sort": 198
     },
@@ -2386,7 +2386,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/1af4/3f6173dcd4387aecf527398f8ffacc75777c60027929c0cdc1ffef7b3b8e.jpg",
       "url": "https://link.coupang.com/a/h6SNiCS4qG",
       "source": "coupang",
-      "category": "보드게임",
+      "category": "취미",
       "active": true,
       "sort": 199
     },
@@ -2398,7 +2398,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/b304/37e08260236c3069e3c580d6f9297993336878fd93e211b6dac35e06a8ed.jpg",
       "url": "https://link.coupang.com/a/h6UlnCtSDc",
       "source": "coupang",
-      "category": "목도리·패션",
+      "category": "패션·잡화",
       "active": true,
       "sort": 200
     },
@@ -2410,7 +2410,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f87b/d4745024efba3c374be91f522c7a18388c36766c790b7d1ca2631b78d15b.png",
       "url": "https://link.coupang.com/a/h6TSkrYoLs",
       "source": "coupang",
-      "category": "목도리·패션",
+      "category": "패션·잡화",
       "active": true,
       "sort": 201
     },
@@ -2422,7 +2422,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/1461/829d1a9e5b840f211f5eb75c013e82f9f6a5bb9e3ece9e817ab633681391.jpg",
       "url": "https://link.coupang.com/a/h6TTq3OMsC",
       "source": "coupang",
-      "category": "목도리·패션",
+      "category": "패션·잡화",
       "active": true,
       "sort": 202
     },
@@ -2434,7 +2434,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/742c/b6711ceaf6b2f29683b48f447b23273a0b15e00cd0e7938844348fa9eea0.png",
       "url": "https://link.coupang.com/a/h6TUWjCcUK",
       "source": "coupang",
-      "category": "목도리·패션",
+      "category": "패션·잡화",
       "active": true,
       "sort": 203
     },
@@ -2446,7 +2446,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/9457/43309e1e6ac3f1d68ece7b6f57800b3b655b9fa28a955fbadb0ff9bdf135.jpg",
       "url": "https://link.coupang.com/a/h6TV4kx4G4",
       "source": "coupang",
-      "category": "목도리·패션",
+      "category": "패션·잡화",
       "active": true,
       "sort": 204
     },
@@ -2458,7 +2458,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/stage/manual/529e31c4c1b2183dc41fa813097e230465486b87113852110bc1acd7e0ac_1792567243045.jpg",
       "url": "https://link.coupang.com/a/h6TXGfpnQi",
       "source": "coupang",
-      "category": "운동·휴식",
+      "category": "건강",
       "active": true,
       "sort": 205
     },
@@ -2470,7 +2470,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/15338865964343-100caed4-9c91-4772-b61e-21977d03b6aa.jpg",
       "url": "https://link.coupang.com/a/h6TYMnVShg",
       "source": "coupang",
-      "category": "운동·휴식",
+      "category": "건강",
       "active": true,
       "sort": 206
     },
@@ -2482,7 +2482,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/83859302481207-7efa8e92-e99b-4c5a-80c0-9c59984eceee.jpg",
       "url": "https://link.coupang.com/a/h6TZTu1Yir",
       "source": "coupang",
-      "category": "운동·휴식",
+      "category": "건강",
       "active": true,
       "sort": 207
     },
@@ -2494,7 +2494,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2592893536904037-5dd786dc-1940-46bf-bac5-dbc20ae39492.jpg",
       "url": "https://link.coupang.com/a/h6T1oDwxky",
       "source": "coupang",
-      "category": "운동·휴식",
+      "category": "건강",
       "active": true,
       "sort": 208
     },
@@ -2506,7 +2506,7 @@
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/109181110793943-dc8f1fcc-b2a2-4cf5-9292-de465ebfb683.jpg",
       "url": "https://link.coupang.com/a/h6T2vtoWHI",
       "source": "coupang",
-      "category": "운동·휴식",
+      "category": "건강",
       "active": true,
       "sort": 209
     },
@@ -2518,7 +2518,7 @@
       "imageUrl": "https://thumbnail6.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/c141/7386136d7b3cda079f81d842059fbce0c1d9178410607a814e29a16902af.jpg",
       "url": "https://link.coupang.com/a/h6UpgHUzyT",
       "source": "coupang",
-      "category": "커피·음료",
+      "category": "차·커피",
       "active": true,
       "sort": 210
     },
@@ -2530,7 +2530,7 @@
       "imageUrl": "https://t2a.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/d371/889113d5ad6c08cfb621a47bbae72432f157b27c9efb6c0730dfa4544252.jpg",
       "url": "https://link.coupang.com/a/h6UswAEKPs",
       "source": "coupang",
-      "category": "꿀·건강",
+      "category": "식품",
       "active": true,
       "sort": 211
     },
@@ -2578,7 +2578,7 @@
       "imageUrl": "https://t1c.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/980462362772335-cb1f0da6-5024-4dc0-9155-cc1840e8d619.jpg",
       "url": "https://link.coupang.com/a/h7IUL5eRXM",
       "source": "coupang",
-      "category": "디퓨저·향기",
+      "category": "리빙",
       "active": true,
       "sort": 215
     },
@@ -2590,7 +2590,7 @@
       "imageUrl": "https://thumbnail7.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/acd7/99615a14a2b78ed29e6ee4719682c9c5d2893dc52f678c2d57092b92a891.png",
       "url": "https://link.coupang.com/a/h7IWeeiE56",
       "source": "coupang",
-      "category": "과일 선물",
+      "category": "식품",
       "active": true,
       "sort": 216
     },
@@ -2602,7 +2602,7 @@
       "imageUrl": "https://thumbnail4.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/17349294012010-2f843a0b-066b-4fd2-8d87-cabcb4442a41.jpg",
       "url": "https://link.coupang.com/a/h7IYxDanfM",
       "source": "coupang",
-      "category": "타올·생활",
+      "category": "리빙",
       "active": true,
       "sort": 217
     },
@@ -2614,7 +2614,7 @@
       "imageUrl": "",
       "url": "https://naver.me/xpjEbtJm",
       "source": "naver",
-      "category": "디퓨저·향기",
+      "category": "리빙",
       "active": true,
       "sort": 218
     },
@@ -2626,7 +2626,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20210614_69/1623671289205mpI4N_JPEG/24807131877395213_37875307.jpg?type=o1000",
       "url": "https://naver.me/xcgUiMN0",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 219
     },
@@ -2638,7 +2638,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260324_124/1774328073121bMdT0_JPEG/49935901612502266_678695998.jpg?type=o1000",
       "url": "https://naver.me/FoXJueep",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 220
     },
@@ -2650,7 +2650,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20250605_27/1749107909180XPLnH_JPEG/21616136074486424_355899164.jpg?type=o1000",
       "url": "https://naver.me/FyAJPba5",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 221
     },
@@ -2662,7 +2662,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260731_182/1785487285944Sj6mX_PNG/41307217022804470_585477814.png?type=o1000",
       "url": "https://naver.me/x9VSW6uB",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 222
     },
@@ -2674,7 +2674,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20230723_126/1690046210873gmk6a_JPEG/2567027633890242_971427837.jpg?type=o1000",
       "url": "https://naver.me/5reRqiZy",
       "source": "naver",
-      "category": "차·음료",
+      "category": "차·커피",
       "active": true,
       "sort": 223
     },
@@ -2686,7 +2686,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20250808_64/1754635588250Wf0KP_JPEG/47452957271593317_483241299.jpg?type=o1000",
       "url": "https://naver.me/F93a51Nv",
       "source": "naver",
-      "category": "차·음료",
+      "category": "차·커피",
       "active": true,
       "sort": 224
     },
@@ -2698,7 +2698,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20240104_182/1704332361130YC2r1_PNG/105468194905525611_336488418.png?type=o1000",
       "url": "https://naver.me/FbV1yPqS",
       "source": "naver",
-      "category": "차·음료",
+      "category": "차·커피",
       "active": true,
       "sort": 225
     },
@@ -2710,7 +2710,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20250308_267/1741411497983rxrKw_JPEG/38523328713507805_1310049705.jpg?type=o1000",
       "url": "https://naver.me/5AuH0xuN",
       "source": "naver",
-      "category": "차·음료",
+      "category": "차·커피",
       "active": true,
       "sort": 226
     },
@@ -2722,7 +2722,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20241210_30/17338230347174w7bo_JPEG/63238076732234309_1742341145.jpg?type=o1000",
       "url": "https://naver.me/x0OxcrLt",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 227
     },
@@ -2734,7 +2734,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260428_29/1777337042217c40VK_JPEG/111469875706853411_1762518073.jpg?type=o1000",
       "url": "https://naver.me/5dhNRtSa",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 228
     },
@@ -2746,7 +2746,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20240819_28/1724051646815waTwh_PNG/57524515566033496_285133664.png?type=o1000",
       "url": "https://naver.me/5MvObfeu",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 229
     },
@@ -2758,7 +2758,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20250328_297/1743129470247QONG1_JPEG/13503891368598083_1463887557.jpg?type=o1000",
       "url": "https://naver.me/xpjERM7W",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 230
     },
@@ -2770,7 +2770,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20250821_159/1755703652704F2qsN_JPEG/40660237752345573_1795552419.jpg?type=o1000",
       "url": "https://naver.me/GQGMkWlG",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 231
     },
@@ -2782,7 +2782,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260508_187/1778227811208yNuXF_PNG/112360631237684283_1723551130.png?type=o1000",
       "url": "https://naver.me/xJcOh3dt",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 232
     },
@@ -2794,7 +2794,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260624_229/1782289251777PKpPb_PNG/59811928623583916_1453282095.png?type=o1000",
       "url": "https://naver.me/xSBAbLC1",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 233
     },
@@ -2806,7 +2806,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260706_64/1783325623561uYwtR_PNG/128235628299359291_1654974325.png?type=o1000",
       "url": "https://naver.me/Fsopyfpo",
       "source": "naver",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 234
     },
@@ -2866,7 +2866,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20260410_286/17758057424685dRDR_PNG/104011881257203964_119252273.png?type=o1000",
       "url": "https://naver.me/FXnJiVMc",
       "source": "naver",
-      "category": "생활·주방",
+      "category": "주방",
       "active": true,
       "sort": 239
     },
@@ -2878,7 +2878,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20261024_125/1792818140796U7I87_PNG/55796668378248180_1255762386.png?type=o1000",
       "url": "https://naver.me/xIF7LnOn",
       "source": "naver",
-      "category": "생활·주방",
+      "category": "주방",
       "active": true,
       "sort": 240
     },
@@ -2890,7 +2890,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20230613_196/16866163660788mEXq_JPEG/1012824757942725_88616239.jpg?type=o1000",
       "url": "https://naver.me/52aNSs3M",
       "source": "naver",
-      "category": "생활·주방",
+      "category": "주방",
       "active": true,
       "sort": 241
     },
@@ -2902,7 +2902,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20241024_210/17297385897670yIvu_JPEG/63871437558164316_462537059.jpg?type=o1000",
       "url": "https://naver.me/5VxqEZIB",
       "source": "naver",
-      "category": "생활·주방",
+      "category": "주방",
       "active": true,
       "sort": 242
     },
@@ -2974,7 +2974,7 @@
       "imageUrl": "https://shop-phinf.pstatic.net/20241209_273/1733734940738FciXR_JPEG/52293035144246683_451487186.jpg?type=o1000",
       "url": "https://naver.me/F2Lk4IvP",
       "source": "naver",
-      "category": "조명·인테리어",
+      "category": "리빙",
       "active": true,
       "sort": 248
     },
@@ -2986,7 +2986,7 @@
       "imageUrl": "https://thumbnail5.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/1210987428062805-b07a2e33-d204-4098-bb5a-1d67aeadea82.jpg",
       "url": "https://link.coupang.com/a/h7JI0Ck2H7",
       "source": "coupang",
-      "category": "텀블러",
+      "category": "주방",
       "active": true,
       "sort": 249
     },
@@ -2998,7 +2998,7 @@
       "imageUrl": "https://thumbnail9.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/86207035075919-b70713f4-68f4-4640-aebb-6cd4c0ed1e2a.jpg",
       "url": "https://link.coupang.com/a/h7JJ1gPLJ6",
       "source": "coupang",
-      "category": "텀블러",
+      "category": "주방",
       "active": true,
       "sort": 250
     },
@@ -3010,7 +3010,7 @@
       "imageUrl": "https://thumbnail7.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/7038/e3a1171343337901f6069186397e0f6006f97a24c89b1dd5490beb644b8c.jpg",
       "url": "https://link.coupang.com/a/h7JKBoZ4hg",
       "source": "coupang",
-      "category": "텀블러",
+      "category": "주방",
       "active": true,
       "sort": 251
     },
@@ -3022,7 +3022,7 @@
       "imageUrl": "https://thumbnail5.coupangcdn.com/thumbnails/remote/212x212ex/image/rs_quotation_api/asnnbskj/c6de4309298540aea4842b59d823f075.jpg",
       "url": "https://link.coupang.com/a/h7JLbe6AsS",
       "source": "coupang",
-      "category": "텀블러",
+      "category": "주방",
       "active": true,
       "sort": 252
     },
@@ -3034,7 +3034,7 @@
       "imageUrl": "https://thumbnail1.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/2852/a0d57dbbba3f8d2da1010cceaf41ab7927d0b8aa4ed36aeb2e1329f0da32.png",
       "url": "https://link.coupang.com/a/h7JLL8xFjU",
       "source": "coupang",
-      "category": "텀블러",
+      "category": "주방",
       "active": true,
       "sort": 253
     },
@@ -3046,7 +3046,7 @@
       "imageUrl": "https://t1c.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2021/07/30/11/0/a34203f7-0d1d-448e-9a52-0d37b972dfe5.jpg",
       "url": "https://link.coupang.com/a/h7JMTAiXoy",
       "source": "coupang",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 254
     },
@@ -3058,7 +3058,7 @@
       "imageUrl": "https://t3a.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/47ae/43cb66c8f3088cded5bd6bd68fe0f78300a459f6149ed2932664b856a42d.jpg",
       "url": "https://link.coupang.com/a/h7JNwbeYlE",
       "source": "coupang",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 255
     },
@@ -3070,7 +3070,7 @@
       "imageUrl": "https://thumbnail14.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/327d/c9e8fc83dcad5caba31ae3a13b48dbf682577122a069f4253213f6901efc.jpg",
       "url": "https://link.coupang.com/a/h7JN59gqaa",
       "source": "coupang",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 256
     },
@@ -3082,7 +3082,7 @@
       "imageUrl": "https://thumbnail1.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/image_audit/prod/cd0a5dd3-a1b0-4329-bafa-4a9bbab0535c_fixing_v2.png",
       "url": "https://link.coupang.com/a/h7JOF0j4VM",
       "source": "coupang",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 257
     },
@@ -3094,7 +3094,7 @@
       "imageUrl": "https://thumbnail3.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/1166919011671954-d86d3797-e326-46de-8f87-7b826737ebd9.png",
       "url": "https://link.coupang.com/a/h7JPfxnDoa",
       "source": "coupang",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 258
     },
@@ -3106,7 +3106,7 @@
       "imageUrl": "https://thumbnail12.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2026/07/31/17/0/9d3f1981-4378-4b19-9b12-f6aa9fc3c7dc.jpg",
       "url": "https://link.coupang.com/a/h7JQhfEADs",
       "source": "coupang",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 259
     },
@@ -3118,7 +3118,7 @@
       "imageUrl": "https://t3a.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/52297749199582-ca7843c6-fa53-488c-88c1-3ddbddd23e79.png",
       "url": "https://link.coupang.com/a/h7JQRNbJIW",
       "source": "coupang",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 260
     },
@@ -3130,7 +3130,7 @@
       "imageUrl": "https://t4a.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2026/04/07/17/1/271230cf-224b-44bf-b8d4-317d164d4302.jpg",
       "url": "https://link.coupang.com/a/h7JRrGulwa",
       "source": "coupang",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 261
     },
@@ -3142,7 +3142,7 @@
       "imageUrl": "https://thumbnail2.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2026/08/25/15/6/e51652d9-bd5e-4112-9d3c-eb71a1427df2.jpg",
       "url": "https://link.coupang.com/a/h7JR1Y9NRI",
       "source": "coupang",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 262
     },
@@ -3154,7 +3154,7 @@
       "imageUrl": "https://thumbnail1.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/77bb/3b43a2b9eda0842499fe656797e093a0af23158269e43d94babe318e13e9.png",
       "url": "https://link.coupang.com/a/h7JSBusTAW",
       "source": "coupang",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 263
     },
@@ -3166,7 +3166,7 @@
       "imageUrl": "https://t5c.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/3c37/c11e2275fe2878b4bef1c3008dcb2f0da0edef0dad5a2d8c149e9084f728.jpg",
       "url": "https://link.coupang.com/a/h7JUEhcsHA",
       "source": "coupang",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 264
     },
@@ -3178,7 +3178,7 @@
       "imageUrl": "https://thumbnail7.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/004e/f759e9ca1f9a5139bbb3baa1f1fb4513de37aff598cd1a78fd6387e1695f.jpg",
       "url": "https://link.coupang.com/a/h7JVi0l1Pw",
       "source": "coupang",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 265
     },
@@ -3190,7 +3190,7 @@
       "imageUrl": "https://thumbnail10.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/94371407265366-5416c75a-a53a-4d10-9a79-daa2666384a7.jpg",
       "url": "https://link.coupang.com/a/h7JVSWhJK0",
       "source": "coupang",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 266
     },
@@ -3202,7 +3202,7 @@
       "imageUrl": "https://thumbnail6.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/81ca/dc8a4045ed924a61bff6dd993c97e574d08ae27c0d75ba526320a42402ae.png",
       "url": "https://link.coupang.com/a/h7JWsBKRJl",
       "source": "coupang",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 267
     },
@@ -3214,7 +3214,7 @@
       "imageUrl": "https://t1a.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2025/08/14/18/5/73685d64-a8c0-49ec-9002-bdccfd1d149c.png",
       "url": "https://link.coupang.com/a/h7JW2K3yMK",
       "source": "coupang",
-      "category": "먹거리",
+      "category": "식품",
       "active": true,
       "sort": 268
     },
@@ -3226,7 +3226,7 @@
       "imageUrl": "https://thumbnail15.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/d3bb/cdc9c8231e27104c0122862aa121a4a45c70916098ae68f72deb18aa5f04.jpg",
       "url": "https://link.coupang.com/a/h7JX6TI6dE",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "주방",
       "active": true,
       "sort": 269
     },
@@ -3238,7 +3238,7 @@
       "imageUrl": "https://thumbnail14.coupangcdn.com/thumbnails/remote/212x212ex/image/1025_amir_coupang_oct_80k/8a09/986ef23b1b354fd0b45bf397e5017cf7ce3462f7b9735cab139ad4f52daf.jpg",
       "url": "https://link.coupang.com/a/h7JYHF4cO4",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "주방",
       "active": true,
       "sort": 270
     },
@@ -3250,7 +3250,7 @@
       "imageUrl": "https://t2a.coupangcdn.com/thumbnails/remote/212x212ex/image/rs_quotation_api/aefxrimb/7a4780f2143247498eab09f15c2ac2d9.jpg",
       "url": "https://link.coupang.com/a/h7JZjcN91U",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "주방",
       "active": true,
       "sort": 271
     },
@@ -3262,7 +3262,7 @@
       "imageUrl": "https://t2c.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/567664920043943-171b472f-ba40-47a5-be1c-be5a3e9e5e8a.jpg",
       "url": "https://link.coupang.com/a/h7JZTQ28gm",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "주방",
       "active": true,
       "sort": 272
     },
@@ -3274,7 +3274,7 @@
       "imageUrl": "https://thumbnail3.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/467232754365075-346edcb6-c716-48a0-9bd3-09800d8bd322.jpg",
       "url": "https://link.coupang.com/a/h7J0tZe7dQ",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "주방",
       "active": true,
       "sort": 273
     },
@@ -3286,7 +3286,7 @@
       "imageUrl": "https://thumbnail4.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2026/06/03/18/8/24db9f14-7933-472b-9e98-bd3e11afac3e.jpg",
       "url": "https://link.coupang.com/a/h7J13LSnim",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "주방",
       "active": true,
       "sort": 274
     },
@@ -3298,7 +3298,7 @@
       "imageUrl": "https://thumbnail11.coupangcdn.com/thumbnails/remote/212x212ex/image/rs_quotation_api/iuiudqie/af2023e09818473f8b3e25ca2dfac43d.jpg",
       "url": "https://link.coupang.com/a/h7J2DXWlGM",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "주방",
       "active": true,
       "sort": 275
     },
@@ -3310,7 +3310,7 @@
       "imageUrl": "https://thumbnail1.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2025/05/02/18/0/b943f4e8-821f-4ea4-b8a5-c305e491ab9d.jpg",
       "url": "https://link.coupang.com/a/h7J3fAmhuS",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "주방",
       "active": true,
       "sort": 276
     },
@@ -3322,7 +3322,7 @@
       "imageUrl": "https://thumbnail5.coupangcdn.com/thumbnails/remote/212x212ex/image/rs_quotation_api/2cmpofh1/8797e52162f041ce94020511e6aa616f.jpg",
       "url": "https://link.coupang.com/a/h7J3RC7nXM",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "주방",
       "active": true,
       "sort": 277
     },
@@ -3334,7 +3334,7 @@
       "imageUrl": "https://thumbnail2.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/69740316916181-d0a18bcb-e18c-4eab-9643-b8728d807b93.jpg",
       "url": "https://link.coupang.com/a/h7J4si3WYC",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "주방",
       "active": true,
       "sort": 278
     },
@@ -3346,7 +3346,7 @@
       "imageUrl": "https://thumbnail5.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2037645813040898-02b43b46-40c9-4c59-a242-bab7845a9a85.jpg",
       "url": "https://link.coupang.com/a/h7J5xl67jM",
       "source": "coupang",
-      "category": "목도리·패션",
+      "category": "패션·잡화",
       "active": true,
       "sort": 279
     },
@@ -3358,7 +3358,7 @@
       "imageUrl": "https://thumbnail11.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/b98e/280baabf1538fbbe2a04dbaa3e95b6a40ad5ef0a879b7dd23762acf863a8.jpg",
       "url": "https://link.coupang.com/a/h7J59jOXSK",
       "source": "coupang",
-      "category": "목도리·패션",
+      "category": "패션·잡화",
       "active": true,
       "sort": 280
     },
@@ -3370,7 +3370,7 @@
       "imageUrl": "https://t2c.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2008202114600829-d3b8902b-6d55-4fa2-8b60-fcb9062841f8.jpg",
       "url": "https://link.coupang.com/a/h7J6J139W0",
       "source": "coupang",
-      "category": "목도리·패션",
+      "category": "패션·잡화",
       "active": true,
       "sort": 281
     },
@@ -3382,7 +3382,7 @@
       "imageUrl": "https://thumbnail3.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/bd60/400d1bfe3b069004a246b322a3f8d0f263d0839821b550d0aa3616d4f916.jpg",
       "url": "https://link.coupang.com/a/h7J7kKxg7w",
       "source": "coupang",
-      "category": "목도리·패션",
+      "category": "패션·잡화",
       "active": true,
       "sort": 282
     },
@@ -3454,7 +3454,7 @@
       "imageUrl": "https://thumbnail14.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2025/12/01/12/5/4a1267fd-7c35-414c-93df-ad0c0c0109d1.jpg",
       "url": "https://link.coupang.com/a/h7KbSNoleC",
       "source": "coupang",
-      "category": "디퓨저·향기",
+      "category": "리빙",
       "active": true,
       "sort": 288
     },
@@ -3466,7 +3466,7 @@
       "imageUrl": "https://thumbnail12.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/5c6d/e1777c82618252ecd8932c191bb30a4eb7c31aaa85b343aeb0de25eeee10.jpg",
       "url": "https://link.coupang.com/a/h7KctKV2js",
       "source": "coupang",
-      "category": "디퓨저·향기",
+      "category": "리빙",
       "active": true,
       "sort": 289
     },
@@ -3478,7 +3478,7 @@
       "imageUrl": "https://thumbnail3.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/86559702356280-364bb6ba-36b4-4e84-adca-c874bd0ed87f.png",
       "url": "https://link.coupang.com/a/h7Kc4DEybc",
       "source": "coupang",
-      "category": "디퓨저·향기",
+      "category": "리빙",
       "active": true,
       "sort": 290
     },
@@ -3490,7 +3490,7 @@
       "imageUrl": "https://t2a.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/7b67/67049e926908b43eb83a455ec2d8cceb50ae3370f72f14c1089421fcea1b.jpg",
       "url": "https://link.coupang.com/a/h7KdEYSoHk",
       "source": "coupang",
-      "category": "디퓨저·향기",
+      "category": "리빙",
       "active": true,
       "sort": 291
     },
@@ -3502,7 +3502,7 @@
       "imageUrl": "https://thumbnail9.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/111971744075885-97e45f85-509f-41e6-bb83-2763cb898895.jpg",
       "url": "https://link.coupang.com/a/h7Kefk75K8",
       "source": "coupang",
-      "category": "디퓨저·향기",
+      "category": "리빙",
       "active": true,
       "sort": 292
     },
@@ -3514,7 +3514,7 @@
       "imageUrl": "https://thumbnail9.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/df53/a50345ea7afcbb573e65c134f9fb65c779136b578f19056ac8e6a74661f9.jpg",
       "url": "https://link.coupang.com/a/h7KfkHhfmS",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "리빙",
       "active": true,
       "sort": 293
     },
@@ -3526,7 +3526,7 @@
       "imageUrl": "https://thumbnail13.coupangcdn.com/thumbnails/remote/212x212ex/image/rs_quotation_api/ijbso2l8/0a1866b787fe423b8db2855463c195c4.jpg",
       "url": "https://link.coupang.com/a/h7KfVcq3rg",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "리빙",
       "active": true,
       "sort": 294
     },
@@ -3538,7 +3538,7 @@
       "imageUrl": "https://t2c.coupangcdn.com/thumbnails/remote/212x212ex/image/rs_quotation_api/7inyfeir/f549b2fccc0d4601ae60d6011ba9ceb2.jpg",
       "url": "https://link.coupang.com/a/h7KgwZ4H24",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "리빙",
       "active": true,
       "sort": 295
     },
@@ -3550,7 +3550,7 @@
       "imageUrl": "https://t1c.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/507d/fbfe4956de25a1ae7344a19cd16570b05d163f2b46e8a5ca781dd64baec4.jpg",
       "url": "https://link.coupang.com/a/h7Kg7L2neu",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "리빙",
       "active": true,
       "sort": 296
     },
@@ -3562,7 +3562,7 @@
       "imageUrl": "https://thumbnail9.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/541b/15fb60bfffb3cb271b781c426fc63201223d356e09eaa50315a65e4074b8.jpg",
       "url": "https://link.coupang.com/a/h7KhJvMlY5",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "리빙",
       "active": true,
       "sort": 297
     },
@@ -3622,7 +3622,7 @@
       "imageUrl": "https://thumbnail1.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/2432/9cb1ac413ee85424a1fb113ddb3a221eb9e12a3ca853cf986fb6eef9ab7d.jpg",
       "url": "https://link.coupang.com/a/h7KmblV5iu",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "디지털",
       "active": true,
       "sort": 302
     },
@@ -3634,7 +3634,7 @@
       "imageUrl": "https://thumbnail4.coupangcdn.com/thumbnails/remote/212x212ex/image/1025_amir_coupang_oct_80k/8383/ba757bd78e284d55b1d4d542b1e984e24d044dae52ba4c39ccdd46831097.jpg",
       "url": "https://link.coupang.com/a/h7KmLAS4wS",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "디지털",
       "active": true,
       "sort": 303
     },
@@ -3646,7 +3646,7 @@
       "imageUrl": "https://thumbnail13.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2025/08/26/17/9/1dccc35d-bd4c-4069-b83e-d685691a7e5c.jpg",
       "url": "https://link.coupang.com/a/h7KSyJZSBU",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "디지털",
       "active": true,
       "sort": 304
     },
@@ -3658,7 +3658,7 @@
       "imageUrl": "https://thumbnail11.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2025/05/29/14/7/cf4a40a0-55e3-4ec8-9298-b5c787e6ce49.jpg",
       "url": "https://link.coupang.com/a/h7KnlvZO44",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "디지털",
       "active": true,
       "sort": 305
     },
@@ -3670,7 +3670,7 @@
       "imageUrl": "https://thumbnail13.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/ba24/278b1c4a67b4790a441564303f45fc760ad430b0c444eab40f503ee8f697.jpg",
       "url": "https://link.coupang.com/a/h7KnVCer80",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "디지털",
       "active": true,
       "sort": 306
     },
@@ -3682,7 +3682,7 @@
       "imageUrl": "https://thumbnail8.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/0310/520f8b2adff949907107fbd23eb2a21b8112fd82d7418fb91c83ea8e39dc.jpg",
       "url": "https://link.coupang.com/a/h7Ko1uUVJA",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "디지털",
       "active": true,
       "sort": 307
     },
@@ -3694,7 +3694,7 @@
       "imageUrl": "https://t1a.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/image_audit/stage/manual/a4d3766a0f2ad7b2342c0297bf38d03490ca341c66320c2e13860bf57418_1776215549236.jpg",
       "url": "https://link.coupang.com/a/h7KpBvZf08",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "디지털",
       "active": true,
       "sort": 308
     },
@@ -3706,7 +3706,7 @@
       "imageUrl": "https://thumbnail6.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2024/09/24/12/4/b7a21dcf-77e7-4765-a40d-7d763d423eb0.jpg",
       "url": "https://link.coupang.com/a/h7KqbShYCi",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "디지털",
       "active": true,
       "sort": 309
     },
@@ -3718,7 +3718,7 @@
       "imageUrl": "https://t2c.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2155717486788992-bd8824e4-eec6-4c68-9a15-d5f20d21aab7.jpg",
       "url": "https://link.coupang.com/a/h7KqMvfbBk",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "디지털",
       "active": true,
       "sort": 310
     },
@@ -3730,7 +3730,7 @@
       "imageUrl": "https://t3a.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/4e0f/976ef2e14a3e40f1932b465ceec0c939eb8a24dc62a81eacdcbe6e602160.jpg",
       "url": "https://link.coupang.com/a/h7KrmLvCvs",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "디지털",
       "active": true,
       "sort": 311
     },
@@ -3742,7 +3742,7 @@
       "imageUrl": "https://thumbnail10.coupangcdn.com/thumbnails/remote/212x212ex/image/1025_amir_coupang_oct_80k/2fbb/e2bedbf36c1afc281e13ba073d81cdf70eaea975efaff26a51b3738448a6.jpg",
       "url": "https://link.coupang.com/a/h7KsvxD6J2",
       "source": "coupang",
-      "category": "충전·배터리",
+      "category": "디지털",
       "active": true,
       "sort": 312
     },
@@ -3754,7 +3754,7 @@
       "imageUrl": "https://thumbnail13.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/344522090099043-221bb615-0cab-4239-916c-53ddb30aec33.jpg",
       "url": "https://link.coupang.com/a/h7Ks6dSgSW",
       "source": "coupang",
-      "category": "충전·배터리",
+      "category": "디지털",
       "active": true,
       "sort": 313
     },
@@ -3766,7 +3766,7 @@
       "imageUrl": "https://t4a.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2026/01/29/17/2/49abaa1e-8769-4e3a-b589-1e44f6c6f622.jpg",
       "url": "https://link.coupang.com/a/h7KtHsZf0S",
       "source": "coupang",
-      "category": "충전·배터리",
+      "category": "디지털",
       "active": true,
       "sort": 314
     },
@@ -3778,7 +3778,7 @@
       "imageUrl": "https://thumbnail10.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2026/02/23/14/6/9c6d18b7-0e50-4b95-8202-07561291d82f.png",
       "url": "https://link.coupang.com/a/h7KuiMmnGm",
       "source": "coupang",
-      "category": "충전·배터리",
+      "category": "디지털",
       "active": true,
       "sort": 315
     },
@@ -3790,7 +3790,7 @@
       "imageUrl": "https://thumbnail11.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/ab6e/ea638878e0edec1bd98bc73435c813d315ad92ecf3e32cb2e8e98626e7d8.jpg",
       "url": "https://link.coupang.com/a/h7KvfCMcWO",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "리빙",
       "active": true,
       "sort": 316
     },
@@ -3802,7 +3802,7 @@
       "imageUrl": "https://thumbnail13.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/2f0f/9468c7a5598bd6bbbf7d77b64d12e26a2b48fdaa1cc64221873f99bf2c49.jpg",
       "url": "https://link.coupang.com/a/h7KvP6AJky",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "리빙",
       "active": true,
       "sort": 317
     },
@@ -3814,7 +3814,7 @@
       "imageUrl": "https://thumbnail12.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/250621239733855-5d11db63-03bc-49b5-b691-4ce5a3671ca4.jpg",
       "url": "https://link.coupang.com/a/h7Kwrhm1xQ",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "리빙",
       "active": true,
       "sort": 318
     },
@@ -3826,7 +3826,7 @@
       "imageUrl": "https://thumbnail2.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/7641/2667baca5df00d1799536579a8db8907698edcb1debfe02f83ff59abcfe7.png",
       "url": "https://link.coupang.com/a/h7Kw1yjcGG",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "리빙",
       "active": true,
       "sort": 319
     },
@@ -3838,7 +3838,7 @@
       "imageUrl": "https://thumbnail11.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/106822501636945-f98e4551-96c6-4d36-9b22-de0a1a8c6f3a.jpg",
       "url": "https://link.coupang.com/a/h7KxE0imWW",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "리빙",
       "active": true,
       "sort": 320
     },
@@ -3970,7 +3970,7 @@
       "imageUrl": "https://t1c.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/dc4d/65f27d15395b3c301a9a1443ca1a52d45032fb7c806477697279320dfea7.jpg",
       "url": "https://link.coupang.com/a/h7KGVAcYcm",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "리빙",
       "active": true,
       "sort": 331
     },
@@ -3982,7 +3982,7 @@
       "imageUrl": "https://thumbnail9.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/23c0/7058c88cda5c1e5ddbc9c9ba22c3ab9b2b2e68785cfcfe92c1ef5b214fba.jpg",
       "url": "https://link.coupang.com/a/h7KHwabXtQ",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "리빙",
       "active": true,
       "sort": 332
     },
@@ -3994,7 +3994,7 @@
       "imageUrl": "https://thumbnail15.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/ddb6/d5fc2dbf4794464eae418c935f67bc0e6cc8e38f6af70ae2d42fec64d5a2.png",
       "url": "https://link.coupang.com/a/h7KTqVHOzQ",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "리빙",
       "active": true,
       "sort": 333
     },
@@ -4006,7 +4006,7 @@
       "imageUrl": "https://t3c.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/9577/f14be08972773686172247a74078aa0aab4a6aa1cd38b124e09aeda37699.jpg",
       "url": "https://link.coupang.com/a/h7KIcKNyAm",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "리빙",
       "active": true,
       "sort": 334
     },
@@ -4018,7 +4018,7 @@
       "imageUrl": "https://t3c.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/68a0/511eb8a330ad160f6008d57298e09bbbd5f43c9d5f892edefdcd590d275f.jpg",
       "url": "https://link.coupang.com/a/h7KINedVRs",
       "source": "coupang",
-      "category": "생활·주방",
+      "category": "리빙",
       "active": true,
       "sort": 335
     },
@@ -4030,7 +4030,7 @@
       "imageUrl": "https://thumbnail8.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/22883592390774-b108758f-71f0-4b87-88b8-b7f7a3c2fc43.jpg",
       "url": "https://link.coupang.com/a/h7KJMmNgQ0",
       "source": "coupang",
-      "category": "지갑·가죽소품",
+      "category": "패션·잡화",
       "active": true,
       "sort": 336
     },
@@ -4042,7 +4042,7 @@
       "imageUrl": "https://thumbnail8.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2025/09/09/15/1/576d6656-2c24-4887-89bb-82aa9d7bd077.jpg",
       "url": "https://link.coupang.com/a/h7KKmADxZs",
       "source": "coupang",
-      "category": "지갑·가죽소품",
+      "category": "패션·잡화",
       "active": true,
       "sort": 337
     },
@@ -4054,7 +4054,7 @@
       "imageUrl": "https://t5c.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/6a0c/fad5890a8aa6266c0ae27b7eb1f31647dbb3c9b865389d6a059956e7918a.jpg",
       "url": "https://link.coupang.com/a/h7KKWYpMGa",
       "source": "coupang",
-      "category": "지갑·가죽소품",
+      "category": "패션·잡화",
       "active": true,
       "sort": 338
     },
@@ -4066,7 +4066,7 @@
       "imageUrl": "https://t3c.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/e042/b3662c9154e33c30655602e5311bd49f4950c849a4e57f5c55985a80cd4f.png",
       "url": "https://link.coupang.com/a/h7KLxtRbSC",
       "source": "coupang",
-      "category": "지갑·가죽소품",
+      "category": "패션·잡화",
       "active": true,
       "sort": 339
     },
@@ -4078,7 +4078,7 @@
       "imageUrl": "https://thumbnail11.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2025/02/26/16/9/07e46358-9c68-4ed5-b719-aa8e8d90276a.jpg",
       "url": "https://link.coupang.com/a/h7KL9dX8do",
       "source": "coupang",
-      "category": "지갑·가죽소품",
+      "category": "패션·잡화",
       "active": true,
       "sort": 340
     },
@@ -4090,7 +4090,7 @@
       "imageUrl": "https://thumbnail2.coupangcdn.com/thumbnails/remote/212x212ex/image/rs_quotation_api/hn2eqkhp/41780e5093d74cbcb8286759a9803390.jpg",
       "url": "https://link.coupang.com/a/h7KNaCyqiq",
       "source": "coupang",
-      "category": "조명·인테리어",
+      "category": "리빙",
       "active": true,
       "sort": 341
     },
@@ -4102,7 +4102,7 @@
       "imageUrl": "https://t3a.coupangcdn.com/thumbnails/remote/212x212ex/image/rs_quotation_api/pmafitrw/960242c9dba749bca53077960c138cd2.jpg",
       "url": "https://link.coupang.com/a/h7KNLqED7s",
       "source": "coupang",
-      "category": "조명·인테리어",
+      "category": "리빙",
       "active": true,
       "sort": 342
     },
@@ -4114,7 +4114,7 @@
       "imageUrl": "https://thumbnail8.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/7c06/86807321bb475ee00b8e77098619dbb82ada18a1c682a90d132eb2a902a1.png",
       "url": "https://link.coupang.com/a/h7KOnANjX2",
       "source": "coupang",
-      "category": "조명·인테리어",
+      "category": "리빙",
       "active": true,
       "sort": 343
     },
@@ -4126,7 +4126,7 @@
       "imageUrl": "https://t3a.coupangcdn.com/thumbnails/remote/212x212ex/image/rs_quotation_api/4orndoky/5899bd3e81cf416fb2a4af17cac83ffc.jpg",
       "url": "https://link.coupang.com/a/h7KOZZ2f9g",
       "source": "coupang",
-      "category": "조명·인테리어",
+      "category": "리빙",
       "active": true,
       "sort": 344
     },
@@ -4138,7 +4138,7 @@
       "imageUrl": "https://t2c.coupangcdn.com/thumbnails/remote/212x212ex/image/1025_amir_coupang_oct_80k/321b/9091ecb61b7cd6f0ab2481a25897e5e2c81fe2b9b80596f8f6eada74d8d2.jpg",
       "url": "https://link.coupang.com/a/h7KPz8t9Ou",
       "source": "coupang",
-      "category": "조명·인테리어",
+      "category": "리빙",
       "active": true,
       "sort": 345
     }
