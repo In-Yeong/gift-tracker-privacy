@@ -1,11 +1,10 @@
 {
-  "version": 9,
+  "version": 10,
   "updatedAt": "2026-10-26",
   "items": [
     {
       "id": "p01",
       "title": "김보람초콜릿 아망드 쇼콜라",
-      "desc": "",
       "price": 6500,
       "imageUrl": "https://shop-phinf.pstatic.net/20261013_209/179187855799528jW9_PNG/67496656498626227_1139024713.png?type=o1000",
       "url": "https://naver.me/G6RAeuBB",
@@ -17,7 +16,6 @@
     {
       "id": "p02",
       "title": "프로넛 자일리톨 캔디 레몬",
-      "desc": "",
       "price": 2800,
       "imageUrl": "https://shop-phinf.pstatic.net/20240110_245/1704865107426m42LI_JPEG/106000887143445267_448253978.jpg?type=o1000",
       "url": "https://naver.me/5c8nlxCW",
@@ -29,7 +27,6 @@
     {
       "id": "p03",
       "title": "블루프롬더플래닛 호두정과 보틀스몰",
-      "desc": "",
       "price": 3300,
       "imageUrl": "",
       "url": "https://naver.me/G2YsNAgr",
@@ -41,7 +38,6 @@
     {
       "id": "p04",
       "title": "헤트라스 차량용 방향제 77ml 1+1 플라워파크",
-      "desc": "",
       "price": 9900,
       "imageUrl": "https://shop-phinf.pstatic.net/20251022_97/1761126654332d2Mfb_PNG/14721566477662320_862374576.png?type=o1000",
       "url": "https://naver.me/GIIogAmq",
@@ -53,7 +49,6 @@
     {
       "id": "p05",
       "title": "디아르 시그니쳐 인덕션 보호매트 M",
-      "desc": "",
       "price": 7900,
       "imageUrl": "https://shop-phinf.pstatic.net/20241024_37/1729695870151ua7tA_JPEG/63828717943776536_1877807330.jpg?type=o1000",
       "url": "https://naver.me/xG0h74AJ",
@@ -65,7 +60,6 @@
     {
       "id": "p06",
       "title": "오설록 블루밍 데이 차세트",
-      "desc": "",
       "price": 8820,
       "imageUrl": "",
       "url": "https://link.coupang.com/a/h48aPVHPcy",
@@ -77,7 +71,6 @@
     {
       "id": "p07",
       "title": "아로닉스 비건아이 르 미앙 핸드크림 쇼핑백 구성",
-      "desc": "",
       "price": 9000,
       "imageUrl": "",
       "url": "https://link.coupang.com/a/h48eSwy8Tk",
@@ -89,7 +82,6 @@
     {
       "id": "p08",
       "title": "비타500 잔망루피 콜라겐 100ml 10개",
-      "desc": "",
       "price": 6480,
       "imageUrl": "",
       "url": "https://link.coupang.com/a/h48fW6BQ7g",
@@ -101,7 +93,6 @@
     {
       "id": "p09",
       "title": "레모나 비타민C 30포",
-      "desc": "",
       "price": 5870,
       "imageUrl": "",
       "url": "https://link.coupang.com/a/h48hP0w8OW",
@@ -113,7 +104,6 @@
     {
       "id": "p10",
       "title": "핑크풋 마법의 고민 해결책 navy 2개",
-      "desc": "",
       "price": 5400,
       "imageUrl": "",
       "url": "https://link.coupang.com/a/h48iUYrQoC",
@@ -125,7 +115,6 @@
     {
       "id": "p11",
       "title": "오설록 티 베리에이션 30 6종x5입",
-      "desc": "",
       "price": 18750,
       "imageUrl": "https://shop-phinf.pstatic.net/20260907_20/1788763242004X3Hfp_JPEG/122896015116162998_553859393.jpg?type=o1000",
       "url": "https://naver.me/xhPG5J1H",
@@ -137,7 +126,6 @@
     {
       "id": "p12",
       "title": "더클래스 피치바흐 차량용 방향제 20g 1+1",
-      "desc": "",
       "price": 10900,
       "imageUrl": "https://shop-phinf.pstatic.net/20260813_127/1786607874243a5RgU_JPEG/114814013035371313_1026029394.jpg?type=o1000",
       "url": "https://naver.me/FSvokecS",
@@ -149,7 +137,6 @@
     {
       "id": "p13",
       "title": "프로넛 자일리톨 캔디 6가지맛 세트",
-      "desc": "",
       "price": 14900,
       "imageUrl": "https://shop-phinf.pstatic.net/20260212_1/1770884924775gKKI7_JPEG/105017745880003748_28949932.jpg?type=o1000",
       "url": "https://naver.me/IDk8v6rL",
@@ -161,7 +148,6 @@
     {
       "id": "p14",
       "title": "넛츠피아 하루견과 선물세트",
-      "desc": "",
       "price": 27100,
       "imageUrl": "https://shop-phinf.pstatic.net/20260714_17/1784010776884RWeje_JPEG/38183880678453210_598879047.jpg?type=o1000",
       "url": "https://naver.me/G9UgnmDD",
@@ -173,7 +159,6 @@
     {
       "id": "p15",
       "title": "벨르아망 시그니쳐 메탈 차량용 방향제 블랙체리",
-      "desc": "",
       "price": 22800,
       "imageUrl": "https://shop-phinf.pstatic.net/20221003_78/1664797944472yTvM5_JPEG/65933778227988181_422074897.jpg?type=o1000",
       "url": "https://naver.me/5GcNRTj0",
@@ -185,7 +170,6 @@
     {
       "id": "p16",
       "title": "에라토 크림모노 2인 도자기 그릇세트 12p",
-      "desc": "",
       "price": 17800,
       "imageUrl": "https://shop-phinf.pstatic.net/20260129_98/1769652273017ztJ9f_JPEG/103785112165120049_1977282638.jpg?type=o1000",
       "url": "https://naver.me/GlRlQOcp",
@@ -197,7 +181,6 @@
     {
       "id": "p17",
       "title": "웬즈데이오프 다이아 언더락잔 2잔 세트",
-      "desc": "",
       "price": 19900,
       "imageUrl": "",
       "url": "https://naver.me/xsZb256V",
@@ -209,7 +192,6 @@
     {
       "id": "p18",
       "title": "민하네식탁 찹쌀 김부각 50g 3팩",
-      "desc": "",
       "price": 13800,
       "imageUrl": "https://shop-phinf.pstatic.net/20260520_88/17792825514344qV6h_JPEG/21964105208902875_1896864056.jpg?type=o1000",
       "url": "https://naver.me/FbV1rmSO",
@@ -221,7 +203,6 @@
     {
       "id": "p19",
       "title": "옛사랑한과 우리밀 약과 선물세트",
-      "desc": "",
       "price": 11490,
       "imageUrl": "https://shop-phinf.pstatic.net/20251114_11/1763107869796nEESE_PNG/17634852542490572_571641332.png?type=o1000",
       "url": "https://naver.me/GWWYgIEl",
@@ -233,7 +214,6 @@
     {
       "id": "p20",
       "title": "오설록 오 땡큐 티 선물세트 6종",
-      "desc": "",
       "price": 19920,
       "imageUrl": "",
       "url": "https://link.coupang.com/a/h470Z6W1me",
@@ -245,7 +225,6 @@
     {
       "id": "p21",
       "title": "아스모디코리아 꼬치의달인 보드게임",
-      "desc": "",
       "price": 32900,
       "imageUrl": "https://shop-phinf.pstatic.net/20240514_144/17156522675131gv0X_PNG/116788156193888173_39767986.png?type=o1000",
       "url": "https://naver.me/FLEArj0h",
@@ -257,7 +236,6 @@
     {
       "id": "p22",
       "title": "생과방 수제약과 8개입 선물세트",
-      "desc": "",
       "price": 33300,
       "imageUrl": "https://shop-phinf.pstatic.net/20260220_95/1771577354091xbH36_PNG/22138127959223770_2080626088.png?type=o1000",
       "url": "https://naver.me/GLhFeVRT",
@@ -269,7 +247,6 @@
     {
       "id": "p23",
       "title": "조은나래 도라지정과 500g 콩고물 곁보자기",
-      "desc": "",
       "price": 48220,
       "imageUrl": "https://shop-phinf.pstatic.net/20240807_95/1722995300435yARey_PNG/3440163198147999_1310170234.png?type=o1000",
       "url": "https://naver.me/5K6GKkYU",
@@ -281,7 +258,6 @@
     {
       "id": "p24",
       "title": "오설록 프리미엄 티 컬렉션 10종x4입",
-      "desc": "",
       "price": 32000,
       "imageUrl": "https://shop-phinf.pstatic.net/20241128_71/1732759947054xNyqa_JPEG/57100975860821426_132371176.jpg?type=o1000",
       "url": "https://naver.me/F8lO2Wc7",
@@ -293,7 +269,6 @@
     {
       "id": "p25",
       "title": "풀리오 미니맥스 마사지건 파우치 세트",
-      "desc": "",
       "price": 49000,
       "imageUrl": "https://shop-phinf.pstatic.net/20260701_276/1782896966356atRTz_JPEG/116904686388664528_1327577151.jpg?type=o1000",
       "url": "https://naver.me/GDQuSKOw",
@@ -305,7 +280,6 @@
     {
       "id": "p26",
       "title": "강릉명일한과 경포대의 아침 2단",
-      "desc": "",
       "price": 49000,
       "imageUrl": "https://shop-phinf.pstatic.net/20260813_215/1786605461232an5g2_PNG/70977878353889123_2040808750.png?type=o1000",
       "url": "https://naver.me/xsZb250V",
@@ -317,7 +291,6 @@
     {
       "id": "p27",
       "title": "선미한과 단청 1단 쇼핑백 포함",
-      "desc": "",
       "price": 43000,
       "imageUrl": "https://shop-phinf.pstatic.net/20260911_156/1789128858001RUapv_JPEG/99277307784317475_1222617001.jpg?type=o1000",
       "url": "https://naver.me/5c8nlxu5",
@@ -329,7 +302,6 @@
     {
       "id": "p28",
       "title": "니블스 수제 초콜릿 스페셜 10가지 맛",
-      "desc": "",
       "price": 32000,
       "imageUrl": "https://shop-phinf.pstatic.net/20251229_238/1766978377470MiN8v_PNG/84233251674052220_684566573.png?type=o1000",
       "url": "https://naver.me/xZKfgJLU",
@@ -341,7 +313,6 @@
     {
       "id": "p29",
       "title": "생과방 블렌딩 전통차 24개입",
-      "desc": "",
       "price": 37800,
       "imageUrl": "https://shop-phinf.pstatic.net/20260610_177/1781076288047aKWl6_PNG/3598318040129598_1145663015.png?type=o1000",
       "url": "https://naver.me/FZoZPXYh",
@@ -353,7 +324,6 @@
     {
       "id": "p30",
       "title": "대한민국농수산 반건시 곶감 선물세트",
-      "desc": "",
       "price": 30900,
       "imageUrl": "https://shop-phinf.pstatic.net/20240902_259/17252550325419vkzd_JPEG/27830781290162889_1252403727.jpg?type=o1000",
       "url": "https://naver.me/G8f42woq",
@@ -365,7 +335,6 @@
     {
       "id": "p31",
       "title": "제주반했어 순살 갈치 200g 5개",
-      "desc": "",
       "price": 56400,
       "imageUrl": "https://shop-phinf.pstatic.net/20240829_49/1724862417248wm8ka_JPEG/51336306060135785_1113735614.jpg?type=o1000",
       "url": "https://naver.me/G6RAeusx",
@@ -377,7 +346,6 @@
     {
       "id": "p32",
       "title": "비어랜 한우 육포 선물세트",
-      "desc": "",
       "price": 69500,
       "imageUrl": "https://shop-phinf.pstatic.net/20261001_28/17908103227999oFvI_JPEG/124943150958077577_422186745.jpg?type=o1000",
       "url": "https://naver.me/xk9JY5T8",
@@ -389,7 +357,6 @@
     {
       "id": "p33",
       "title": "제주반했어 은갈치 선물세트",
-      "desc": "",
       "price": 77900,
       "imageUrl": "https://shop-phinf.pstatic.net/20250421_200/1745214772362Wcobd_JPEG/79347611477271628_684403218.jpg?type=o1000",
       "url": "https://naver.me/GlRlQOBs",
@@ -401,7 +368,6 @@
     {
       "id": "p34",
       "title": "도라지청년 수제 도라지정과 500g",
-      "desc": "",
       "price": 61000,
       "imageUrl": "https://shop-phinf.pstatic.net/20260821_289/1787274468731pyeqs_PNG/25426006227364110_461708031.png?type=o1000",
       "url": "https://naver.me/xjY5sjsk",
@@ -413,7 +379,6 @@
     {
       "id": "p35",
       "title": "돌쇠굴비 찐 보리굴비 S++특대 선물세트",
-      "desc": "",
       "price": 71900,
       "imageUrl": "https://shop-phinf.pstatic.net/20260805_33/1785895171136JDmcp_JPEG/22349543927408206_1769664252.jpg?type=o1000",
       "url": "https://naver.me/xfbudzdm",
@@ -425,7 +390,6 @@
     {
       "id": "p36",
       "title": "강릉명일한과 정동진의 아침 3단",
-      "desc": "",
       "price": 59000,
       "imageUrl": "https://shop-phinf.pstatic.net/20260813_67/17865995514672eCda_PNG/47163464508046140_845148350.png?type=o1000",
       "url": "https://naver.me/GP2J1pZe",
@@ -437,7 +401,6 @@
     {
       "id": "p37",
       "title": "수피 비비드 타워형 멀티탭 6구 2m 바이올렛",
-      "desc": "",
       "price": 55000,
       "imageUrl": "",
       "url": "https://naver.me/GP2J1pmi",
@@ -449,7 +412,6 @@
     {
       "id": "p38",
       "title": "벤딕트 애트모어 방향제 베이직 패키지",
-      "desc": "",
       "price": 79000,
       "imageUrl": "https://shop-phinf.pstatic.net/20250916_24/17580292196727cOac_JPEG/2153769576746312_644773946.jpg?type=o1000",
       "url": "https://naver.me/xeFtMEdZ",
@@ -461,7 +423,6 @@
     {
       "id": "p39",
       "title": "도블레 TPU 항균 도마 3종 선물세트",
-      "desc": "",
       "price": 59900,
       "imageUrl": "https://shop-phinf.pstatic.net/20240130_113/1706578973759J9Qi0_JPEG/107714807568788302_4640514.jpg?type=o1000",
       "url": "https://naver.me/5ajWGr2T",
@@ -473,7 +434,6 @@
     {
       "id": "p40",
       "title": "쌍계명차 마스터클래스 8종 40티백",
-      "desc": "",
       "price": 56000,
       "imageUrl": "https://shop-phinf.pstatic.net/20260831_287/1788136896883CpSPR_JPEG/61123750030628871_433411905.jpg?type=o1000",
       "url": "https://naver.me/FmGz7M0b",
@@ -485,7 +445,6 @@
     {
       "id": "p41",
       "title": "풀리오 목어깨 두드림 마사지기 V3 선물세트",
-      "desc": "",
       "price": 159000,
       "imageUrl": "https://shop-phinf.pstatic.net/20260901_85/1788215826087PwGJY_PNG/119003105888292958_1798744093.png?type=o1000",
       "url": "https://naver.me/xsZb2kEV",
@@ -497,7 +456,6 @@
     {
       "id": "p42",
       "title": "정육담다 투뿔 한우 구이 선물세트",
-      "desc": "",
       "price": 149000,
       "imageUrl": "https://shop-phinf.pstatic.net/20260103_220/1767397746877Yd4oU_PNG/21846957667466438_127974687.png?type=o1000",
       "url": "https://naver.me/GP2J1qNs",
@@ -509,7 +467,6 @@
     {
       "id": "p43",
       "title": "엄마네한우 투뿔 구이용 선물세트",
-      "desc": "",
       "price": 129950,
       "imageUrl": "https://shop-phinf.pstatic.net/20260908_115/1788828181124dlfiL_JPEG/28429389093479750_781935430.jpg?type=o1000",
       "url": "https://naver.me/xnOZ7qjT",
@@ -521,7 +478,6 @@
     {
       "id": "p44",
       "title": "완도전복생산자협동조합 완도1호 왕특대전복 2kg",
-      "desc": "",
       "price": 119900,
       "imageUrl": "",
       "url": "https://naver.me/GlRlQyuV",
@@ -533,7 +489,6 @@
     {
       "id": "p45",
       "title": "조은나래 도라지정과 도라지청 시그니처 700+600",
-      "desc": "",
       "price": 110000,
       "imageUrl": "https://shop-phinf.pstatic.net/20260908_121/17888339017908TRw9_PNG/122966764893778098_1423575424.png?type=o1000",
       "url": "https://naver.me/xrz5Ol8k",
@@ -545,7 +500,6 @@
     {
       "id": "p46",
       "title": "돌쇠굴비 프리미엄 영광굴비 10마리",
-      "desc": "",
       "price": 150000,
       "imageUrl": "https://shop-phinf.pstatic.net/20260121_188/1768966500888YLSj1_JPEG/38520151017923649_1609077598.JPG?type=o1000",
       "url": "https://naver.me/xbKResI1",
@@ -557,7 +511,6 @@
     {
       "id": "p47",
       "title": "위드웰 미락 진공쌀통",
-      "desc": "",
       "price": 149000,
       "imageUrl": "",
       "url": "https://naver.me/5XcEsHde",
@@ -569,7 +522,6 @@
     {
       "id": "p48",
       "title": "풀리오 손 마사지기 V1 선물세트",
-      "desc": "",
       "price": 109000,
       "imageUrl": "https://shop-phinf.pstatic.net/20260715_117/1784081288112wPnfU_JPEG/118214120272966602_257128677.jpg?type=o1000",
       "url": "https://naver.me/5g4aZNsG",
@@ -581,7 +533,6 @@
     {
       "id": "p49",
       "title": "풀리오 백풀러 PRO 허리 마사지기 선물세트",
-      "desc": "",
       "price": 139000,
       "imageUrl": "https://shop-phinf.pstatic.net/20260809_42/1786277287876WLthY_PNG/412699587246650_161207821.png?type=o1000",
       "url": "https://naver.me/5FDdVP5Y",
@@ -593,7 +544,6 @@
     {
       "id": "p50",
       "title": "풀리오 등허리 쿠션 마사지기 선물세트",
-      "desc": "",
       "price": 109000,
       "imageUrl": "https://shop-phinf.pstatic.net/20260701_229/1782897233915iYPgz_JPEG/7269717127338430_1822150533.jpg?type=o1000",
       "url": "https://naver.me/5fdlfUqS",
@@ -605,7 +555,6 @@
     {
       "id": "gift_naver_11198746540",
       "title": "호의 핸드드립 커피 3종 드립백 선물세트 15개입",
-      "desc": "",
       "price": 25600,
       "imageUrl": "",
       "url": "https://naver.me/GKIgEbzI",
@@ -617,7 +566,6 @@
     {
       "id": "gift_naver_7929279132",
       "title": "여가커피 아라비카 5종 드립백 12g 10개입",
-      "desc": "",
       "price": 15000,
       "imageUrl": "",
       "url": "https://naver.me/5zUg0XpG",
@@ -629,7 +577,6 @@
     {
       "id": "gift_naver_9615973967",
       "title": "위플리커피 스페셜티 드립백 18g 선물",
-      "desc": "",
       "price": 18000,
       "imageUrl": "",
       "url": "https://naver.me/5SKzNSdt",
@@ -641,7 +588,6 @@
     {
       "id": "gift_naver_7656531108",
       "title": "어라운지 데일리 드립백 선물세트 24개입 240g",
-      "desc": "",
       "price": 11900,
       "imageUrl": "",
       "url": "https://naver.me/xKybpt5t",
@@ -653,7 +599,6 @@
     {
       "id": "gift_naver_4646408472",
       "title": "코나포유 하와이 코나커피 카일루아민트 5종 10개입",
-      "desc": "",
       "price": 20000,
       "imageUrl": "",
       "url": "https://naver.me/FCZt9rhs",
@@ -665,7 +610,6 @@
     {
       "id": "gift_naver_4954445330",
       "title": "쌍계명차 클래식 티박스 9종 45입",
-      "desc": "",
       "price": 27000,
       "imageUrl": "",
       "url": "https://naver.me/IDk8a3i0",
@@ -677,7 +621,6 @@
     {
       "id": "gift_naver_2701625960",
       "title": "쌍계명차 큐브우드 7종 35입",
-      "desc": "",
       "price": 81000,
       "imageUrl": "",
       "url": "https://naver.me/5dhNJASc",
@@ -689,7 +632,6 @@
     {
       "id": "gift_naver_3983939795",
       "title": "꽃을담다 나비티백 꽃차 6종 선물세트",
-      "desc": "",
       "price": 39600,
       "imageUrl": "",
       "url": "https://naver.me/5hozn1bs",
@@ -701,7 +643,6 @@
     {
       "id": "gift_naver_6566768015",
       "title": "로얄오차드 버라이어티10 차 선물세트",
-      "desc": "",
       "price": 20700,
       "imageUrl": "",
       "url": "https://naver.me/FLEA2eW1",
@@ -713,7 +654,6 @@
     {
       "id": "gift_naver_8390746257",
       "title": "오설록 티 에디션 스페셜 9종 54입",
-      "desc": "",
       "price": 110000,
       "imageUrl": "",
       "url": "https://naver.me/GntfERoS",
@@ -725,7 +665,6 @@
     {
       "id": "gift_naver_9768863225",
       "title": "베이커리와이 엘리게이터파이 수제파이 선물세트",
-      "desc": "",
       "price": 22000,
       "imageUrl": "",
       "url": "https://naver.me/5FDdbEN3",
@@ -737,7 +676,6 @@
     {
       "id": "gift_naver_4641246648",
       "title": "신라명과 쿠키선물세트 선물용쇼핑백",
-      "desc": "",
       "price": 12900,
       "imageUrl": "",
       "url": "https://naver.me/5suoRGLa",
@@ -749,7 +687,6 @@
     {
       "id": "gift_naver_5909153956",
       "title": "에코맘하우스 우리밀 수제 쿠키 혼합 505g",
-      "desc": "",
       "price": 20000,
       "imageUrl": "",
       "url": "https://naver.me/5SKzNS8W",
@@ -761,7 +698,6 @@
     {
       "id": "gift_naver_6048711517",
       "title": "멜리사쿠키 수제 쿠키 16개입 선물세트",
-      "desc": "",
       "price": 19800,
       "imageUrl": "",
       "url": "https://naver.me/FFqX2aJ7",
@@ -773,7 +709,6 @@
     {
       "id": "gift_naver_8692858018",
       "title": "과자몰 크라운 쿠키 비스킷 선물세트 18P",
-      "desc": "",
       "price": 79800,
       "imageUrl": "",
       "url": "https://naver.me/52aNdcuf",
@@ -785,7 +720,6 @@
     {
       "id": "gift_naver_6763589197",
       "title": "에스디 수제초콜릿 12스틱세트",
-      "desc": "",
       "price": 44500,
       "imageUrl": "",
       "url": "https://naver.me/5vJi03eB",
@@ -797,7 +731,6 @@
     {
       "id": "gift_naver_10422092456",
       "title": "퀑카네 콰삭 두바이초콜릿 네모의 꿈 다크 일반 선물세트",
-      "desc": "",
       "price": 19500,
       "imageUrl": "",
       "url": "https://naver.me/GWWYwivB",
@@ -809,7 +742,6 @@
     {
       "id": "gift_naver_13629091575",
       "title": "필리핀 세부 망고초콜릿 선물세트",
-      "desc": "",
       "price": 15900,
       "imageUrl": "",
       "url": "https://naver.me/FHOmrVgB",
@@ -821,7 +753,6 @@
     {
       "id": "gift_naver_5465663527",
       "title": "텐브라운 파베 생초콜릿 선물세트",
-      "desc": "",
       "price": 15000,
       "imageUrl": "",
       "url": "https://naver.me/FuNgot58",
@@ -833,7 +764,6 @@
     {
       "id": "gift_naver_12540523098",
       "title": "린트 두바이 초콜릿 프랄린 90g 3개",
-      "desc": "",
       "price": 110000,
       "imageUrl": "",
       "url": "https://naver.me/5vJi03pu",
@@ -845,7 +775,6 @@
     {
       "id": "gift_naver_7570301105",
       "title": "오슬로 아웃백 트래블 텀블러 350ml 아이보리",
-      "desc": "",
       "price": 21000,
       "imageUrl": "",
       "url": "https://naver.me/5QsZkiBN",
@@ -857,7 +786,6 @@
     {
       "id": "gift_naver_12913876987",
       "title": "아소부 미니 베스티 키링 텀블러 200ml 엘리펀트",
-      "desc": "",
       "price": 38900,
       "imageUrl": "",
       "url": "https://naver.me/FEgv93vn",
@@ -869,7 +797,6 @@
     {
       "id": "gift_naver_10940984876",
       "title": "아소부 퓨라믹 아스펜 세라믹 텀블러 600ml 파스텔피치",
-      "desc": "",
       "price": 30900,
       "imageUrl": "",
       "url": "https://naver.me/FnsxPVDm",
@@ -881,7 +808,6 @@
     {
       "id": "gift_naver_10562180452",
       "title": "오슬로 브리오슈 미니 텀블러 150ml 아이보리",
-      "desc": "",
       "price": 16400,
       "imageUrl": "",
       "url": "https://naver.me/G0pLS2A4",
@@ -893,7 +819,6 @@
     {
       "id": "gift_naver_12977413543",
       "title": "택플로우 세라믹 텀블러 650ml 미드나잇체크",
-      "desc": "",
       "price": 36000,
       "imageUrl": "",
       "url": "https://naver.me/FyAJ0tV2",
@@ -905,7 +830,6 @@
     {
       "id": "gift_naver_5794684877",
       "title": "에라토 플랑 베이직 머그컵 4P세트",
-      "desc": "",
       "price": 25900,
       "imageUrl": "",
       "url": "https://naver.me/5B0XQwKp",
@@ -917,7 +841,6 @@
     {
       "id": "gift_naver_12763997591",
       "title": "소롭 국산 도자기 머그컵2P 오발접시1P 선물세트",
-      "desc": "",
       "price": 29900,
       "imageUrl": "",
       "url": "https://naver.me/5qLf4cW2",
@@ -929,7 +852,6 @@
     {
       "id": "gift_naver_7376968524",
       "title": "시라쿠스 메이플 머그컵 3P세트 코지 레드",
-      "desc": "",
       "price": 31800,
       "imageUrl": "",
       "url": "https://naver.me/GT4JC6NV",
@@ -941,7 +863,6 @@
     {
       "id": "gift_naver_5600435389",
       "title": "집순이와집돌이 드로잉 커플머그컵 블랙세트",
-      "desc": "",
       "price": 13500,
       "imageUrl": "",
       "url": "https://naver.me/xB7FtMgs",
@@ -953,7 +874,6 @@
     {
       "id": "gift_naver_8315372745",
       "title": "메이브 파스텔 머그잔 4P 선물세트",
-      "desc": "",
       "price": 35500,
       "imageUrl": "",
       "url": "https://naver.me/5t7Amfpu",
@@ -965,7 +885,6 @@
     {
       "id": "gift_naver_9496387166",
       "title": "헤트라스 퍼퓸 실키 핸드크림 50ml 5개입 선물세트",
-      "desc": "",
       "price": 35000,
       "imageUrl": "",
       "url": "https://naver.me/xhPG1lVE",
@@ -977,7 +896,6 @@
     {
       "id": "gift_naver_9250617810",
       "title": "엠디스픽 드 바리스타 무향 핸드크림 펌핑 300g",
-      "desc": "",
       "price": 23900,
       "imageUrl": "",
       "url": "https://naver.me/Fae6mO7z",
@@ -989,7 +907,6 @@
     {
       "id": "gift_naver_9489766502",
       "title": "이니스프리 마이 퍼퓸드 핸드크림 30ml 7종 택1",
-      "desc": "",
       "price": 4200,
       "imageUrl": "",
       "url": "https://naver.me/FpwR7PjB",
@@ -1001,7 +918,6 @@
     {
       "id": "gift_naver_9237839047",
       "title": "아로마티카 멜로우니스 핸드크림 매그놀리아 샌달우드 30ml",
-      "desc": "",
       "price": 6500,
       "imageUrl": "",
       "url": "https://naver.me/GRDRCuBC",
@@ -1013,7 +929,6 @@
     {
       "id": "gift_naver_11470840987",
       "title": "메르헨트 바세린 핸드크림 60ml 5개",
-      "desc": "",
       "price": 9900,
       "imageUrl": "",
       "url": "https://naver.me/GJZnq5WS",
@@ -1025,7 +940,6 @@
     {
       "id": "gift_naver_4751612819",
       "title": "아로마티카 바디워시300ml 바디로션300ml 2종 선물세트",
-      "desc": "",
       "price": 39900,
       "imageUrl": "",
       "url": "https://naver.me/xAfcjAbG",
@@ -1037,7 +951,6 @@
     {
       "id": "gift_naver_7108823286",
       "title": "나드 바디케어 2종 500ml 라벤더머스크 선물세트",
-      "desc": "",
       "price": 19800,
       "imageUrl": "",
       "url": "https://naver.me/xKybptvf",
@@ -1049,7 +962,6 @@
     {
       "id": "gift_naver_13736711524",
       "title": "블랑101 바디 시그니처 2종 선물세트",
-      "desc": "",
       "price": 42000,
       "imageUrl": "",
       "url": "https://naver.me/5GcNic90",
@@ -1061,7 +973,6 @@
     {
       "id": "gift_naver_13268832739",
       "title": "토르홉 핑크 오로라 바디워시 바디로션 선물세트",
-      "desc": "",
       "price": 45200,
       "imageUrl": "",
       "url": "https://naver.me/5mv5PvsJ",
@@ -1073,7 +984,6 @@
     {
       "id": "gift_naver_13641974738",
       "title": "보로탈코 바디크림150ml 30ml 바디워시500ml 선물세트",
-      "desc": "",
       "price": 45900,
       "imageUrl": "",
       "url": "https://naver.me/G0pLSpzP",
@@ -1085,7 +995,6 @@
     {
       "id": "gift_naver_11658350215",
       "title": "브리츠 휴대용 TWS 블루투스 스피커 BZ-TK1 블랙",
-      "desc": "",
       "price": 29890,
       "imageUrl": "",
       "url": "https://naver.me/xwo3QoyM",
@@ -1097,7 +1006,6 @@
     {
       "id": "gift_naver_11160238746",
       "title": "브리츠 30W 레트로 블루투스 스피커 BZ-RK101 블랙",
-      "desc": "",
       "price": 86800,
       "imageUrl": "",
       "url": "https://naver.me/xzHJpHZU",
@@ -1109,7 +1017,6 @@
     {
       "id": "gift_naver_11007325601",
       "title": "앤커 사운드코어 셀렉트4 Go 블루투스 스피커 A31X1",
-      "desc": "",
       "price": 25900,
       "imageUrl": "",
       "url": "https://naver.me/5WUwDUhT",
@@ -1121,7 +1028,6 @@
     {
       "id": "gift_naver_13425748356",
       "title": "보스 사운드링크 플렉스 스피커 2세대 선셋 피치",
-      "desc": "",
       "price": 169000,
       "imageUrl": "",
       "url": "https://naver.me/5l24p2b6",
@@ -1133,7 +1039,6 @@
     {
       "id": "gift_naver_12711762773",
       "title": "JBL GRIP 캠핑 LED 블루투스 스피커 옐로우",
-      "desc": "",
       "price": 75900,
       "imageUrl": "",
       "url": "https://naver.me/IgMx3MAB",
@@ -1145,7 +1050,6 @@
     {
       "id": "gift_naver_10844150756",
       "title": "알로코리아 라이트 LCD 22.5W 보조배터리 10000mAh",
-      "desc": "",
       "price": 22900,
       "imageUrl": "",
       "url": "https://naver.me/5RAd6ATM",
@@ -1157,7 +1061,6 @@
     {
       "id": "gift_naver_10036864802",
       "title": "이어맥 팬톤 빌트인 케이블 22.5W 보조배터리 10000mAh",
-      "desc": "",
       "price": 20900,
       "imageUrl": "",
       "url": "https://naver.me/G9UglUba",
@@ -1169,7 +1072,6 @@
     {
       "id": "gift_naver_12343350454",
       "title": "티앤알 도킹형 보조배터리 P-5300A 5000mAh 화이트 C타입",
-      "desc": "",
       "price": 19800,
       "imageUrl": "",
       "url": "https://naver.me/xLNMIN1H",
@@ -1181,7 +1083,6 @@
     {
       "id": "gift_naver_12651503386",
       "title": "앤커 나노 파워뱅크 10000mAh 45W A1638",
-      "desc": "",
       "price": 59900,
       "imageUrl": "",
       "url": "https://naver.me/xoGlpGri",
@@ -1193,7 +1094,6 @@
     {
       "id": "gift_naver_11070089840",
       "title": "벨킨 부스트차지 프로 65W 보조배터리 20000mAh BPB020bt",
-      "desc": "",
       "price": 99000,
       "imageUrl": "",
       "url": "https://naver.me/xJcO8ctn",
@@ -1205,7 +1105,6 @@
     {
       "id": "gift_naver_4891861630",
       "title": "보아르 이지전기포트M1 접이식 여행용 온도조절 포트",
-      "desc": "",
       "price": 49800,
       "imageUrl": "",
       "url": "https://naver.me/xxobDoAn",
@@ -1217,7 +1116,6 @@
     {
       "id": "gift_naver_11465804409",
       "title": "네오플램 올스텐 무선 전기주전자 1.7L",
-      "desc": "",
       "price": 39900,
       "imageUrl": "",
       "url": "https://naver.me/F3E85Eo2",
@@ -1229,7 +1127,6 @@
     {
       "id": "gift_naver_5658112293",
       "title": "필립스 전기포트 3000시리즈 HD9318/00 화이트",
-      "desc": "",
       "price": 29000,
       "imageUrl": "",
       "url": "https://naver.me/5GcNichI",
@@ -1241,7 +1138,6 @@
     {
       "id": "gift_naver_4625922336",
       "title": "보아르 하티포트 무선 유리 티포트",
-      "desc": "",
       "price": 37900,
       "imageUrl": "",
       "url": "https://naver.me/5LQc9QQN",
@@ -1253,7 +1149,6 @@
     {
       "id": "gift_naver_10592363295",
       "title": "다룸 멜로우 온도조절 전기포트 1L 퓨어 화이트",
-      "desc": "",
       "price": 52600,
       "imageUrl": "",
       "url": "https://naver.me/Fx2KO22M",
@@ -1265,7 +1160,6 @@
     {
       "id": "gift_naver_7756633177",
       "title": "에라토 벌룬테디 홈카페 2인 6P 선물세트",
-      "desc": "",
       "price": 42000,
       "imageUrl": "",
       "url": "https://naver.me/FjmZIm2q",
@@ -1277,7 +1171,6 @@
     {
       "id": "gift_naver_11747280111",
       "title": "마이벨 2인 홈세트 14P 화이트",
-      "desc": "",
       "price": 144200,
       "imageUrl": "",
       "url": "https://naver.me/xgX05XKF",
@@ -1289,7 +1182,6 @@
     {
       "id": "gift_naver_10759714907",
       "title": "에라토 모이 플라워 접시 3P세트 화이트",
-      "desc": "",
       "price": 29900,
       "imageUrl": "",
       "url": "https://naver.me/5RAd6Aq6",
@@ -1301,7 +1193,6 @@
     {
       "id": "gift_naver_11581819558",
       "title": "로렌스 런던 도자기 홈술 2인세트",
-      "desc": "",
       "price": 39900,
       "imageUrl": "",
       "url": "https://naver.me/GDQukQjr",
@@ -1313,7 +1204,6 @@
     {
       "id": "gift_naver_5623330678",
       "title": "나인웨어 포레 캠핑식기 4인세트 캠핑백 구성",
-      "desc": "",
       "price": 75000,
       "imageUrl": "",
       "url": "https://naver.me/5qLf4LvW",
@@ -1325,7 +1215,6 @@
     {
       "id": "gift_naver_8104866864",
       "title": "트리베어 신생아 바디슈트 출산선물 5종",
-      "desc": "",
       "price": 33900,
       "imageUrl": "",
       "url": "https://naver.me/GmpcdpZd",
@@ -1337,7 +1226,6 @@
     {
       "id": "gift_naver_5575786443",
       "title": "도담도담 오가닉 코튼 신생아 출산선물 6종",
-      "desc": "",
       "price": 33000,
       "imageUrl": "",
       "url": "https://naver.me/GxrGKrUk",
@@ -1349,7 +1237,6 @@
     {
       "id": "gift_naver_13394348219",
       "title": "오우아 버니 메쉬 뉴본 배냇수트 2종 기프트세트",
-      "desc": "",
       "price": 43900,
       "imageUrl": "",
       "url": "https://naver.me/xeFtNFoQ",
@@ -1361,7 +1248,6 @@
     {
       "id": "gift_naver_13192077315",
       "title": "이키 말띠 유니콘 바디수트 2종 출산선물",
-      "desc": "",
       "price": 24800,
       "imageUrl": "",
       "url": "https://naver.me/5yhpdhVI",
@@ -1373,7 +1259,6 @@
     {
       "id": "gift_naver_12170731787",
       "title": "오보기 배냇저고리 모자 손싸개 선물세트",
-      "desc": "",
       "price": 47800,
       "imageUrl": "",
       "url": "https://naver.me/Gi0GK0v8",
@@ -1385,7 +1270,6 @@
     {
       "id": "gift_naver_6185191626",
       "title": "퍼기 냥냥 손목치발기 파스텔핑크",
-      "desc": "",
       "price": 15900,
       "imageUrl": "",
       "url": "https://naver.me/Gzdcedjn",
@@ -1397,7 +1281,6 @@
     {
       "id": "gift_naver_4104337512",
       "title": "꼬꼬노리 밴드 손목 치발기",
-      "desc": "",
       "price": 18900,
       "imageUrl": "",
       "url": "https://naver.me/xnOZDOeq",
@@ -1409,7 +1292,6 @@
     {
       "id": "gift_naver_12695820342",
       "title": "무쉬 플라워 실리콘 딸랑이 치발기",
-      "desc": "",
       "price": 23900,
       "imageUrl": "",
       "url": "https://naver.me/Gy3d43H9",
@@ -1421,7 +1303,6 @@
     {
       "id": "gift_naver_13657135458",
       "title": "하카 트윈 플라워 실리콘 치발기",
-      "desc": "",
       "price": 13900,
       "imageUrl": "",
       "url": "https://naver.me/FQuvLuUp",
@@ -1433,7 +1314,6 @@
     {
       "id": "gift_naver_9807322765",
       "title": "티지엠 하트 플래티넘 실리콘 치발기볼",
-      "desc": "",
       "price": 14500,
       "imageUrl": "",
       "url": "https://naver.me/5HyRcyfk",
@@ -1445,7 +1325,6 @@
     {
       "id": "gift_naver_5373227846",
       "title": "우노 카드게임",
-      "desc": "",
       "price": 11900,
       "imageUrl": "",
       "url": "https://naver.me/GLhFghtq",
@@ -1457,7 +1336,6 @@
     {
       "id": "gift_naver_5367054599",
       "title": "스플렌더 보드게임",
-      "desc": "",
       "price": 45500,
       "imageUrl": "",
       "url": "https://naver.me/xeFtNFuF",
@@ -1469,7 +1347,6 @@
     {
       "id": "gift_naver_5367054497",
       "title": "다빈치 코드 보드게임",
-      "desc": "",
       "price": 18200,
       "imageUrl": "",
       "url": "https://naver.me/5hoznoFl",
@@ -1481,7 +1358,6 @@
     {
       "id": "gift_naver_5367054534",
       "title": "루핑루이 보드게임",
-      "desc": "",
       "price": 23100,
       "imageUrl": "",
       "url": "https://naver.me/5T0db0hi",
@@ -1493,7 +1369,6 @@
     {
       "id": "gift_naver_7368671026",
       "title": "도블 포켓몬 보드게임",
-      "desc": "",
       "price": 18900,
       "imageUrl": "",
       "url": "https://naver.me/GLhFgh34",
@@ -1505,7 +1380,6 @@
     {
       "id": "gift_naver_3330094017",
       "title": "명화 직소퍼즐 1000피스·500피스 선택형",
-      "desc": "",
       "price": 18900,
       "imageUrl": "",
       "url": "https://naver.me/G3vnrvkL",
@@ -1517,7 +1391,6 @@
     {
       "id": "gift_naver_3128495680",
       "title": "사진 주문제작 직소퍼즐 액자 63피스",
-      "desc": "",
       "price": 19800,
       "imageUrl": "",
       "url": "https://naver.me/xeFtNF7B",
@@ -1529,7 +1402,6 @@
     {
       "id": "gift_naver_5367388514",
       "title": "귀멸의 칼날 탄지로 무한성편 전장의서막 직소퍼즐 500피스",
-      "desc": "",
       "price": 13500,
       "imageUrl": "",
       "url": "https://naver.me/5nhgWh4J",
@@ -1541,7 +1413,6 @@
     {
       "id": "gift_naver_12844282285",
       "title": "빌리네집 고양이 직소퍼즐 135피스",
-      "desc": "",
       "price": 11500,
       "imageUrl": "",
       "url": "https://naver.me/54K8DKI7",
@@ -1553,7 +1424,6 @@
     {
       "id": "gift_naver_9089515075",
       "title": "대원앤북 치이카와 직소퍼즐 150피스 힘내",
-      "desc": "",
       "price": 7200,
       "imageUrl": "",
       "url": "https://naver.me/FmGzZG5M",
@@ -1565,7 +1435,6 @@
     {
       "id": "gift_naver_5607845018",
       "title": "자스나로 슬림핏 RFID 차단 카드지갑 BRO-2",
-      "desc": "",
       "price": 29800,
       "imageUrl": "",
       "url": "https://naver.me/FvTPSTOo",
@@ -1577,7 +1446,6 @@
     {
       "id": "gift_naver_8834973280",
       "title": "자스나로 천연양가죽 아코디언 카드지갑 BRO-7",
-      "desc": "",
       "price": 35800,
       "imageUrl": "",
       "url": "https://naver.me/FWTSaToc",
@@ -1589,7 +1457,6 @@
     {
       "id": "gift_naver_2049573186",
       "title": "버밀란 3슬롯 슬림 카드지갑",
-      "desc": "",
       "price": 26500,
       "imageUrl": "",
       "url": "https://naver.me/52aNdape",
@@ -1601,7 +1468,6 @@
     {
       "id": "gift_naver_5123651265",
       "title": "제이에스티나 LILY 목걸이 카드지갑 BK JSTESF0BF103BK010",
-      "desc": "",
       "price": 52200,
       "imageUrl": "",
       "url": "https://naver.me/51ui9uKc",
@@ -1613,7 +1479,6 @@
     {
       "id": "gift_naver_5770920420",
       "title": "레더팜 수제 소가죽 명함 카드지갑 이니셜각인",
-      "desc": "",
       "price": 27000,
       "imageUrl": "",
       "url": "https://naver.me/I5whiwz3",
@@ -1625,7 +1490,6 @@
     {
       "id": "gift_naver_4674764200",
       "title": "ARDECO 124g 3단 초경량 카본 암막 우양산",
-      "desc": "",
       "price": 15800,
       "imageUrl": "",
       "url": "https://naver.me/G4dVadY3",
@@ -1637,7 +1501,6 @@
     {
       "id": "gift_naver_11923957931",
       "title": "ON US 초경량 암막 우양산",
-      "desc": "",
       "price": 24900,
       "imageUrl": "",
       "url": "https://naver.me/GfrGzr9a",
@@ -1649,7 +1512,6 @@
     {
       "id": "gift_naver_4510353882",
       "title": "WPC 마린 초경량 암막 우양산",
-      "desc": "",
       "price": 27000,
       "imageUrl": "",
       "url": "https://naver.me/IIDyhDXE",
@@ -1661,7 +1523,6 @@
     {
       "id": "gift_naver_12181082393",
       "title": "세인트스코트 자동 암막 남성 우양산",
-      "desc": "",
       "price": 18900,
       "imageUrl": "",
       "url": "https://naver.me/xiLTHLlN",
@@ -1673,7 +1534,6 @@
     {
       "id": "gift_naver_13627138541",
       "title": "하리아 초경량 160g 플라워패턴 암막 양우산",
-      "desc": "",
       "price": 23900,
       "imageUrl": "",
       "url": "https://naver.me/5QsZksaz",
@@ -1685,7 +1545,6 @@
     {
       "id": "gift_naver_8639733354",
       "title": "호버펜3.0 퓨처 에디션 공중부양 각인 볼펜",
-      "desc": "",
       "price": 239000,
       "imageUrl": "",
       "url": "https://naver.me/GmpcdpD7",
@@ -1697,7 +1556,6 @@
     {
       "id": "gift_naver_741971653",
       "title": "라미 2000 마크롤론 각인 볼펜",
-      "desc": "",
       "price": 97500,
       "imageUrl": "",
       "url": "https://naver.me/FkaZ2aFZ",
@@ -1709,7 +1567,6 @@
     {
       "id": "gift_naver_4841584845",
       "title": "우드스미스 수제 이니셜 각인 볼펜",
-      "desc": "",
       "price": 18000,
       "imageUrl": "",
       "url": "https://naver.me/FiPpJP9U",
@@ -1721,7 +1578,6 @@
     {
       "id": "gift_naver_3076955781",
       "title": "폴라펜 자석 피젯 볼펜 선물세트",
-      "desc": "",
       "price": 14800,
       "imageUrl": "",
       "url": "https://naver.me/IFEC3Ef8",
@@ -1733,7 +1589,6 @@
     {
       "id": "gift_naver_7466720924",
       "title": "라미 사파리 볼펜 볼펜심 세트 각인 선물포장",
-      "desc": "",
       "price": 43550,
       "imageUrl": "",
       "url": "https://naver.me/xAfcjfIY",
@@ -1745,7 +1600,6 @@
     {
       "id": "gift_naver_12459220656",
       "title": "들꽃잠 행복 눈 팥찜질팩 핑크",
-      "desc": "",
       "price": 25200,
       "imageUrl": "",
       "url": "https://naver.me/x8kN9k60",
@@ -1757,7 +1611,6 @@
     {
       "id": "gift_naver_4743127347",
       "title": "현미온미 클래식 눈 찜질팩 핑크",
-      "desc": "",
       "price": 19800,
       "imageUrl": "",
       "url": "https://naver.me/FDcasctv",
@@ -1769,7 +1622,6 @@
     {
       "id": "gift_naver_6134344874",
       "title": "들꽃잠 토닥토닥 어깨 목 팥찜질팩 브라운",
-      "desc": "",
       "price": 76800,
       "imageUrl": "",
       "url": "https://naver.me/GUTPrTja",
@@ -1781,7 +1633,6 @@
     {
       "id": "gift_naver_2189770896",
       "title": "온감테라피 온열 목마스크 5매 3개 총15매",
-      "desc": "",
       "price": 16900,
       "imageUrl": "",
       "url": "https://naver.me/xYNFjNpI",
@@ -1793,7 +1644,6 @@
     {
       "id": "gift_naver_11367399882",
       "title": "밸런스어스 민트편백 눈·코 곡물 허브 찜질팩",
-      "desc": "",
       "price": 35900,
       "imageUrl": "",
       "url": "https://naver.me/F2LkMLaa",
@@ -1805,7 +1655,6 @@
     {
       "id": "gift_coupang_9432387868",
       "title": "줄리쿠키 시즌1 280g 선물용 쇼핑백 세트",
-      "desc": "",
       "price": 29500,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/eb3e/6dc66d458aa1ed076188331318af323eb23fdca62ac6e9aa0f527d6dc9b4.jpg",
       "url": "https://link.coupang.com/a/h6SSsbyAoK",
@@ -1817,7 +1666,6 @@
     {
       "id": "gift_coupang_7904525470",
       "title": "그래인스쿠키 콜렉션 쿠키 50p 13종 쇼핑백 세트",
-      "desc": "",
       "price": 37000,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/863625050713710-dd4ffc41-fe22-4ea7-bae9-27d178d61c4a.jpg",
       "url": "https://link.coupang.com/a/h6S2if4G7M",
@@ -1829,7 +1677,6 @@
     {
       "id": "gift_coupang_9591860734",
       "title": "메종원스이어 버터&헤이즐넛 커피 쿠키 쇼핑백 세트",
-      "desc": "",
       "price": 32500,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/e5f1/9fc9a33e16ab5a714b9575510516b09afa84e33ded35e1c5b4c93aaeda72.png",
       "url": "https://link.coupang.com/a/h6S3nBMbbE",
@@ -1841,7 +1688,6 @@
     {
       "id": "gift_coupang_9019442626",
       "title": "겐츠베이커리 클래식 쿠키 선물세트 1호 260g 쇼핑백",
-      "desc": "",
       "price": 16500,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/rs_quotation_api/xlhbwulv/712be927916c4a119dc639219b07dbaf.jpg",
       "url": "https://link.coupang.com/a/h6S47e0itg",
@@ -1853,7 +1699,6 @@
     {
       "id": "gift_coupang_9471947012",
       "title": "제이쿠키 수제쿠키 선물박스 쇼핑백 세트",
-      "desc": "",
       "price": 11420,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/1627/9fdc8d6f7f138a63b5434f4ed2d6f77cfea50a893cb850778e701aa9ff99.png",
       "url": "https://link.coupang.com/a/h6S6c9hORE",
@@ -1865,7 +1710,6 @@
     {
       "id": "gift_coupang_8464783277",
       "title": "나인아워즈 선물용 스페셜티 콜드브루",
-      "desc": "",
       "price": 7900,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/bf8c/17a5ebae96be5956bba16af8f59c9ff283d7fd17830c49e25d980b3f2eca.png",
       "url": "https://link.coupang.com/a/h6S7Zm4vnM",
@@ -1877,7 +1721,6 @@
     {
       "id": "gift_coupang_51600432",
       "title": "그때커피 더치커피 6종 쇼핑백 세트",
-      "desc": "",
       "price": 16050,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/101244158724084-d9aafdc1-b865-49e1-95de-5385670dd71e.jpg",
       "url": "https://link.coupang.com/a/h6T5u4mfZY",
@@ -1889,7 +1732,6 @@
     {
       "id": "gift_coupang_9540794167",
       "title": "비타사나 다크 오르조 블렌드 무카페인 보리커피",
-      "desc": "",
       "price": 41700,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/images/50d1cf73-2025-4971-b383-95fbe34a0490422724487507397382.png",
       "url": "https://link.coupang.com/a/h6S9cy2xGu",
@@ -1901,7 +1743,6 @@
     {
       "id": "gift_coupang_9289044651",
       "title": "카누 커피 블렌드 7호 6종 선물세트",
-      "desc": "",
       "price": 25320,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/499c/9360db9bf9f5cd2e73983a0ca2813878620de5920872960529576b0f8e01.jpg",
       "url": "https://link.coupang.com/a/h6T64xtHgW",
@@ -1913,7 +1754,6 @@
     {
       "id": "gift_coupang_9554881758",
       "title": "마켓더치 콜드브루 앰플형 선물세트 가방 증정",
-      "desc": "",
       "price": 29800,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/4ee1/492d8e459214bfd5052c939ee8a229ea0e93888ee5fc6409b2d4484d4bf3.jpg",
       "url": "https://link.coupang.com/a/h6TaCjD7M4",
@@ -1925,7 +1765,6 @@
     {
       "id": "gift_coupang_9718012100",
       "title": "키네드 미라쥬 블랑 밤공기향수 2종 풀세트",
-      "desc": "",
       "price": 69800,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/ba8a/759910972fcf7ff8a3f2acdf6601b9c72b82a6efb76c042b5d2c217a25ec.png",
       "url": "https://link.coupang.com/a/h6Tb6lX5EW",
@@ -1937,7 +1776,6 @@
     {
       "id": "gift_coupang_9479077084",
       "title": "베르사체 에로스 EDT 30ml 미니5ml 세트",
-      "desc": "",
       "price": 47020,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2031988824512138-da217c6c-b8ed-46ae-a5f4-c64d4111658e.jpg",
       "url": "https://link.coupang.com/a/h6Tdcp5epM",
@@ -1949,7 +1787,6 @@
     {
       "id": "gift_coupang_9479077050",
       "title": "베르사체 오 프레쉬 맨 EDT 세트",
-      "desc": "",
       "price": 45120,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2072040155074742-7282ccf6-3ba0-4aca-bf4c-b0e78c06d03d.jpg",
       "url": "https://link.coupang.com/a/h6TehwvTTo",
@@ -1961,7 +1798,6 @@
     {
       "id": "gift_coupang_8310927839",
       "title": "샤넬 코코마드모아젤 EDP 로샤쉐 리본포장세트",
-      "desc": "",
       "price": 162800,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3d80/76d3a6a6b34ec910d131704e4cf8fc260ebb8a5428879c631a26f0108d09.jpg",
       "url": "https://link.coupang.com/a/h6TfUbNbYi",
@@ -1973,7 +1809,6 @@
     {
       "id": "gift_coupang_9702435090",
       "title": "논픽션 네롤리 드림 미니 파우치 세트",
-      "desc": "",
       "price": 60000,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/08/21/17/7/e06e677c-2e0a-4357-a30c-c921dec8840f.jpg",
       "url": "https://link.coupang.com/a/h6TgY1K7Ua",
@@ -1985,7 +1820,6 @@
     {
       "id": "gift_coupang_8397119086",
       "title": "더보습 립밤 핸드크림 Milky Edition 선물세트",
-      "desc": "",
       "price": 28360,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/de06ef79-7f7d-402f-a98e-72fa3c994db2_fixing_v2.png",
       "url": "https://link.coupang.com/a/h6T9GjY2EK",
@@ -1997,7 +1831,6 @@
     {
       "id": "gift_coupang_9304270985",
       "title": "딥퍼랑스 퍼퓸 핸드크림 립밤 듀오 세트",
-      "desc": "",
       "price": 26310,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/stage/manual/97a7fa67e89a99d6c3c131dfc1c226026301032f5d459447935ba1598fd3_1761268408127.jpg",
       "url": "https://link.coupang.com/a/h6TiyGhxU4",
@@ -2009,7 +1842,6 @@
     {
       "id": "gift_coupang_7558245135",
       "title": "아토르 재주좋아 립밤 5종 감귤 청귤 동백 당근 비트",
-      "desc": "",
       "price": 22670,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f092/0835cc96b5cabb02999fd4381e541467537e3595ca8eaccd3dfbfc05de41.jpg",
       "url": "https://link.coupang.com/a/h6TjDNy0MS",
@@ -2021,7 +1853,6 @@
     {
       "id": "gift_coupang_8754022240",
       "title": "캐스키드슨 미피에디션 립밤 모바일 키트",
-      "desc": "",
       "price": 10900,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/04/07/15/5/cfd7c73e-c203-4100-aee7-7285480a1bff.jpg",
       "url": "https://link.coupang.com/a/h6Tlf4ONci",
@@ -2033,7 +1864,6 @@
     {
       "id": "gift_coupang_9707327549",
       "title": "카밀 핸드크림 립밤 선물세트",
-      "desc": "",
       "price": 12900,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f631/08b817ed3101bff023f70840d91cfd82eec0ef49f204b183b663c4c56f14.png",
       "url": "https://link.coupang.com/a/h6Tml0rN36",
@@ -2045,7 +1875,6 @@
     {
       "id": "gift_coupang_1740151513",
       "title": "포켓몬스터 피카츄 미니 무드등 낮잠",
-      "desc": "",
       "price": 5730,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/60143427125451-078c1c0d-1e9e-47f8-9e8c-441f68f003a7.jpg",
       "url": "https://link.coupang.com/a/h6TnUCeuTQ",
@@ -2057,7 +1886,6 @@
     {
       "id": "gift_coupang_6774221798",
       "title": "레토 무선 갓 LED 스탠드 무드등 화이트",
-      "desc": "",
       "price": 9000,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/180510511108385-4d178a44-4b49-45f7-81b8-1b43717c8c5d.jpg",
       "url": "https://link.coupang.com/a/h6To0o16IK",
@@ -2069,7 +1897,6 @@
     {
       "id": "gift_coupang_7750793796",
       "title": "큐티 병아리 LED 수면 수유 무드등",
-      "desc": "",
       "price": 8500,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/0ca2/db920d780156314c80d5580a1ca9255f9d0c46eb420c08dbc5f2d2e87a89.jpg",
       "url": "https://link.coupang.com/a/h6Tp5xamYK",
@@ -2081,7 +1908,6 @@
     {
       "id": "gift_coupang_7600154384",
       "title": "홈플래닛 충전식 LED 무드등 리모컨 세트",
-      "desc": "",
       "price": 8990,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/82fb/633850ff2cd3424c0a6ae43f067713e6567286a0d55709ff0d2d7d8a4174.jpg",
       "url": "https://link.coupang.com/a/h6TrGQZAOG",
@@ -2093,7 +1919,6 @@
     {
       "id": "gift_coupang_9775547359",
       "title": "모엔 바다 물결 오로라 무드등 16색",
-      "desc": "",
       "price": 8200,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/fda1/8ece439125747682dc81735cddbb83ecf942e3279500f8c39cd41686a363.jpg",
       "url": "https://link.coupang.com/a/h6TsMSacii",
@@ -2105,7 +1930,6 @@
     {
       "id": "gift_coupang_8298433306",
       "title": "블라우풍트 BLP-OE383K 귀걸이형 블루투스 이어폰 블랙",
-      "desc": "",
       "price": 59960,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/1355/2f336bfc184e05fe60d690aa8e49465aa9c705359fcc1069d857a07b7fb1.jpg",
       "url": "https://link.coupang.com/a/h6TuffeSMm",
@@ -2117,7 +1941,6 @@
     {
       "id": "gift_coupang_8670889752",
       "title": "QCY 멜로버즈 프로 플러스 HT08 Hi-Res ANC 블랙",
-      "desc": "",
       "price": 46900,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/0fcf/12b27050f2e360c12fbdf0ed6963f2b6943edad609140b3cde3a09f3a249.jpg",
       "url": "https://link.coupang.com/a/h6UnjqXS4O",
@@ -2129,7 +1952,6 @@
     {
       "id": "gift_coupang_8498887873",
       "title": "필립스 TAT1109 무선 ENC 블루투스 이어폰",
-      "desc": "",
       "price": 17900,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f39b/d95e3c4b7abd45339f82293e8360e23050160d3ebee6ef5723b9b552f293.jpg",
       "url": "https://link.coupang.com/a/h6Ubo2AKEC",
@@ -2141,7 +1963,6 @@
     {
       "id": "gift_coupang_8464317239",
       "title": "어반사운드 에어 프로 커널형 무선 이어폰",
-      "desc": "",
       "price": 11990,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/a35f/37208dc1e9aa444ed1096a91604cf76bfacc419232ada5d6b57126383816.jpg",
       "url": "https://link.coupang.com/a/h6Udqt8ad2",
@@ -2153,7 +1974,6 @@
     {
       "id": "gift_coupang_9734552865",
       "title": "엠포이 디스플레이 커널형 블루투스6.0 이어폰",
-      "desc": "",
       "price": 15990,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/8293/a621f1d1395b7e3d4fd7e26abaf8a618fd557801ecae086d8cab263bc154.jpg",
       "url": "https://link.coupang.com/a/h6TvG6zjrM",
@@ -2165,7 +1985,6 @@
     {
       "id": "gift_coupang_9366752243",
       "title": "로븐 듀얼조절 4구 토스터 RV-T401W",
-      "desc": "",
       "price": 33800,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/5c26/d803635911f1d0f069251b7585ed79b79f6f576d07e0a50765b4e231c799.png",
       "url": "https://link.coupang.com/a/h6Txo1vdGm",
@@ -2177,7 +1996,6 @@
     {
       "id": "gift_coupang_7367868236",
       "title": "홈플래닛 데일리 멀티 2구 토스터 TA01302B-KC",
-      "desc": "",
       "price": 15990,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/194998081504598-fae012ea-eb00-4468-b9fa-f1a2bf023edc.jpg",
       "url": "https://link.coupang.com/a/h6TyuTs8hE",
@@ -2189,7 +2007,6 @@
     {
       "id": "gift_coupang_286139632",
       "title": "필립스 데일리 컬렉션 토스터 HD2582/00 화이트",
-      "desc": "",
       "price": 25910,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/246529836762993-64aee9ac-0113-46ea-9b60-632050243e0c.jpg",
       "url": "https://link.coupang.com/a/h6UfvP8nJc",
@@ -2201,7 +2018,6 @@
     {
       "id": "gift_coupang_24205802",
       "title": "제니퍼룸 미니 오븐 토스터 JR-OT12OM 오트밀",
-      "desc": "",
       "price": 41000,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/67796949408691-faf59c3b-36a4-4edd-8d43-59e5ebc871bf.jpg",
       "url": "https://link.coupang.com/a/h6TzZA4sI8",
@@ -2213,7 +2029,6 @@
     {
       "id": "gift_coupang_293422704",
       "title": "테팔 솔레이 토스터 TT303AKR",
-      "desc": "",
       "price": 32770,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/147c/e5267762ae417f55985e50029a20fb1c4fb33f1ab5365fedbbdc05eac37a.jpg",
       "url": "https://link.coupang.com/a/h6TA49C6vs",
@@ -2225,7 +2040,6 @@
     {
       "id": "gift_coupang_4950849851",
       "title": "압소바 티노 딸랑이 출산선물세트 백화점 포장",
-      "desc": "",
       "price": 36900,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/advertiser/1776405110527/48ee453b-e5fe-4075-bc69-8e97ee9e2054.png",
       "url": "https://link.coupang.com/a/h6TCI87I7g",
@@ -2237,7 +2051,6 @@
     {
       "id": "gift_coupang_9616340762",
       "title": "엘린베베 아기 턱받이 출산선물세트",
-      "desc": "",
       "price": 23800,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/prod/87f1431e-5508-57cd-a21f-7f6ccc07da8c_fixing_v2.png",
       "url": "https://link.coupang.com/a/h6TDO1onaS",
@@ -2249,7 +2062,6 @@
     {
       "id": "gift_coupang_9208512091",
       "title": "블랑101 출산선물 2종 세트 720ml",
-      "desc": "",
       "price": 32000,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/11/26/11/4/1f102823-9a97-4956-8958-7345857771ab.jpg",
       "url": "https://link.coupang.com/a/h6TFMJ2dG0",
@@ -2261,7 +2073,6 @@
     {
       "id": "gift_coupang_8538614695",
       "title": "우이동금손 보떼 베이비 5종 선물세트 선물포장",
-      "desc": "",
       "price": 39900,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/3a03/563221f74bca2545837f29461182b52ea05186d2dbc4f5dafa34e503c763.jpg",
       "url": "https://link.coupang.com/a/h6Uiq8e4ku",
@@ -2273,7 +2084,6 @@
     {
       "id": "gift_coupang_9494361840",
       "title": "레고 보태니컬 여름의 산들바람 11506",
-      "desc": "",
       "price": 26030,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2026/04/14/13/0/f8678118-879a-4346-9b60-93462a0d48e4.png",
       "url": "https://link.coupang.com/a/h6THkxwn36",
@@ -2285,7 +2095,6 @@
     {
       "id": "gift_coupang_8774004710",
       "title": "레고 보태니컬 봄날의 햇살 10349",
-      "desc": "",
       "price": 25430,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/133300318466256-15a45779-d219-466b-b2f1-78c2468876b5.jpg",
       "url": "https://link.coupang.com/a/h6TIp9cCg8",
@@ -2297,7 +2106,6 @@
     {
       "id": "gift_coupang_9244555281",
       "title": "레고 보태니컬 데이지 11508",
-      "desc": "",
       "price": 31890,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/43eb/73bc46adaeb6c27314ce7db1abd97c5575821e03c491f0ab12ad986d73c1.png",
       "url": "https://link.coupang.com/a/h6TJv66qbs",
@@ -2309,7 +2117,6 @@
     {
       "id": "gift_coupang_8505506317",
       "title": "레고 보태니컬 핑크 꽃다발 10342",
-      "desc": "",
       "price": 65920,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/d0c2/ec846eb7a4d619a1c72c5e27e61c80379a6f2821f814e61dc657aefb261c.png",
       "url": "https://link.coupang.com/a/h6TK7X6Sd2",
@@ -2321,7 +2128,6 @@
     {
       "id": "gift_coupang_8715409387",
       "title": "레고 보태니컬 쁘띠 부케 10347",
-      "desc": "",
       "price": 35900,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2025/04/14/14/4/c517b8ee-df6c-4477-ac4a-56ad66e84ba3.png",
       "url": "https://link.coupang.com/a/h6TMed6iuO",
@@ -2333,7 +2139,6 @@
     {
       "id": "gift_coupang_9736589443",
       "title": "게임로그 자석말40개 마그네틱 체스 전략게임",
-      "desc": "",
       "price": 9400,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/34ce/024c8a8ab539a86dd580b2e94778e17803ee9b14b7b1f321fcc267dcc8ad.png",
       "url": "https://link.coupang.com/a/h6TNOyWDjE",
@@ -2345,7 +2150,6 @@
     {
       "id": "gift_coupang_8488695436",
       "title": "루미큐브 클래식",
-      "desc": "",
       "price": 28200,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/1025_amir_coupang_oct_80k/5acd/1e615f6952be3ef3b338eacb59b4a49d5b4a0085f064bdd40f3f90a491bf.jpg",
       "url": "https://link.coupang.com/a/h6TOTTzfiu",
@@ -2357,7 +2161,6 @@
     {
       "id": "gift_coupang_201355",
       "title": "코리아보드게임즈 아미고 할리갈리",
-      "desc": "",
       "price": 15200,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f72f/b5d406f6b6a0893a1960ec7ecbe72eaeae0fdbc1c0aa8dac1cddc82e2103.jpg",
       "url": "https://link.coupang.com/a/h6TP0dK740",
@@ -2369,7 +2172,6 @@
     {
       "id": "gift_coupang_9230577959",
       "title": "컬링팝 미니 컬링 테이블 보드게임",
-      "desc": "",
       "price": 15800,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/2702/78da719920d92cb333b0914e04fb73d91e7cb997bec6867dfa20c9e356bd.jpg",
       "url": "https://link.coupang.com/a/h6UjxmmPo4",
@@ -2381,7 +2183,6 @@
     {
       "id": "gift_coupang_1056794",
       "title": "조엔 조이팀버 젠가",
-      "desc": "",
       "price": 6900,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/1af4/3f6173dcd4387aecf527398f8ffacc75777c60027929c0cdc1ffef7b3b8e.jpg",
       "url": "https://link.coupang.com/a/h6SNiCS4qG",
@@ -2393,7 +2194,6 @@
     {
       "id": "gift_coupang_8440056417",
       "title": "노팅힐 캐시미어 울 커플 머플러",
-      "desc": "",
       "price": 69900,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/b304/37e08260236c3069e3c580d6f9297993336878fd93e211b6dac35e06a8ed.jpg",
       "url": "https://link.coupang.com/a/h6UlnCtSDc",
@@ -2405,7 +2205,6 @@
     {
       "id": "gift_coupang_8413103310",
       "title": "태르아 캐시미어 라이크 머플러 선물포장",
-      "desc": "",
       "price": 18900,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/f87b/d4745024efba3c374be91f522c7a18388c36766c790b7d1ca2631b78d15b.png",
       "url": "https://link.coupang.com/a/h6TSkrYoLs",
@@ -2417,7 +2216,6 @@
     {
       "id": "gift_coupang_9718860732",
       "title": "RULE 부드러운 단색 머플러 선물포장",
-      "desc": "",
       "price": 43500,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/1461/829d1a9e5b840f211f5eb75c013e82f9f6a5bb9e3ece9e817ab633681391.jpg",
       "url": "https://link.coupang.com/a/h6TTq3OMsC",
@@ -2429,7 +2227,6 @@
     {
       "id": "gift_coupang_8384114416",
       "title": "엘르 데이린 울캐시 머플러 SE44MD301",
-      "desc": "",
       "price": 36860,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/742c/b6711ceaf6b2f29683b48f447b23273a0b15e00cd0e7938844348fa9eea0.png",
       "url": "https://link.coupang.com/a/h6TUWjCcUK",
@@ -2441,7 +2238,6 @@
     {
       "id": "gift_coupang_9139092805",
       "title": "어버너 램스울100 머플러",
-      "desc": "",
       "price": 29000,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/9457/43309e1e6ac3f1d68ece7b6f57800b3b655b9fa28a955fbadb0ff9bdf135.jpg",
       "url": "https://link.coupang.com/a/h6TV4kx4G4",
@@ -2453,7 +2249,6 @@
     {
       "id": "gift_coupang_8988585664",
       "title": "아벡 휴대용 접이식 마사지 폼롤러",
-      "desc": "",
       "price": 23760,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/vendor_inventory/image_audit/stage/manual/529e31c4c1b2183dc41fa813097e230465486b87113852110bc1acd7e0ac_1792567243045.jpg",
       "url": "https://link.coupang.com/a/h6TXGfpnQi",
@@ -2465,7 +2260,6 @@
     {
       "id": "gift_coupang_172134008",
       "title": "코멧 EPP 폼롤러",
-      "desc": "",
       "price": 10890,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/15338865964343-100caed4-9c91-4772-b61e-21977d03b6aa.jpg",
       "url": "https://link.coupang.com/a/h6TYMnVShg",
@@ -2477,7 +2271,6 @@
     {
       "id": "gift_coupang_45079633",
       "title": "트라택 EPP 폼롤러 운동법 매뉴얼 구성",
-      "desc": "",
       "price": 19700,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/83859302481207-7efa8e92-e99b-4c5a-80c0-9c59984eceee.jpg",
       "url": "https://link.coupang.com/a/h6TZTu1Yir",
@@ -2489,7 +2282,6 @@
     {
       "id": "gift_coupang_45079642",
       "title": "트라택 EVA 원형 폼롤러 매뉴얼 포스터 구성",
-      "desc": "",
       "price": 37580,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/2592893536904037-5dd786dc-1940-46bf-bac5-dbc20ae39492.jpg",
       "url": "https://link.coupang.com/a/h6T1oDwxky",
@@ -2501,7 +2293,6 @@
     {
       "id": "gift_coupang_4689750142",
       "title": "비핏 EVA 폼롤러 미디움 인디핑크",
-      "desc": "",
       "price": 16750,
       "imageUrl": "https://thumbnail.coupangcdn.com/thumbnails/remote/640x640ex/image/retail/images/109181110793943-dc8f1fcc-b2a2-4cf5-9292-de465ebfb683.jpg",
       "url": "https://link.coupang.com/a/h6T2vtoWHI",
@@ -2513,7 +2304,6 @@
     {
       "id": "gift_coupang_9531950824",
       "title": "원더 더치커피 원두 선물세트, 30ml, 30개입, 1세트",
-      "desc": "감사를 전하는 선물세트",
       "price": 13900,
       "imageUrl": "https://thumbnail6.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/c141/7386136d7b3cda079f81d842059fbce0c1d9178410607a814e29a16902af.jpg",
       "url": "https://link.coupang.com/a/h6UpgHUzyT",
@@ -2525,7 +2315,6 @@
     {
       "id": "gift_coupang_9278105833",
       "title": "고급 꿀 선물세트 국내산 꿀스틱 단체 선물 세트, 1박스, 단일",
-      "desc": "감사를 전하는 선물세트",
       "price": 39900,
       "imageUrl": "https://t2a.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/d371/889113d5ad6c08cfb621a47bbae72432f157b27c9efb6c0730dfa4544252.jpg",
       "url": "https://link.coupang.com/a/h6UswAEKPs",
@@ -2537,7 +2326,6 @@
     {
       "id": "gift_coupang_7417902692",
       "title": "위드오가닉 신생아용 출산선물 10종세트",
-      "desc": "",
       "price": 53710,
       "imageUrl": "https://thumbnail8.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/4287260199127-0d4f2366-8b1a-48ba-8c73-929c6c61ae9d.jpg",
       "url": "https://link.coupang.com/a/h7IOiVL5QO",
@@ -2549,7 +2337,6 @@
     {
       "id": "gift_coupang_9371181165",
       "title": "앰비토이즈 프리미엄 행복성장딸랑이 신생아를 위한 출산선물 백일선물",
-      "desc": "",
       "price": 47000,
       "imageUrl": "https://thumbnail9.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/4015/bbac57e22be3a83ff9b45974021d49b3c6e6856d206776516c3bf5ebcb90.png",
       "url": "https://link.coupang.com/a/h7IPTBCTS0",
@@ -2561,7 +2348,6 @@
     {
       "id": "gift_coupang_7232254932",
       "title": "(엠보 가제손수건10P+선물상자+쇼핑백) 임신출산축하 선물세트 패키지 슈베베",
-      "desc": "",
       "price": 15000,
       "imageUrl": "https://t3a.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/ffda/a48215b18573443498d0f78abfa2f844cfbdd442a8233ec8c5c301d20265.jpg",
       "url": "https://link.coupang.com/a/h7IS0TsjHE",
@@ -2573,7 +2359,6 @@
     {
       "id": "gift_coupang_7115907911",
       "title": "헤트라스 오브제 디퓨저 선물세트, 백화점1층, 4개",
-      "desc": "",
       "price": 23500,
       "imageUrl": "https://t1c.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/980462362772335-cb1f0da6-5024-4dc0-9155-cc1840e8d619.jpg",
       "url": "https://link.coupang.com/a/h7IUL5eRXM",
@@ -2585,7 +2370,6 @@
     {
       "id": "gift_coupang_9711902231",
       "title": "달콤파크 혼합과일 선물세트 가든2호 4.2kg, 1개",
-      "desc": "",
       "price": 59900,
       "imageUrl": "https://thumbnail7.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/acd7/99615a14a2b78ed29e6ee4719682c9c5d2893dc52f678c2d57092b92a891.png",
       "url": "https://link.coupang.com/a/h7IWeeiE56",
@@ -2597,7 +2381,6 @@
     {
       "id": "gift_coupang_9063288616",
       "title": "코토나 홈바디 타월 기프트 팩 5종, 01 코지, 1세트",
-      "desc": "",
       "price": 34800,
       "imageUrl": "https://thumbnail4.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/17349294012010-2f843a0b-066b-4fd2-8d87-cabcb4442a41.jpg",
       "url": "https://link.coupang.com/a/h7IYxDanfM",
@@ -2609,7 +2392,6 @@
     {
       "id": "gift_naver_8003800136",
       "title": "메리퓨어 디퓨저 세트 미니 8종 집들이 신혼부부 결혼 이사 선물 240ml",
-      "desc": "미니 디퓨저 8종 선물세트",
       "price": 32900,
       "imageUrl": "",
       "url": "https://naver.me/xpjEbtJm",
@@ -2621,7 +2403,6 @@
     {
       "id": "gift_naver_5321834951",
       "title": "넛츠넛 견과류 선물세트 하루견과 4종 헬로우네이처 A세트 (아몬드 호두 피칸 캐슈넛) [원산지:상세설명에 표시]",
-      "desc": "",
       "price": 42900,
       "imageUrl": "https://shop-phinf.pstatic.net/20210614_69/1623671289205mpI4N_JPEG/24807131877395213_37875307.jpg?type=o1000",
       "url": "https://naver.me/xcgUiMN0",
@@ -2633,7 +2414,6 @@
     {
       "id": "gift_naver_11239109893",
       "title": "[머거본] 데일리 너츠포유 하루 한봉견과 50입 세트 (박스포장) [원산지:상세설명에 표시]",
-      "desc": "",
       "price": 38900,
       "imageUrl": "https://shop-phinf.pstatic.net/20260324_124/1774328073121bMdT0_JPEG/49935901612502266_678695998.jpg?type=o1000",
       "url": "https://naver.me/FoXJueep",
@@ -2645,7 +2425,6 @@
     {
       "id": "gift_naver_3858688977",
       "title": "견과류 답례품 결혼식 결혼 돌잔치 선물세트 웨딩커플 달콤넛S [원산지:상세설명에 표시]",
-      "desc": "",
       "price": 2300,
       "imageUrl": "https://shop-phinf.pstatic.net/20250605_27/1749107909180XPLnH_JPEG/21616136074486424_355899164.jpg?type=o1000",
       "url": "https://naver.me/FyAJPba5",
@@ -2657,7 +2436,6 @@
     {
       "id": "gift_naver_13689655850",
       "title": "민뚜루 견과류 명절 선물세트 6구 마카다미아 캐슈넛 [원산지:베트남]",
-      "desc": "",
       "price": 48720,
       "imageUrl": "https://shop-phinf.pstatic.net/20260731_182/1785487285944Sj6mX_PNG/41307217022804470_585477814.png?type=o1000",
       "url": "https://naver.me/x9VSW6uB",
@@ -2669,7 +2447,6 @@
     {
       "id": "gift_naver_2287629267",
       "title": "수제 과일 [딸기청+청귤청] 답례품 차 선물세트 500g 2병 포장 [원산지:상세설명에 표시]",
-      "desc": "",
       "price": 37900,
       "imageUrl": "https://shop-phinf.pstatic.net/20230723_126/1690046210873gmk6a_JPEG/2567027633890242_971427837.jpg?type=o1000",
       "url": "https://naver.me/5reRqiZy",
@@ -2681,7 +2458,6 @@
     {
       "id": "gift_naver_4483347896",
       "title": "허밍테이블 전통차 수제청 선물세트 2종세트 [원산지:국산(경상북도 경산시) 등]",
-      "desc": "",
       "price": 31400,
       "imageUrl": "https://shop-phinf.pstatic.net/20250808_64/1754635588250Wf0KP_JPEG/47452957271593317_483241299.jpg?type=o1000",
       "url": "https://naver.me/F93a51Nv",
@@ -2693,7 +2469,6 @@
     {
       "id": "gift_naver_8150938469",
       "title": "생강청 스틱 선물세트 물한방울없는 수제 안동 생강차 원액 농부창고 [원산지:국산(경상북도) 등]",
-      "desc": "",
       "price": 33900,
       "imageUrl": "https://shop-phinf.pstatic.net/20240104_182/1704332361130YC2r1_PNG/105468194905525611_336488418.png?type=o1000",
       "url": "https://naver.me/FbV1yPqS",
@@ -2705,7 +2480,6 @@
     {
       "id": "gift_naver_11567391684",
       "title": "수제청 답례품 300g 과일청 선물세트 어버이날 스승의날 돌잔치 결혼식 패션후르츠 [원산지:상품라벨별도표기]",
-      "desc": "",
       "price": 9900,
       "imageUrl": "https://shop-phinf.pstatic.net/20250308_267/1741411497983rxrKw_JPEG/38523328713507805_1310049705.jpg?type=o1000",
       "url": "https://naver.me/5AuH0xuN",
@@ -2717,7 +2491,6 @@
     {
       "id": "gift_naver_7851576867",
       "title": "지리산모향골 자연 벌꿀 선물세트 250g 3병 아카시아 야생화 밤꿀 답례품 [원산지:국산]",
-      "desc": "",
       "price": 35900,
       "imageUrl": "https://shop-phinf.pstatic.net/20241210_30/17338230347174w7bo_JPEG/63238076732234309_1742341145.jpg?type=o1000",
       "url": "https://naver.me/x0OxcrLt",
@@ -2729,7 +2502,6 @@
     {
       "id": "gift_naver_5608118501",
       "title": "예밀담 선물 꿀 세트 천연벌꿀 국산 단체 기업 3종 아카시아 야생화 밤꿀 [원산지:국산(경상북도 예천군)]",
-      "desc": "",
       "price": 38000,
       "imageUrl": "https://shop-phinf.pstatic.net/20260428_29/1777337042217c40VK_JPEG/111469875706853411_1762518073.jpg?type=o1000",
       "url": "https://naver.me/5dhNRtSa",
@@ -2741,7 +2513,6 @@
     {
       "id": "gift_naver_5831962436",
       "title": "-23.5 꿀선물세트 5종 프리미엄 국산 꽃꿀 선물 야생화 [원산지:국산]",
-      "desc": "",
       "price": 117500,
       "imageUrl": "https://shop-phinf.pstatic.net/20240819_28/1724051646815waTwh_PNG/57524515566033496_285133664.png?type=o1000",
       "url": "https://naver.me/5MvObfeu",
@@ -2753,7 +2524,6 @@
     {
       "id": "gift_naver_5017088386",
       "title": "꿀마실 꿀스틱 국내산 자연벌꿀 12g 30개 아카시아 야생화 밤 3종 선물세트 쇼핑백포함 [원산지:국산]",
-      "desc": "",
       "price": 27000,
       "imageUrl": "https://shop-phinf.pstatic.net/20250328_297/1743129470247QONG1_JPEG/13503891368598083_1463887557.jpg?type=o1000",
       "url": "https://naver.me/xpjERM7W",
@@ -2765,7 +2535,6 @@
     {
       "id": "gift_naver_5791385355",
       "title": "황홀스레 수제 뚱카롱 랜덤 9구 세트 쫀득한 마카롱 선물세트 [원산지:국산(인천광역시 연수구)]",
-      "desc": "",
       "price": 26900,
       "imageUrl": "https://shop-phinf.pstatic.net/20250821_159/1755703652704F2qsN_JPEG/40660237752345573_1795552419.jpg?type=o1000",
       "url": "https://naver.me/GQGMkWlG",
@@ -2777,7 +2546,6 @@
     {
       "id": "gift_naver_13502810450",
       "title": "디저트래 무색소 수제 마카롱 8가지맛 8구 선물 세트 [원산지:상세설명에 표시]",
-      "desc": "",
       "price": 24000,
       "imageUrl": "https://shop-phinf.pstatic.net/20260508_187/1778227811208yNuXF_PNG/112360631237684283_1723551130.png?type=o1000",
       "url": "https://naver.me/xJcOh3dt",
@@ -2789,7 +2557,6 @@
     {
       "id": "gift_naver_6009773424",
       "title": "아이엔맘 무색소 수제 마카롱 10구 랜덤 선물세트 [원산지:상세설명에 표시]",
-      "desc": "",
       "price": 17000,
       "imageUrl": "https://shop-phinf.pstatic.net/20260624_229/1782289251777PKpPb_PNG/59811928623583916_1453282095.png?type=o1000",
       "url": "https://naver.me/xSBAbLC1",
@@ -2801,7 +2568,6 @@
     {
       "id": "gift_naver_9888226891",
       "title": "아이엔맘 수제 휘낭시에 8종 선물세트 [원산지:상세설명에 표시]",
-      "desc": "",
       "price": 21000,
       "imageUrl": "https://shop-phinf.pstatic.net/20260706_64/1783325623561uYwtR_PNG/128235628299359291_1654974325.png?type=o1000",
       "url": "https://naver.me/Fsopyfpo",
@@ -2813,7 +2579,6 @@
     {
       "id": "gift_naver_11886427564",
       "title": "커스터블 피규어 배쓰밤 9구세트 거품 입욕제 베스밤 바다동물, 630g",
-      "desc": "",
       "price": 25000,
       "imageUrl": "https://shop-phinf.pstatic.net/20251203_24/1764724892943UkX6g_PNG/18830433991419938_1337811267.png?type=o1000",
       "url": "https://naver.me/Fc6cy7Od",
@@ -2825,7 +2590,6 @@
     {
       "id": "gift_naver_4612695979",
       "title": "LEPS 렙스 선물세트 버블 배쓰밤 입욕제 140g 4종 러브샷 키트",
-      "desc": "",
       "price": 20900,
       "imageUrl": "https://shop-phinf.pstatic.net/20260518_153/1779085874693AD91D_JPEG/2567400112669789_1583605313.jpg?type=o1000",
       "url": "https://naver.me/5xgcQqrB",
@@ -2837,7 +2601,6 @@
     {
       "id": "gift_naver_9764750247",
       "title": "커퍼솝 타블렛 입욕제 3종 선물세트(탄산 배쓰밤 2종+거품 버블바 1종, 선물박스)",
-      "desc": "",
       "price": 54000,
       "imageUrl": "https://shop-phinf.pstatic.net/20240107_49/1704614489607uqgg3_JPEG/105750317424288891_1475307930.jpg?type=o1000",
       "url": "https://naver.me/xm0Zba36",
@@ -2849,7 +2612,6 @@
     {
       "id": "gift_naver_13193767674",
       "title": "미니배쓰밤 3구 선물세트 입욕제 아르베오 배쓰밤 210g",
-      "desc": "",
       "price": 16900,
       "imageUrl": "https://shop-phinf.pstatic.net/20260326_287/1774504408012epzai_JPEG/108637230081537024_1305000037.jpg?type=o1000",
       "url": "https://naver.me/GIIowlVb",
@@ -2861,7 +2623,6 @@
     {
       "id": "gift_naver_13031554176",
       "title": "놋반 방짜유기 프리미엄 수저 술잔 세트 거북이 2인 선물세트",
-      "desc": "",
       "price": 108000,
       "imageUrl": "https://shop-phinf.pstatic.net/20260410_286/17758057424685dRDR_PNG/104011881257203964_119252273.png?type=o1000",
       "url": "https://naver.me/FXnJiVMc",
@@ -2873,7 +2634,6 @@
     {
       "id": "gift_naver_7649878546",
       "title": "디아르 프리미엄 국내산 4인 스텐 수저 세트 숟가락 젓가락 선물용",
-      "desc": "",
       "price": 36000,
       "imageUrl": "https://shop-phinf.pstatic.net/20261024_125/1792818140796U7I87_PNG/55796668378248180_1255762386.png?type=o1000",
       "url": "https://naver.me/xIF7LnOn",
@@ -2885,7 +2645,6 @@
     {
       "id": "gift_naver_6037230998",
       "title": "1+1 아카시아홈 고급 옻칠 나무 부부 예쁜 수저세트 우드 수저 젓가락 집들이선물",
-      "desc": "",
       "price": 16700,
       "imageUrl": "https://shop-phinf.pstatic.net/20230613_196/16866163660788mEXq_JPEG/1012824757942725_88616239.jpg?type=o1000",
       "url": "https://naver.me/52aNSs3M",
@@ -2897,7 +2656,6 @@
     {
       "id": "gift_naver_4781508401",
       "title": "니코트 천연옻칠 우드수저 4인세트 예쁜포장 선물추천",
-      "desc": "",
       "price": 15900,
       "imageUrl": "https://shop-phinf.pstatic.net/20241024_210/17297385897670yIvu_JPEG/63871437558164316_462537059.jpg?type=o1000",
       "url": "https://naver.me/5VxqEZIB",
@@ -2909,7 +2667,6 @@
     {
       "id": "gift_naver_13425773084",
       "title": "산리오 칼라젤 우정 키링 만들기 반짝이 스티커 메이커 장난감 초등학생 선물 스티커 세트",
-      "desc": "",
       "price": 22900,
       "imageUrl": "https://shop-phinf.pstatic.net/20260420_4/1776659155966vBST5_JPEG/110791989426060523_891672081.jpg?type=o1000",
       "url": "https://naver.me/FjmZNLLB",
@@ -2921,7 +2678,6 @@
     {
       "id": "gift_naver_11553492655",
       "title": "뚝딱키트 벚꽃 비누만들기 키트 4개 꽃비누 선물세트 유아 가정의달",
-      "desc": "",
       "price": 19840,
       "imageUrl": "https://shop-phinf.pstatic.net/20250116_134/1736996310123bHUHn_JPEG/29726608666971451_1599793318.jpg?type=o1000",
       "url": "https://naver.me/xeFts66B",
@@ -2933,7 +2689,6 @@
     {
       "id": "gift_naver_13562114740",
       "title": "아쿠아매직 미술 물감 놀이 진짜 같은 분식 만들기 장난감 어린이 유아 세트 선물 스티커세트",
-      "desc": "",
       "price": 9900,
       "imageUrl": "https://shop-phinf.pstatic.net/20260522_47/177941705056577D5w_JPEG/32129933706098192_429262409.jpg?type=o1000",
       "url": "https://naver.me/FP8gYfMg",
@@ -2945,7 +2700,6 @@
     {
       "id": "gift_naver_13677259245",
       "title": "실링왁스 스쿱마켓 키링 포용메이커 만들기 미술놀이 장난감 여자아이 초등학생 선물 스티커세트",
-      "desc": "",
       "price": 27900,
       "imageUrl": "https://shop-phinf.pstatic.net/20260722_171/1784725155819vbNnK_JPEG/101008045088957288_1418415819.jpg?type=o1000",
       "url": "https://naver.me/xRgl4NTf",
@@ -2957,7 +2711,6 @@
     {
       "id": "gift_naver_10985252579",
       "title": "레토 짱구 오르골 무드등 TV 피규어 집들이선물 인테리어소품 굿즈",
-      "desc": "",
       "price": 32000,
       "imageUrl": "https://shop-phinf.pstatic.net/20241011_151/1728616856208z9GQx_JPEG/13801821997767507_862931141.jpg?type=o1000",
       "url": "https://naver.me/x2Yvgw57",
@@ -2969,7 +2722,6 @@
     {
       "id": "gift_naver_11063046632",
       "title": "회전목마 크리스마스 오르골 소품 LED 무드등 크리스마스선물 화이트레드깃발",
-      "desc": "",
       "price": 58900,
       "imageUrl": "https://shop-phinf.pstatic.net/20241209_273/1733734940738FciXR_JPEG/52293035144246683_451487186.jpg?type=o1000",
       "url": "https://naver.me/F2Lk4IvP",
@@ -2981,7 +2733,6 @@
     {
       "id": "gift_coupang_7704497949",
       "title": "락앤락 데일리 슬림핏 원터치 텀블러, 블루, 아이보리, 400ml, 2개",
-      "desc": "",
       "price": 24950,
       "imageUrl": "https://thumbnail5.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/1210987428062805-b07a2e33-d204-4098-bb5a-1d67aeadea82.jpg",
       "url": "https://link.coupang.com/a/h7JI0Ck2H7",
@@ -2993,7 +2744,6 @@
     {
       "id": "gift_coupang_5913699714",
       "title": "글라스락 스포티 핸들 텀블러 500ml + 350ml, 500ml(페일그린) + 350ml(베이지), 1세트",
-      "desc": "",
       "price": 21800,
       "imageUrl": "https://thumbnail9.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/86207035075919-b70713f4-68f4-4640-aebb-6cd4c0ed1e2a.jpg",
       "url": "https://link.coupang.com/a/h7JJ1gPLJ6",
@@ -3005,7 +2755,6 @@
     {
       "id": "gift_coupang_7266036820",
       "title": "내셔널지오그래픽 익스플로워 메가 이중 스텐텀블러2p세트, 혼합색상, 600ml",
-      "desc": "",
       "price": 30800,
       "imageUrl": "https://thumbnail7.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/7038/e3a1171343337901f6069186397e0f6006f97a24c89b1dd5490beb644b8c.jpg",
       "url": "https://link.coupang.com/a/h7JKBoZ4hg",
@@ -3017,7 +2766,6 @@
     {
       "id": "gift_coupang_6189810336",
       "title": "KEEP 보온 보냉 핸들 텀블러 + 베이직 기프트 파우치 + 슬라이딩 타입 뚜껑 세트, 네이비, 473ml",
-      "desc": "",
       "price": 18100,
       "imageUrl": "https://thumbnail5.coupangcdn.com/thumbnails/remote/212x212ex/image/rs_quotation_api/asnnbskj/c6de4309298540aea4842b59d823f075.jpg",
       "url": "https://link.coupang.com/a/h7JLbe6AsS",
@@ -3029,7 +2777,6 @@
     {
       "id": "gift_coupang_9739999387",
       "title": "HAENDS 핸즈 스테인리스 보온보냉 텀블러 경복궁에서의 하루 에디션, 1개, 730ml, 경복궁 에디션 그린",
-      "desc": "",
       "price": 35000,
       "imageUrl": "https://thumbnail1.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/2852/a0d57dbbba3f8d2da1010cceaf41ab7927d0b8aa4ed36aeb2e1329f0da32.png",
       "url": "https://link.coupang.com/a/h7JLL8xFjU",
@@ -3041,7 +2788,6 @@
     {
       "id": "gift_coupang_5936608289",
       "title": "크렘드마롱 밤잼 비쥬 선물세트, 250g, 2개",
-      "desc": "",
       "price": 36860,
       "imageUrl": "https://t1c.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2021/07/30/11/0/a34203f7-0d1d-448e-9a52-0d37b972dfe5.jpg",
       "url": "https://link.coupang.com/a/h7JMTAiXoy",
@@ -3053,7 +2799,6 @@
     {
       "id": "gift_coupang_8989612573",
       "title": "샹달프 잼 선물세트 E, 336g, 1세트",
-      "desc": "",
       "price": 22800,
       "imageUrl": "https://t3a.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/47ae/43cb66c8f3088cded5bd6bd68fe0f78300a459f6149ed2932664b856a42d.jpg",
       "url": "https://link.coupang.com/a/h7JNwbeYlE",
@@ -3065,7 +2810,6 @@
     {
       "id": "gift_coupang_6431030191",
       "title": "본마망 미니잼 5종 세트, 1세트, 250g",
-      "desc": "",
       "price": 10000,
       "imageUrl": "https://thumbnail14.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/327d/c9e8fc83dcad5caba31ae3a13b48dbf682577122a069f4253213f6901efc.jpg",
       "url": "https://link.coupang.com/a/h7JN59gqaa",
@@ -3077,7 +2821,6 @@
     {
       "id": "gift_coupang_8355458051",
       "title": "마이노멀 저당 저칼로리 잼 3종 선물세트 (딸기잼 + 블루베리잼 + 애플시나몬잼 + 잼/버터 나이프), 1개, 480g",
-      "desc": "",
       "price": 32460,
       "imageUrl": "https://thumbnail1.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/image_audit/prod/cd0a5dd3-a1b0-4329-bafa-4a9bbab0535c_fixing_v2.png",
       "url": "https://link.coupang.com/a/h7JOF0j4VM",
@@ -3089,7 +2832,6 @@
     {
       "id": "gift_coupang_8736712827",
       "title": "위내추럴 무첨가 땅콩 피넛버터 2종 선물세트 2호, 1세트, 475g",
-      "desc": "",
       "price": 30000,
       "imageUrl": "https://thumbnail3.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/1166919011671954-d86d3797-e326-46de-8f87-7b826737ebd9.png",
       "url": "https://link.coupang.com/a/h7JPfxnDoa",
@@ -3101,7 +2843,6 @@
     {
       "id": "gift_coupang_9675311641",
       "title": "폰타나 프리미엄 오일 6호, 1세트",
-      "desc": "",
       "price": 39970,
       "imageUrl": "https://thumbnail12.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2026/07/31/17/0/9d3f1981-4378-4b19-9b12-f6aa9fc3c7dc.jpg",
       "url": "https://link.coupang.com/a/h7JQhfEADs",
@@ -3113,7 +2854,6 @@
     {
       "id": "gift_coupang_8416828456",
       "title": "주스티 1메달 발사믹 식초 250ml + 산도메니코 유기농 올리브오일 250ml 세트, 1세트",
-      "desc": "",
       "price": 74800,
       "imageUrl": "https://t3a.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/52297749199582-ca7843c6-fa53-488c-88c1-3ddbddd23e79.png",
       "url": "https://link.coupang.com/a/h7JQRNbJIW",
@@ -3125,7 +2865,6 @@
     {
       "id": "gift_coupang_9457684529",
       "title": "이야이야앤프렌즈 올리브오일 스틱 15p + 레몬즙 15p + 샷잔 2p 세트, 1세트",
-      "desc": "",
       "price": 83230,
       "imageUrl": "https://t4a.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2026/04/07/17/1/271230cf-224b-44bf-b8d4-317d164d4302.jpg",
       "url": "https://link.coupang.com/a/h7JRrGulwa",
@@ -3137,7 +2876,6 @@
     {
       "id": "gift_coupang_9707417351",
       "title": "올리타리아 올리브유 500ml x 2p + 해라라기씨유 500ml 세트, 1세트",
-      "desc": "",
       "price": 40800,
       "imageUrl": "https://thumbnail2.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2026/08/25/15/6/e51652d9-bd5e-4112-9d3c-eb71a1427df2.jpg",
       "url": "https://link.coupang.com/a/h7JR1Y9NRI",
@@ -3149,7 +2887,6 @@
     {
       "id": "gift_coupang_9392115025",
       "title": "데체코 멩가졸리 유기농 선물세트 2호, 1세트",
-      "desc": "",
       "price": 39520,
       "imageUrl": "https://thumbnail1.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/77bb/3b43a2b9eda0842499fe656797e093a0af23158269e43d94babe318e13e9.png",
       "url": "https://link.coupang.com/a/h7JSBusTAW",
@@ -3161,7 +2898,6 @@
     {
       "id": "gift_coupang_8719577829",
       "title": "대전기름집 참기름 들기름 프리미엄 선물세트 정성1호, 1세트, 180ml",
-      "desc": "",
       "price": 62900,
       "imageUrl": "https://t5c.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/3c37/c11e2275fe2878b4bef1c3008dcb2f0da0edef0dad5a2d8c149e9084f728.jpg",
       "url": "https://link.coupang.com/a/h7JUEhcsHA",
@@ -3173,7 +2909,6 @@
     {
       "id": "gift_coupang_9036743662",
       "title": "저온압착 수랏간 참기름 350ml+들기름 350ml 프리미엄 선물세트, 1세트, 350ml",
-      "desc": "",
       "price": 23900,
       "imageUrl": "https://thumbnail7.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/004e/f759e9ca1f9a5139bbb3baa1f1fb4513de37aff598cd1a78fd6387e1695f.jpg",
       "url": "https://link.coupang.com/a/h7JVi0l1Pw",
@@ -3185,7 +2920,6 @@
     {
       "id": "gift_coupang_8289784202",
       "title": "대현상회 저온압착 참기름 350ml + 들기름 350ml 선물세트, 1세트",
-      "desc": "",
       "price": 28150,
       "imageUrl": "https://thumbnail10.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/94371407265366-5416c75a-a53a-4d10-9a79-daa2666384a7.jpg",
       "url": "https://link.coupang.com/a/h7JVSWhJK0",
@@ -3197,7 +2931,6 @@
     {
       "id": "gift_coupang_318099592",
       "title": "개성방앗간 참기름+들기름 2입선물세트, 단품, 180ml, 2개",
-      "desc": "",
       "price": 14900,
       "imageUrl": "https://thumbnail6.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/81ca/dc8a4045ed924a61bff6dd993c97e574d08ae27c0d75ba526320a42402ae.png",
       "url": "https://link.coupang.com/a/h7JWsBKRJl",
@@ -3209,7 +2942,6 @@
     {
       "id": "gift_coupang_8990320237",
       "title": "서원당 참기름 + 들기름 1호 선물세트 + 쇼핑백, 1세트",
-      "desc": "",
       "price": 44280,
       "imageUrl": "https://t1a.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2025/08/14/18/5/73685d64-a8c0-49ec-9002-bdccfd1d149c.png",
       "url": "https://link.coupang.com/a/h7JW2K3yMK",
@@ -3221,7 +2953,6 @@
     {
       "id": "gift_coupang_9768409167",
       "title": "안성유기 유기명장1호 이종오 방짜유기 민자 2인 수저세트 보자기 선물포장, 1세트, 숟가락2p,젓가락2p,수저주머니2p,보자기, 골드",
-      "desc": "",
       "price": 44900,
       "imageUrl": "https://thumbnail15.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/d3bb/cdc9c8231e27104c0122862aa121a4a45c70916098ae68f72deb18aa5f04.jpg",
       "url": "https://link.coupang.com/a/h7JX6TI6dE",
@@ -3233,7 +2964,6 @@
     {
       "id": "gift_coupang_1441154641",
       "title": "인스푼 훈민정음 수저세트, 골드, 숟가락(2P) + 젓가락(2P) + 고급실크케이스 + 품질보증서 + 쇼핑백, 1세트",
-      "desc": "",
       "price": 30000,
       "imageUrl": "https://thumbnail14.coupangcdn.com/thumbnails/remote/212x212ex/image/1025_amir_coupang_oct_80k/8a09/986ef23b1b354fd0b45bf397e5017cf7ce3462f7b9735cab139ad4f52daf.jpg",
       "url": "https://link.coupang.com/a/h7JYHF4cO4",
@@ -3245,7 +2975,6 @@
     {
       "id": "gift_coupang_8723842003",
       "title": "니코트 국내산 Satin 컬러 수저 + 수저 받침 2인 선물세트, 크림 + 블루블랙, 숟가락 + 젓가락 + 수저받침, 2세트",
-      "desc": "",
       "price": 34760,
       "imageUrl": "https://t2a.coupangcdn.com/thumbnails/remote/212x212ex/image/rs_quotation_api/aefxrimb/7a4780f2143247498eab09f15c2ac2d9.jpg",
       "url": "https://link.coupang.com/a/h7JZjcN91U",
@@ -3257,7 +2986,6 @@
     {
       "id": "gift_coupang_5237523670",
       "title": "오덴세 테누토 커트러리 한식기 2인조 세트, 미러, 숟가락 2p + 젓가락 2p + 받침대 2p, 1세트",
-      "desc": "",
       "price": 33110,
       "imageUrl": "https://t2c.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/567664920043943-171b472f-ba40-47a5-be1c-be5a3e9e5e8a.jpg",
       "url": "https://link.coupang.com/a/h7JZTQ28gm",
@@ -3269,7 +2997,6 @@
     {
       "id": "gift_coupang_5237526108",
       "title": "휘슬러 모던 커트러리 한식 2인 수저세트, 숟가락 2p + 젓가락 2p, 1세트",
-      "desc": "",
       "price": 27290,
       "imageUrl": "https://thumbnail3.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/467232754365075-346edcb6-c716-48a0-9bd3-09800d8bd322.jpg",
       "url": "https://link.coupang.com/a/h7J0tZe7dQ",
@@ -3281,7 +3008,6 @@
     {
       "id": "gift_coupang_8120945358",
       "title": "르크루제 플라워 접시 2종 + 쇼핑백 S 세트, 1세트, 접시 14cm + 19cm, 머랭",
-      "desc": "",
       "price": 48300,
       "imageUrl": "https://thumbnail4.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2026/06/03/18/8/24db9f14-7933-472b-9e98-bd3e11afac3e.jpg",
       "url": "https://link.coupang.com/a/h7J13LSnim",
@@ -3293,7 +3019,6 @@
     {
       "id": "gift_coupang_8574482105",
       "title": "소소모소 너울 물결 접시 2p 선물세트, 베이지(접시), 1세트",
-      "desc": "",
       "price": 38000,
       "imageUrl": "https://thumbnail11.coupangcdn.com/thumbnails/remote/212x212ex/image/rs_quotation_api/iuiudqie/af2023e09818473f8b3e25ca2dfac43d.jpg",
       "url": "https://link.coupang.com/a/h7J2DXWlGM",
@@ -3305,7 +3030,6 @@
     {
       "id": "gift_coupang_8750747649",
       "title": "데일리라이크 웨딩 플레이트 2종 세트, 1세트, 접시 2p + 메세지카드, 혼합색상",
-      "desc": "",
       "price": 26500,
       "imageUrl": "https://thumbnail1.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2025/05/02/18/0/b943f4e8-821f-4ea4-b8a5-c305e491ab9d.jpg",
       "url": "https://link.coupang.com/a/h7J3fAmhuS",
@@ -3317,7 +3041,6 @@
     {
       "id": "gift_coupang_9039062235",
       "title": "쓰임 국립박물관 굿즈 신라의 미소 소스볼 3종 세트, 혼합색상, 1세트",
-      "desc": "",
       "price": 25000,
       "imageUrl": "https://thumbnail5.coupangcdn.com/thumbnails/remote/212x212ex/image/rs_quotation_api/2cmpofh1/8797e52162f041ce94020511e6aa616f.jpg",
       "url": "https://link.coupang.com/a/h7J3RC7nXM",
@@ -3329,7 +3052,6 @@
     {
       "id": "gift_coupang_7591914650",
       "title": "포트메리온 악센트 볼 세트, 1개, 접시 1p + 미니볼 4p, 혼합색상",
-      "desc": "",
       "price": 38720,
       "imageUrl": "https://thumbnail2.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/69740316916181-d0a18bcb-e18c-4eab-9643-b8728d807b93.jpg",
       "url": "https://link.coupang.com/a/h7J4si3WYC",
@@ -3341,7 +3063,6 @@
     {
       "id": "gift_coupang_8255135660",
       "title": "닥스 남성용 신사 중목 체크 3족 양말 선물세트 + 쇼핑백",
-      "desc": "",
       "price": 22000,
       "imageUrl": "https://thumbnail5.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2037645813040898-02b43b46-40c9-4c59-a242-bab7845a9a85.jpg",
       "url": "https://link.coupang.com/a/h7J5xl67jM",
@@ -3353,7 +3074,6 @@
     {
       "id": "gift_coupang_8637234532",
       "title": "국산) 비바삭스 여성 아가일 패턴 5족 선물세트 (쇼핑백 사은품) 고급 패션 중목양말",
-      "desc": "",
       "price": 12490,
       "imageUrl": "https://thumbnail11.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/b98e/280baabf1538fbbe2a04dbaa3e95b6a40ad5ef0a879b7dd23762acf863a8.jpg",
       "url": "https://link.coupang.com/a/h7J59jOXSK",
@@ -3365,7 +3085,6 @@
     {
       "id": "gift_coupang_7646284331",
       "title": "삭피엔스 여성용 디즈니 캐릭터 프리미엄 자수 양말 3종 선물세트",
-      "desc": "",
       "price": 12900,
       "imageUrl": "https://t2c.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2008202114600829-d3b8902b-6d55-4fa2-8b60-fcb9062841f8.jpg",
       "url": "https://link.coupang.com/a/h7J6J139W0",
@@ -3377,7 +3096,6 @@
     {
       "id": "gift_coupang_8080236405",
       "title": "아놀드파마 남성용 캐주얼 패션 발목 양말 5족 선물세트 박스 중목 면 학생용 성인용 스포츠 고급 삭스 AP5171",
-      "desc": "",
       "price": 16020,
       "imageUrl": "https://thumbnail3.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/bd60/400d1bfe3b069004a246b322a3f8d0f263d0839821b550d0aa3616d4f916.jpg",
       "url": "https://link.coupang.com/a/h7J7kKxg7w",
@@ -3389,7 +3107,6 @@
     {
       "id": "gift_coupang_4540937779",
       "title": "에페이오스 배쓰밤 12종 선물세트, 840g, 1개",
-      "desc": "",
       "price": 20900,
       "imageUrl": "https://thumbnail5.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/image_audit/stage/manual/2c0d0ae8-419d-4ead-afb9-662acfe33052_1765178350854.jpeg",
       "url": "https://link.coupang.com/a/h7J8xd4FZA",
@@ -3401,7 +3118,6 @@
     {
       "id": "gift_coupang_9724233125",
       "title": "아임밤 6일밤 세트 스파클링버블 6종 거품 탄산 멀티 입욕제, 1개, 720g",
-      "desc": "",
       "price": 21060,
       "imageUrl": "https://thumbnail9.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/5051/2894aaae1bf5f2e038f9e22dc28681a8d7e70ca675cfb6bf2738fe9dda75.jpg",
       "url": "https://link.coupang.com/a/h7J87LEDPE",
@@ -3413,7 +3129,6 @@
     {
       "id": "gift_coupang_9046856311",
       "title": "배씨 배쓰밤 스윗듀오 2구 선물세트 거품 입욕제, 1개, 280g",
-      "desc": "",
       "price": 8800,
       "imageUrl": "https://thumbnail15.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/image_audit/prod/2ee4621b-b80c-47f0-b62e-ca496915b7bc_fixing_v2.png",
       "url": "https://link.coupang.com/a/h7J9HSss9I",
@@ -3425,7 +3140,6 @@
     {
       "id": "gift_coupang_5815710489",
       "title": "러쉬 릴렉스 기프트 세트, 1세트",
-      "desc": "",
       "price": 69000,
       "imageUrl": "https://t5a.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/1098800546464315-ab061362-f17c-423b-8574-fcc05f5b0206.jpg",
       "url": "https://link.coupang.com/a/h7KaiLOTfg",
@@ -3437,7 +3151,6 @@
     {
       "id": "gift_coupang_6307303591",
       "title": "아르비앙 배쓰밤 굿나잇 4구세트 거품 입욕제, 520g, 1개",
-      "desc": "",
       "price": 15320,
       "imageUrl": "https://thumbnail14.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/image_audit/prod/f6af3732-4c84-4743-882c-7152ca66e7e3_fixing_v2.png",
       "url": "https://link.coupang.com/a/h7KaSruKNo",
@@ -3449,7 +3162,6 @@
     {
       "id": "gift_coupang_7660963854",
       "title": "양키캔들 보티브 캔들 4종 B 선물 세트 + 쇼핑백, 블랙체리, 클린코튼, 핑크샌드, 미드썸머나잇, 250g, 1개",
-      "desc": "",
       "price": 9160,
       "imageUrl": "https://thumbnail14.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2025/12/01/12/5/4a1267fd-7c35-414c-93df-ad0c0c0109d1.jpg",
       "url": "https://link.coupang.com/a/h7KbSNoleC",
@@ -3461,7 +3173,6 @@
     {
       "id": "gift_coupang_6498506288",
       "title": "팩토리노멀 갈색병 우드심지 소이캔들 대형, 나그참파, 210g, 1개",
-      "desc": "",
       "price": 22000,
       "imageUrl": "https://thumbnail12.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/5c6d/e1777c82618252ecd8932c191bb30a4eb7c31aaa85b343aeb0de25eeee10.jpg",
       "url": "https://link.coupang.com/a/h7KctKV2js",
@@ -3473,7 +3184,6 @@
     {
       "id": "gift_coupang_8134849941",
       "title": "하리보 자캔들 소 3종 베스트향 A 선물세트 + 쇼핑백, 트로피칼 펀, 스트로베리 해피니스, 체리콜라, 혼합색상",
-      "desc": "",
       "price": 23290,
       "imageUrl": "https://thumbnail3.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/86559702356280-364bb6ba-36b4-4e84-adca-c874bd0ed87f.png",
       "url": "https://link.coupang.com/a/h7Kc4DEybc",
@@ -3485,7 +3195,6 @@
     {
       "id": "gift_coupang_9070905851",
       "title": "페페무드 웨딩 부부 캔들 세트 (캔들 받침 선물 포장 쇼핑백) 결혼 오브제, 블랙베리&베이, 화이트",
-      "desc": "",
       "price": 19900,
       "imageUrl": "https://t2a.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/7b67/67049e926908b43eb83a455ec2d8cceb50ae3370f72f14c1089421fcea1b.jpg",
       "url": "https://link.coupang.com/a/h7KdEYSoHk",
@@ -3497,7 +3206,6 @@
     {
       "id": "gift_coupang_2228422932",
       "title": "코멧 캔들워머 + 캔들 + 할로겐전구 2P 세트, 블랙체리, 화이트",
-      "desc": "",
       "price": 20990,
       "imageUrl": "https://thumbnail9.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/111971744075885-97e45f85-509f-41e6-bb83-2763cb898895.jpg",
       "url": "https://link.coupang.com/a/h7Kefk75K8",
@@ -3509,7 +3217,6 @@
     {
       "id": "gift_coupang_6260163716",
       "title": "춘식이 대형 담요",
-      "desc": "",
       "price": 18800,
       "imageUrl": "https://thumbnail9.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/df53/a50345ea7afcbb573e65c134f9fb65c779136b578f19056ac8e6a74661f9.jpg",
       "url": "https://link.coupang.com/a/h7KfkHhfmS",
@@ -3521,7 +3228,6 @@
     {
       "id": "gift_coupang_9252444503",
       "title": "데시뉴 무디 카우 블랭킷 극세사 담요 + 파우치 세트",
-      "desc": "",
       "price": 12460,
       "imageUrl": "https://thumbnail13.coupangcdn.com/thumbnails/remote/212x212ex/image/rs_quotation_api/ijbso2l8/0a1866b787fe423b8db2855463c195c4.jpg",
       "url": "https://link.coupang.com/a/h7KfVcq3rg",
@@ -3533,7 +3239,6 @@
     {
       "id": "gift_coupang_9337401136",
       "title": "다다랜드 리얼푸드 감성 애착 블랭킷 담요",
-      "desc": "",
       "price": 8500,
       "imageUrl": "https://t2c.coupangcdn.com/thumbnails/remote/212x212ex/image/rs_quotation_api/7inyfeir/f549b2fccc0d4601ae60d6011ba9ceb2.jpg",
       "url": "https://link.coupang.com/a/h7KgwZ4H24",
@@ -3545,7 +3250,6 @@
     {
       "id": "gift_coupang_9276697052",
       "title": "크림슨비콘 선물용 꽃다발 담요 완성품 쇼핑백 포함",
-      "desc": "",
       "price": 29800,
       "imageUrl": "https://t1c.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/507d/fbfe4956de25a1ae7344a19cd16570b05d163f2b46e8a5ca781dd64baec4.jpg",
       "url": "https://link.coupang.com/a/h7Kg7L2neu",
@@ -3557,7 +3261,6 @@
     {
       "id": "gift_coupang_7656850549",
       "title": "이플린 비숑 극세사 망토 입는 담요",
-      "desc": "",
       "price": 11610,
       "imageUrl": "https://thumbnail9.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/541b/15fb60bfffb3cb271b781c426fc63201223d356e09eaa50315a65e4074b8.jpg",
       "url": "https://link.coupang.com/a/h7KhJvMlY5",
@@ -3569,7 +3272,6 @@
     {
       "id": "gift_coupang_8234056556",
       "title": "공식정품 특대형 월레스와 그로밋 인형 바디필로우 - 70cm, 1개",
-      "desc": "",
       "price": 29860,
       "imageUrl": "https://thumbnail11.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/4f17/66d10a16eed47ab7615dd5c403d197fb68a45071c55f5cf871cc3d255d19.png",
       "url": "https://link.coupang.com/a/h7KjgYF2gm",
@@ -3581,7 +3283,6 @@
     {
       "id": "gift_coupang_9091468165",
       "title": "캐치티니핑 핑크 버니 하츄핑 봉제인형, 200mm, 1개",
-      "desc": "",
       "price": 21900,
       "imageUrl": "https://thumbnail4.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2025/09/26/15/1/8ff7b663-5d3f-4036-9f60-27a8f03e676c.jpg",
       "url": "https://link.coupang.com/a/h7KjRpigfI",
@@ -3593,7 +3294,6 @@
     {
       "id": "gift_coupang_6460603166",
       "title": "다다랜드 말하는 선인장 작동인형, 35cm, 마라카스선인장, 1개",
-      "desc": "",
       "price": 9500,
       "imageUrl": "https://thumbnail13.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/4454252671928722-3291f645-9738-44fb-9541-c06ed9b95ffc.jpg",
       "url": "https://link.coupang.com/a/h7KkrvwTjE",
@@ -3605,7 +3305,6 @@
     {
       "id": "gift_coupang_9673916033",
       "title": "포포프렌즈 옷 갈아입는 토끼인형 애착인형, 1개, 화이트, 40cm",
-      "desc": "",
       "price": 19500,
       "imageUrl": "https://thumbnail11.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/7b66/8d748967cb8bffea6024036a7bf388b1ea2fef54045cdfcc94aeea21b6ad.png",
       "url": "https://link.coupang.com/a/h7Kk2ezcKi",
@@ -3617,7 +3316,6 @@
     {
       "id": "gift_coupang_7650309503",
       "title": "로지텍 무소음 무선 마우스 Pebble M350S, 도브화이트",
-      "desc": "",
       "price": 24340,
       "imageUrl": "https://thumbnail1.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/2432/9cb1ac413ee85424a1fb113ddb3a221eb9e12a3ca853cf986fb6eef9ab7d.jpg",
       "url": "https://link.coupang.com/a/h7KmblV5iu",
@@ -3629,7 +3327,6 @@
     {
       "id": "gift_coupang_7121638436",
       "title": "삼성전자 무소음 무선 마우스, SPA-KMA4PRB, 블랙",
-      "desc": "",
       "price": 18500,
       "imageUrl": "https://thumbnail4.coupangcdn.com/thumbnails/remote/212x212ex/image/1025_amir_coupang_oct_80k/8383/ba757bd78e284d55b1d4d542b1e984e24d044dae52ba4c39ccdd46831097.jpg",
       "url": "https://link.coupang.com/a/h7KmLAS4wS",
@@ -3641,7 +3338,6 @@
     {
       "id": "gift_coupang_9019310844",
       "title": "아이리버 GT100 항균처리 충전 스마트 스크롤 무한 휠 멀티페어링 블루투스 컴팩트 무소음 무선 마우스, 블랙",
-      "desc": "",
       "price": 32900,
       "imageUrl": "https://thumbnail13.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2025/08/26/17/9/1dccc35d-bd4c-4069-b83e-d685691a7e5c.jpg",
       "url": "https://link.coupang.com/a/h7KSyJZSBU",
@@ -3653,7 +3349,6 @@
     {
       "id": "gift_coupang_8790277927",
       "title": "지클릭커 마들렌 미니 블루투스 듀얼 모드 무선 마우스, PINK, OP25",
-      "desc": "",
       "price": 4730,
       "imageUrl": "https://thumbnail11.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2025/05/29/14/7/cf4a40a0-55e3-4ec8-9298-b5c787e6ce49.jpg",
       "url": "https://link.coupang.com/a/h7KnlvZO44",
@@ -3665,7 +3360,6 @@
     {
       "id": "gift_coupang_8717335212",
       "title": "UGREEN 유그린 5000DPI 무한휠 스크롤 멀티페어링 세미 버티컬 블루투스 무선 무소음 마우스 |인체공학 설계|가로 스크롤|자동절전| 맥북 태블릿 노트북 컴퓨터 PC 호환, Black, M751",
-      "desc": "",
       "price": 27900,
       "imageUrl": "https://thumbnail13.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/ba24/278b1c4a67b4790a441564303f45fc760ad430b0c444eab40f503ee8f697.jpg",
       "url": "https://link.coupang.com/a/h7KnVCer80",
@@ -3677,7 +3371,6 @@
     {
       "id": "gift_coupang_7687816904",
       "title": "로지텍 무선 텐키리스 키보드, 스모키블랙, K380S, 제조사축",
-      "desc": "",
       "price": 39200,
       "imageUrl": "https://thumbnail8.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/0310/520f8b2adff949907107fbd23eb2a21b8112fd82d7418fb91c83ea8e39dc.jpg",
       "url": "https://link.coupang.com/a/h7Ko1uUVJA",
@@ -3689,7 +3382,6 @@
     {
       "id": "gift_coupang_6228478316",
       "title": "라이프썸 미니 블루투스 키보드(LFS-HA43) C타입 충전식 휴대용 3대기기 멀티 페어링 저소음, 실버, LFS-HA43, 제조사축",
-      "desc": "",
       "price": 19900,
       "imageUrl": "https://t1a.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/image_audit/stage/manual/a4d3766a0f2ad7b2342c0297bf38d03490ca341c66320c2e13860bf57418_1776215549236.jpg",
       "url": "https://link.coupang.com/a/h7KpBvZf08",
@@ -3701,7 +3393,6 @@
     {
       "id": "gift_coupang_4382661",
       "title": "오아 접이식 블루투스 무선 접이식 키보드, 메탈그레이, OA-KB100MG, 제조사축",
-      "desc": "",
       "price": 33400,
       "imageUrl": "https://thumbnail6.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2024/09/24/12/4/b7a21dcf-77e7-4765-a40d-7d763d423eb0.jpg",
       "url": "https://link.coupang.com/a/h7KqbShYCi",
@@ -3713,7 +3404,6 @@
     {
       "id": "gift_coupang_1426742",
       "title": "코시 베이직 블루투스 키보드, 실버, KB1352BT, 제조사축",
-      "desc": "",
       "price": 15900,
       "imageUrl": "https://t2c.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2155717486788992-bd8824e4-eec6-4c68-9a15-d5f20d21aab7.jpg",
       "url": "https://link.coupang.com/a/h7KqMvfbBk",
@@ -3725,7 +3415,6 @@
     {
       "id": "gift_coupang_8247537030",
       "title": "AULA 아우라 독거미 유무선 기계식 키보드, 블랙, F87Pro, 저소음 피치축",
-      "desc": "",
       "price": 67000,
       "imageUrl": "https://t3a.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/4e0f/976ef2e14a3e40f1932b465ceec0c939eb8a24dc62a81eacdcbe6e602160.jpg",
       "url": "https://link.coupang.com/a/h7KrmLvCvs",
@@ -3737,7 +3426,6 @@
     {
       "id": "gift_coupang_7762543485",
       "title": "스피디 15W 고속 무선충전 거치대, 블랙, 1개",
-      "desc": "",
       "price": 6900,
       "imageUrl": "https://thumbnail10.coupangcdn.com/thumbnails/remote/212x212ex/image/1025_amir_coupang_oct_80k/2fbb/e2bedbf36c1afc281e13ba073d81cdf70eaea975efaff26a51b3738448a6.jpg",
       "url": "https://link.coupang.com/a/h7KsvxD6J2",
@@ -3749,7 +3437,6 @@
     {
       "id": "gift_coupang_8542832078",
       "title": "신지모루 Qi2 3in1 무선충전 맥세이프 M 윙 터보 갤럭시 워치 거치대, 블랙메탈, 1개",
-      "desc": "",
       "price": 41900,
       "imageUrl": "https://thumbnail13.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/344522090099043-221bb615-0cab-4239-916c-53ddb30aec33.jpg",
       "url": "https://link.coupang.com/a/h7Ks6dSgSW",
@@ -3761,7 +3448,6 @@
     {
       "id": "gift_coupang_8957107361",
       "title": "슈피겐 Qi2 3in1 15W 맥세이프 무선 충전기, 애플-갤럭시워치 듀얼 블랙, 1개",
-      "desc": "",
       "price": 50250,
       "imageUrl": "https://t4a.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2026/01/29/17/2/49abaa1e-8769-4e3a-b589-1e44f6c6f622.jpg",
       "url": "https://link.coupang.com/a/h7KtHsZf0S",
@@ -3773,7 +3459,6 @@
     {
       "id": "gift_coupang_9393559430",
       "title": "벨킨 울트라차지 3in1 Qi2 25W 모듈형 초고속 무선 충전 독 WIZ052krSA, 샌드, 1개",
-      "desc": "",
       "price": 69000,
       "imageUrl": "https://thumbnail10.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2026/02/23/14/6/9c6d18b7-0e50-4b95-8202-07561291d82f.png",
       "url": "https://link.coupang.com/a/h7KuiMmnGm",
@@ -3785,7 +3470,6 @@
     {
       "id": "gift_coupang_9754779968",
       "title": "포른 UV 살균 올스텐 듀얼 미니 가습기 초음파 무선 사무실 탁상용 700ml, 크림화이트, SURH001",
-      "desc": "",
       "price": 47800,
       "imageUrl": "https://thumbnail11.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/ab6e/ea638878e0edec1bd98bc73435c813d315ad92ecf3e32cb2e8e98626e7d8.jpg",
       "url": "https://link.coupang.com/a/h7KvfCMcWO",
@@ -3797,7 +3481,6 @@
     {
       "id": "gift_coupang_8925174668",
       "title": "프롬비 워터캡슐2 무선 생수병 가습기, FA145, 골드",
-      "desc": "",
       "price": 31800,
       "imageUrl": "https://thumbnail13.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/2f0f/9468c7a5598bd6bbbf7d77b64d12e26a2b48fdaa1cc64221873f99bf2c49.jpg",
       "url": "https://link.coupang.com/a/h7KvP6AJky",
@@ -3809,7 +3492,6 @@
     {
       "id": "gift_coupang_7821938293",
       "title": "신지모루 오퓨리엠 테이블 미스트 USB 무드등 미니 가습기 600ml, OPRM_MIST_TBL_WT_SJM, 화이트",
-      "desc": "",
       "price": 10900,
       "imageUrl": "https://thumbnail12.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/250621239733855-5d11db63-03bc-49b5-b691-4ce5a3671ca4.jpg",
       "url": "https://link.coupang.com/a/h7Kwrhm1xQ",
@@ -3821,7 +3503,6 @@
     {
       "id": "gift_coupang_9717685527",
       "title": "에이든 휴대용 초음파 미니 가습기, 화이트, ADEN-003",
-      "desc": "",
       "price": 7900,
       "imageUrl": "https://thumbnail2.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/7641/2667baca5df00d1799536579a8db8907698edcb1debfe02f83ff59abcfe7.png",
       "url": "https://link.coupang.com/a/h7Kw1yjcGG",
@@ -3833,7 +3514,6 @@
     {
       "id": "gift_coupang_8844278766",
       "title": "홈플래닛 무드 라이팅 미스트 분사 미니 가습기 600ml, 화이트, LLD-J261",
-      "desc": "",
       "price": 8290,
       "imageUrl": "https://thumbnail11.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/106822501636945-f98e4551-96c6-4d36-9b22-de0a1a8c6f3a.jpg",
       "url": "https://link.coupang.com/a/h7KxE0imWW",
@@ -3845,7 +3525,6 @@
     {
       "id": "gift_coupang_6210706003",
       "title": "이터널아트 틴케이스 색연필 전문가용, 72색, 1세트",
-      "desc": "",
       "price": 27000,
       "imageUrl": "https://t4a.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/8a74/bc5fdab8f5d278a04d88058fba9b7203f10f995c1523a5ef374451d36c3a.jpg",
       "url": "https://link.coupang.com/a/h7Ky7QvbQ4",
@@ -3857,7 +3536,6 @@
     {
       "id": "gift_coupang_7752509135",
       "title": "HB문화사 프리미엄 드로잉 스케치 35종 스케치북 파우치백 세트, 1개",
-      "desc": "",
       "price": 19290,
       "imageUrl": "https://thumbnail11.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/b94c/6e0cbc964621ced932ce0da38cfe4086c6eff8568c5d3082ef0dbe6cffa5.jpg",
       "url": "https://link.coupang.com/a/h7KzImNorI",
@@ -3869,7 +3547,6 @@
     {
       "id": "gift_coupang_8357593088",
       "title": "다다 디자인 드로잉 마커펜 천케이스, 36색, 1세트",
-      "desc": "",
       "price": 5500,
       "imageUrl": "https://t3c.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/292246867687850-67f2f0f4-1340-49e5-b64f-214357d10e14.jpg",
       "url": "https://link.coupang.com/a/h7KAiICheS",
@@ -3881,7 +3558,6 @@
     {
       "id": "gift_coupang_143150069",
       "title": "파버카스텔 9000 미술연필 6p 세트 119063, 8B+ 6B + 4B + 2B + B + HB, 1세트",
-      "desc": "",
       "price": 7950,
       "imageUrl": "https://thumbnail9.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2018/09/27/19/4/9f8722b3-7604-4593-a849-a2b32352302e.jpg",
       "url": "https://link.coupang.com/a/h7KAS0Z8sm",
@@ -3893,7 +3569,6 @@
     {
       "id": "gift_coupang_7774548163",
       "title": "아클라 오일 파스텔 50색 그림그리기 어반드로잉 스케치 미술용품 준비물, 1개",
-      "desc": "",
       "price": 14100,
       "imageUrl": "https://t4a.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/57c9/2f9a26b748609395bfd3ac896917c95833c21398caadfb3cbb6aa06d8523.jpg",
       "url": "https://link.coupang.com/a/h7KBsSFRqS",
@@ -3905,7 +3580,6 @@
     {
       "id": "gift_coupang_8490789004",
       "title": "어린이 LED 무드등 보석십자수 DIY 패키지, 1개, 25잠자는시바견",
-      "desc": "",
       "price": 9900,
       "imageUrl": "https://t1a.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/b4e9/c2f97a072623586bde9afcab481fe991b432bfa2579c626ceea753fe4d43.jpg",
       "url": "https://link.coupang.com/a/h7KDu4kwtE",
@@ -3917,7 +3591,6 @@
     {
       "id": "gift_coupang_8645784913",
       "title": "루아즈 보석십자수 DIY 키트 세트 패브릭형, 01 고래이야기, 1세트",
-      "desc": "",
       "price": 6210,
       "imageUrl": "https://t5c.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2025/01/14/9/0/4266ec66-e850-446a-9ad2-6141f56c8627.jpg",
       "url": "https://link.coupang.com/a/h7KD596Akm",
@@ -3929,7 +3602,6 @@
     {
       "id": "gift_coupang_8992314897",
       "title": "Diyee 보석십자수 컵받침 만들기 세트, 1세트, D022 플라워",
-      "desc": "",
       "price": 16800,
       "imageUrl": "https://thumbnail14.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/19ed/5234a66e7d832919bc89a1ecb93b8edaf85ca38339cc876afddd4cf2777b.jpg",
       "url": "https://link.coupang.com/a/h7KEIelcSO",
@@ -3941,7 +3613,6 @@
     {
       "id": "gift_coupang_9467987373",
       "title": "보석십자수 큐빅스티커 DIY 키트 고양이 12종 세트. ver2, 1개, 패턴 B",
-      "desc": "",
       "price": 7900,
       "imageUrl": "https://thumbnail12.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/8e04/3442e190ede110eb4ff468a4e35fe1048d8c1ff970842d6dcf499f9a6744.jpg",
       "url": "https://link.coupang.com/a/h7KFhQZ1YO",
@@ -3953,7 +3624,6 @@
     {
       "id": "gift_coupang_8564293070",
       "title": "디즈니 주토피아 보석십자수 캔버스 40x50cm DBS013, 1개, 혼합",
-      "desc": "",
       "price": 24900,
       "imageUrl": "https://thumbnail11.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/68ca/f2ad7a7dbc0f5157bbc0a62abfd991cb2aeb8c2393d909c848516181de37.jpg",
       "url": "https://link.coupang.com/a/h7KFR8JYYu",
@@ -3965,7 +3635,6 @@
     {
       "id": "gift_coupang_8034743324",
       "title": "우디우디 여행용 기내용 메모리폼 목베개 쿠션 (EVA 마카롱 케이스), 블랙",
-      "desc": "",
       "price": 23900,
       "imageUrl": "https://t1c.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/dc4d/65f27d15395b3c301a9a1443ca1a52d45032fb7c806477697279320dfea7.jpg",
       "url": "https://link.coupang.com/a/h7KGVAcYcm",
@@ -3977,7 +3646,6 @@
     {
       "id": "gift_coupang_7372041693",
       "title": "피어17 여행용목베개 달팽이목베개 v2 승무원 기내용 메모리폼, 네이비블루",
-      "desc": "",
       "price": 69000,
       "imageUrl": "https://thumbnail9.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/23c0/7058c88cda5c1e5ddbc9c9ba22c3ab9b2b2e68785cfcfe92c1ef5b214fba.jpg",
       "url": "https://link.coupang.com/a/h7KHwabXtQ",
@@ -3989,7 +3657,6 @@
     {
       "id": "gift_coupang_8869572357",
       "title": "키크 keek 에어 넥쿠션 필로우오V2 휴대용 출퇴근용 여행용 특허 목베개 승무원 기내용, Charcoal",
-      "desc": "",
       "price": 45000,
       "imageUrl": "https://thumbnail15.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/ddb6/d5fc2dbf4794464eae418c935f67bc0e6cc8e38f6af70ae2d42fec64d5a2.png",
       "url": "https://link.coupang.com/a/h7KTqVHOzQ",
@@ -4001,7 +3668,6 @@
     {
       "id": "gift_coupang_9244534005",
       "title": "랑고 휴대용 올인원 메모리폼 목베개 멜로우 파우치 세트",
-      "desc": "",
       "price": 13520,
       "imageUrl": "https://t3c.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/9577/f14be08972773686172247a74078aa0aab4a6aa1cd38b124e09aeda37699.jpg",
       "url": "https://link.coupang.com/a/h7KIcKNyAm",
@@ -4013,7 +3679,6 @@
     {
       "id": "gift_coupang_9750518058",
       "title": "트래블캣 머리밀착 4D 에어펌프 여행용 목베개",
-      "desc": "",
       "price": 18900,
       "imageUrl": "https://t3c.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/68a0/511eb8a330ad160f6008d57298e09bbbd5f43c9d5f892edefdcd590d275f.jpg",
       "url": "https://link.coupang.com/a/h7KINedVRs",
@@ -4025,7 +3690,6 @@
     {
       "id": "gift_coupang_8113728956",
       "title": "브런치브라더 로마네 Brunch Brother 여권 파우치 ver.2",
-      "desc": "",
       "price": 12400,
       "imageUrl": "https://thumbnail8.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/22883592390774-b108758f-71f0-4b87-88b8-b7f7a3c2fc43.jpg",
       "url": "https://link.coupang.com/a/h7KJMmNgQ0",
@@ -4037,7 +3701,6 @@
     {
       "id": "gift_coupang_9050882602",
       "title": "에가든 RFID차단 여행용 트래블러 패스포트 여권지갑",
-      "desc": "",
       "price": 42500,
       "imageUrl": "https://thumbnail8.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2025/09/09/15/1/576d6656-2c24-4887-89bb-82aa9d7bd077.jpg",
       "url": "https://link.coupang.com/a/h7KKmADxZs",
@@ -4049,7 +3712,6 @@
     {
       "id": "gift_coupang_8921749645",
       "title": "퍼니메이드 RFID차단 안티스키밍 가죽 여권 지갑",
-      "desc": "",
       "price": 16500,
       "imageUrl": "https://t5c.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/6a0c/fad5890a8aa6266c0ae27b7eb1f31647dbb3c9b865389d6a059956e7918a.jpg",
       "url": "https://link.coupang.com/a/h7KKWYpMGa",
@@ -4061,7 +3723,6 @@
     {
       "id": "gift_coupang_9037416009",
       "title": "민화 자개 여권 케이스 여권지갑 가죽케이스 여권커버",
-      "desc": "",
       "price": 29900,
       "imageUrl": "https://t3c.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/e042/b3662c9154e33c30655602e5311bd49f4950c849a4e57f5c55985a80cd4f.png",
       "url": "https://link.coupang.com/a/h7KLxtRbSC",
@@ -4073,7 +3734,6 @@
     {
       "id": "gift_coupang_8618815554",
       "title": "벨리안 해킹방지 프리미엄 가죽 여권 케이스 + 네임택 세트",
-      "desc": "",
       "price": 7340,
       "imageUrl": "https://thumbnail11.coupangcdn.com/thumbnails/remote/212x212ex/image/retail/images/2025/02/26/16/9/07e46358-9c68-4ed5-b719-aa8e8d90276a.jpg",
       "url": "https://link.coupang.com/a/h7KL9dX8do",
@@ -4085,7 +3745,6 @@
     {
       "id": "gift_coupang_7720644708",
       "title": "너의우산이되어줄께 올리브나무 세트, 혼합색상, 1세트",
-      "desc": "",
       "price": 21800,
       "imageUrl": "https://thumbnail2.coupangcdn.com/thumbnails/remote/212x212ex/image/rs_quotation_api/hn2eqkhp/41780e5093d74cbcb8286759a9803390.jpg",
       "url": "https://link.coupang.com/a/h7KNaCyqiq",
@@ -4097,7 +3756,6 @@
     {
       "id": "gift_coupang_9006047240",
       "title": "모리앤 복을 부르는 보석금전수 화분 + 쇼핑백, 혼합색상, 1개",
-      "desc": "",
       "price": 35900,
       "imageUrl": "https://t3a.coupangcdn.com/thumbnails/remote/212x212ex/image/rs_quotation_api/pmafitrw/960242c9dba749bca53077960c138cd2.jpg",
       "url": "https://link.coupang.com/a/h7KNLqED7s",
@@ -4109,7 +3767,6 @@
     {
       "id": "gift_coupang_9144537092",
       "title": "메무모 행운 네잎클로버 미니화분 선물세트, 네잎클로버 1송이 화분, 1개, 그린",
-      "desc": "",
       "price": 15900,
       "imageUrl": "https://thumbnail8.coupangcdn.com/thumbnails/remote/212x212ex/image/vendor_inventory/7c06/86807321bb475ee00b8e77098619dbb82ada18a1c682a90d132eb2a902a1.png",
       "url": "https://link.coupang.com/a/h7KOnANjX2",
@@ -4121,7 +3778,6 @@
     {
       "id": "gift_coupang_9172251269",
       "title": "모리앤 달항아리에 심은 마오리소포라, 혼합색상, 1개",
-      "desc": "",
       "price": 28900,
       "imageUrl": "https://t3a.coupangcdn.com/thumbnails/remote/212x212ex/image/rs_quotation_api/4orndoky/5899bd3e81cf416fb2a4af17cac83ffc.jpg",
       "url": "https://link.coupang.com/a/h7KOZZ2f9g",
@@ -4133,7 +3789,6 @@
     {
       "id": "gift_coupang_6263418750",
       "title": "메이크정글 공기정화 수경식물 나한송 TIPI 기프트세트, 혼합색상, 1세트",
-      "desc": "",
       "price": 18900,
       "imageUrl": "https://t2c.coupangcdn.com/thumbnails/remote/212x212ex/image/1025_amir_coupang_oct_80k/321b/9091ecb61b7cd6f0ab2481a25897e5e2c81fe2b9b80596f8f6eada74d8d2.jpg",
       "url": "https://link.coupang.com/a/h7KPz8t9Ou",
